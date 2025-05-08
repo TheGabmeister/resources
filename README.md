@@ -184,52 +184,52 @@ enough computational power to simulate reality.”
 
 
 ### User Interface
-- ben ui Unreal Engine and YouTube videos
+- [ben ui Unreal Engine](https://benui.ca/) and [YouTube videos](https://www.youtube.com/@benui)
 
 ### GPU / Graphics Profiling and Optimization
-- Optimizing and Debugging Projects for Real-Time Rendering in Unreal Engine Docs
-- Optimizing UE5: Advanced Rendering, Graphics Performance, and Memory Management
-- Dissecting a Frame with RenderDoc (2023) by Tech Art Aid
-- UE5: Optimizing Memory Usage of Textures & Meshes (2023) by Tech Art Aid
-- Shader Optimization – True Instruction Cost, Performance Tips (2022) by Tech Art Aid
-- Unreal Engine Game Optimization on a Budget (2022) by Tom Looman
-- Deep Dive: Memory Management in Blueprints (2020) by Jesse Humphy
-- Deep Dive: Memory Management in Blueprints II (2020) by Jesse Humphy
-- An In-Depth Look at Real-Time Rendering (2019) by Sjoerd de Jong
-- Profiling and Optimization in UE4 (2019) by Paulo Souza
-- Performance Optimization for Environments (2020) by Matt Oztalay and Jakob Keudel
+- [Optimizing and Debugging Projects for Real-Time Rendering](https://dev.epicgames.com/documentation/en-us/unreal-engine/optimizing-and-debugging-projects-for-real-time-rendering-in-unreal-engine) in Unreal Engine Docs
+- [Optimizing UE5: Advanced Rendering, Graphics Performance, and Memory Management](https://dev.epicgames.com/community/learning/knowledge-base/9Jx9/unreal-engine-optimizing-ue5-advanced-rendering-graphics-performance-and-memory-management-resources)
+- [Dissecting a Frame with RenderDoc](https://www.youtube.com/watch?v=7eznPe3TyAY) (2023) by Tech Art Aid
+- [UE5: Optimizing Memory Usage of Textures &amp; Meshes](https://www.youtube.com/watch?v=PQtrB-c6zhc) (2023) by Tech Art Aid
+- [Shader Optimization – True Instruction Cost, Performance Tips](https://www.youtube.com/watch?v=y0QASid1v8w) (2022) by Tech Art Aid
+- [Unreal Engine Game Optimization on a Budget](https://www.tomlooman.com/unrealengine-optimization-talk/) (2022) by Tom Looman
+- [Deep Dive: Memory Management in Blueprints](https://www.jesseleehumphry.com/post/deep-dive-memory-management-in-blueprints) (2020) by Jesse Humphy
+- [Deep Dive: Memory Management in Blueprints II](https://www.jesseleehumphry.com/post/deep-dive-memory-management-in-blueprints-ii) (2020) by Jesse Humphy
+- [An In-Depth Look at Real-Time Rendering](https://www.unrealengine.com/en-US/onlinelearning-courses/an-in-depth-look-at-real-time-rendering) (2019) by Sjoerd de Jong
+- [Profiling and Optimization in UE4](https://www.youtube.com/watch?v=EbXakIuZPFo) (2019) by Paulo Souza
+- [Performance Optimization for Environments](https://www.youtube.com/watch?v=ZRaeiVAM4LI) (2020) by Matt Oztalay and Jakob Keudel
 
 ### Lighting
-- Understanding Lightmapping in Unreal Engine in documentation
-- Generating Lightmap UVs in documentation
-- Modular Asset Lighting Problem
-- Unreal Engine 4 Lighting Masterclass Summary (2017) by Tom Looman (talk by Jerome Platteaux)
-- Unreal Engine 4 Lighting Academy by 51Daedalus
+- [Understanding Lightmapping in Unreal Engine](https://docs.unrealengine.com/5.0/en-US/understanding-lightmapping-in-unreal-engine/) in documentation
+- [Generating Lightmap UVs](https://docs.unrealengine.com/5.0/en-US/generating-lightmap-uvs-in-unreal-engine/) in documentation
+- [Modular Asset Lighting Problem](https://forums.unrealengine.com/t/modular-asset-lighting-problem/12223)
+- [Unreal Engine 4 Lighting Masterclass Summary](https://www.tomlooman.com/lighting-with-unreal-engine-jerome/) (2017) by Tom Looman (talk by Jerome Platteaux)
+- [Unreal Engine 4 Lighting Academy](https://www.youtube.com/user/51Daedalus/playlists) by 51Daedalus
 
 ### Networking / Multiplayer
-- Unreal Engine Multiplayer Tips and Tricks by WizardCell
-- Persistent Data Compendium by WizardCell
-- Multiplayer Network Compendium by Cedric Neukirchen
-- [UE4] The Secret of Multiplayer | Ownership (2021) by Aaron Hunt
-- Multiplayer in Unreal Engine: How to Understand Network Replication (2020) by Alex Forsythe
-- Unreal Engine Multiplayer Framework (2022) by Kekdot
-- https://unreal-mmo-dev.com
-- Kieran Newland Blog
+- [Unreal Engine Multiplayer Tips and Tricks](https://wizardcell.com/unreal/multiplayer-tips-and-tricks/) by WizardCell
+- [Persistent Data Compendium](https://wizardcell.com/unreal/persistent-data/) by WizardCell
+- [Multiplayer Network Compendium](https://cedric-neukirchen.net/docs/category/multiplayer-network-compendium/) by Cedric Neukirchen
+- [\[UE4\] The Secret of Multiplayer | Ownership](https://www.youtube.com/watch?v=k4_n5LD5Ees) (2021) by Aaron Hunt
+- [Multiplayer in Unreal Engine: How to Understand Network Replication](https://www.youtube.com/watch?v=JOJP0CvpB8w) (2020) by Alex Forsythe
+- [Unreal Engine Multiplayer Framework](https://www.youtube.com/watch?v=Hsr6mbNKBLU) (2022) by Kekdot
+- <https://unreal-mmo-dev.com>
+- [Kieran Newland Blog](https://www.kierannewland.co.uk/blog/)
 
 ### Pixel Streaming
-- Pixel Streaming documentation
-- Interacting with the Pixel Streaming System
-- Pixel Streaming servers and frontend GitHub repo
-- Frontend Communication with Unreal Engine Client (2023) by Betide Studio
-- Voice Chat with Unreal Engine Client (2023) by Betide Studio
-- How to Pixel Stream Unreal Engine 5.2 on AWS Instance (Windows) (2023) by Eagle 3D Streaming
-- 4Players ODIN – Voice Chat SDK compatible with pixel streaming
+- [Pixel Streaming documentation](https://docs.unrealengine.com/5.2/en-US/pixel-streaming-in-unreal-engine/)
+- [Interacting with the Pixel Streaming System](https://docs.unrealengine.com/5.2/en-US/interacting-with-the-pixel-streaming-system-in-unreal-engine/)
+- [Pixel Streaming servers and frontend GitHub repo](https://github.com/EpicGames/PixelStreamingInfrastructure)
+- [Frontend Communication with Unreal Engine Client](https://www.youtube.com/watch?v=lBR3yQuztqI) (2023) by Betide Studio
+- [Voice Chat with Unreal Engine Client](https://www.youtube.com/watch?v=bg0nGVlzfgg) (2023) by Betide Studio
+- [How to Pixel Stream Unreal Engine 5.2 on AWS Instance (Windows)](https://www.youtube.com/watch?v=vviTeRnVlHk) (2023) by Eagle 3D Streaming
+- [4Players ODIN - Voice Chat SDK](https://www.unrealengine.com/marketplace/en-US/product/4players-odin-sdk) compatible with pixel streaming
 
 ### Crash Troubleshooting
-- GPU Crash Debugging in Unreal Engine: Tools, Techniques, and Best Practices (2023) by Thijs van Wingerden
-- Crashing With Style in Unreal Engine (2022) by Ari Arnbjörnsson
-- What do you do when Unreal Editor crashes? (2020) by Alex Forsythe
-- Crash Reporting in Unreal Engine. NOTE: Download Editor symbols for debugging if you’re using Unreal Engine from the Epic Launcher. These will allow the Crash Reporter to show you a detailed call stack. Moreover, the Crash Reporter does not show up when you’re using a UE5 Editor Source Build from GitHub. Instead, you need to run Debug Mode in Visual Studio.
+- [GPU Crash Debugging in Unreal Engine: Tools, Techniques, and Best Practices](https://www.youtube.com/watch?v=CyrGLMmVUAI) (2023) by Thijs van Wingerden
+- [Crashing With Style in Unreal Engine](https://www.youtube.com/watch?v=ow__LgMF5gE) (2022) by Ari Arnbjörnsson
+- [What do you do when Unreal Editor crashes?](https://www.youtube.com/watch?v=TXZGIvpEhW8) (2020) by Alex Forsythe
+- [Crash Reporting](https://dev.epicgames.com/documentation/en-us/unreal-engine/crash-reporting-in-unreal-engine) in Unreal Engine. **NOTE**: Download ***Editor symbols for debugging*** if you're using Unreal Engine from the Epic Launcher. These will allow the Crash Reporter to show you a detailed call stack. Moreover, the Crash Reporter does not show up when you're using a UE5 Editor Source Build from GitHub. Instead, you need to run Debug Mode in Visual Studio.
 
 ### Others
 - [How to use delays in C++ in Unreal Engine](https://georgy.dev/posts/how-to-use-delays/)
@@ -248,48 +248,47 @@ but they stay because of all the things they can be."
 
 - Wade Watts, Ready Player One (2018) - 
 ```
-- Beej’s Guide to Network Programming (2025) by Brian Hall
-- Choosing the right network model for your multiplayer game (2024) by Glenn Fiedler
-- The Ultimate Guide to Forwarding Ports in Your Router (2021) by Jason Bauer
-- Netcode 101 – What You Need To Know (2017) by Battle(non)sense
-- Gaffer On Games Articles by Glenn Fiedler
-- BaaS + Game Server Comparison Sheet by Imperium42
-- Multiplayer Networking Resources on GitHub
-- Más Bandwidth articles
-- Development and Deployment of Multiplayer Online Games (2015) by No Bugs Hare
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/) (2025) by Brian Hall
+- [Choosing the right network model for your multiplayer game](https://mas-bandwidth.com/choosing-the-right-network-model-for-your-multiplayer-game/) (2024) by Glenn Fiedler
+- [The Ultimate Guide to Forwarding Ports in Your Router](https://portforward.com/how-to-port-forward/) (2021) by Jason Bauer
+- [Netcode 101 - What You Need To Know](https://www.youtube.com/watch?v=hiHP0N-jMx8) (2017) by Battle(non)sense
+- [Gaffer On Games Articles](https://gafferongames.com/) by Glenn Fiedler
+- [BaaS + Game Server Comparison Sheet](https://docs.google.com/spreadsheets/d/1x0eok6EZzigar_K3QNdzTYNhp5NLywLGqBuopKiVzao/) by Imperium42
+- [Multiplayer Networking Resources](https://github.com/0xFA11/MultiplayerNetworkingResources) on GitHub
+- [Más Bandwidth](https://mas-bandwidth.com/) articles
+- [Development and Deployment of Multiplayer Online Games](http://ithare.com/contents-of-development-and-deployment-of-massively-multiplayer-games-from-social-games-to-mmofps-with-stock-exchanges-in-between/) (2015) by No Bugs Hare
 
 ## Game Engine Programming
-- https://engine-programming.github.io/
-- Game Engine Architecture by Jason Gregory
-- Handmade Hero
-- Rendering Engine Architecture Conference
-- Tools to make a Game Engine in C++ (2022) by pikuma
-- Game Engine Black Book Doom
-- Custom Engines by Angelo “Encelo” Theodorou
+- <https://engine-programming.github.io/>
+- [Game Engine Architecture](https://www.gameenginebook.com/) by Jason Gregory
+- [Handmade Hero](https://www.youtube.com/playlist?list=PLnuhp3Xd9PYTt6svyQPyRO_AAuMWGxPzU)
+- [Rendering Engine Architecture Conference](https://enginearchitecture.org/)
+- [Tools to make a Game Engine in C++](https://www.youtube.com/watch?v=qK-GTuhZwUg) (2022) by pikuma
+- [Game Engine Black Book Doom](https://fabiensanglard.net/gebbdoom/)
+- [Custom Engines](https://encelo.github.io/CustomEnginesPresentation/) by Angelo "Encelo" Theodorou
 - [How to write a game engine in pure C](https://prdeving.wordpress.com/2019/05/30/how-to-write-a-game-engine-in-pure-c-part-1-state-manager/) (2019) by PRDeving
-- YouTube Series: The Cherno Game Engine (2018), Kohi Game Engine (2021)
+- YouTube Series: [The Cherno Game Engine](https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT) (2018), [Kohi Game Engine](https://www.youtube.com/playlist?list=PLv8Ddw9K0JPg1BEO-RS-0MYs423cvLVtj) (2021)
 
 ## Artificial Intelligence
-- Getting Started
-- Neural Networks by 3Blue1Brown
-- [1hr Talk] Intro to Large Language Models (2023) by Andrej Karpathy
-- Neural Networks: Zero to Hero by Andrej Karpathy
-- llama3 implemented from scratch (May, 2024) by Nishant Aklecha
-- AI Canon (May, 2023)
-- The Rise of the AI Engineer (Jun, 2023) by swyx & Alessio. Followed by Rise of the Planet of the AI Engineer (Mar, 2024) in Latent Space
-- LLM-Sampling
-- Prompt Engineering Guide
-- Comprehensive Guide to Chain-of-Thought Prompting by Maithili Badhan
-- Advanced Prompt Engineering Techniques by Maithili Badhan
+- [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) by 3Blue1Brown
+- [\[1hr Talk\] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) (2023) by Andrej Karpathy
+- [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) by Andrej Karpathy
+- [llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch) (May, 2024) by Nishant Aklecha
+- [AI Canon](https://a16z.com/ai-canon/) (May, 2023)
+- [The Rise of the AI Engineer](https://www.latent.space/p/ai-engineer) (Jun, 2023) by swyx &amp; Alessio. Followed by [Rise of the Planet of the AI Engineer](https://www.latent.space/i/143067206/rise-of-the-planet-of-the-ai-engineer) (Mar, 2024) in Latent Space
+- [LLM-Sampling](https://artefact2.github.io/llm-sampling/index.xhtml)
+- [Prompt Engineering Guide](https://www.promptingguide.ai/)
+- [Comprehensive Guide to Chain-of-Thought Prompting](https://www.mercity.ai/blog-post/guide-to-chain-of-thought-prompting) by Maithili Badhan
+- [Advanced Prompt Engineering Techniques](https://www.mercity.ai/blog-post/advanced-prompt-engineering-techniques) by Maithili Badhan
 
 ### Generative AI
-- Microsoft Generative AI for Beginners
-- Generative AI Handbook (June, 2024) by William Brown
-- https://generativeai.pub
-- Every Way To Get Structured Output From LLMs (May, 2024) by Sam Lijin
+- [Microsoft Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)
+- [Generative AI Handbook](https://genai-handbook.github.io/#) (June, 2024) by William Brown
+- <https://generativeai.pub>
+- [Every Way To Get Structured Output From LLMs](https://www.boundaryml.com/blog/structured-output-from-llms) (May, 2024) by Sam Lijin
 
 ### Publications
-- Good AI Podcasts and Newsletters by swyx
+- [Good AI Podcasts and Newsletters](https://github.com/swyxio/ai-notes/blob/main/Resources/Good%20AI%20Podcasts%20and%20Newsletters.md) by swyx
 
 ## 3D Environment Art
 ```
@@ -298,75 +297,75 @@ but they stay because of all the things they can be."
 - Leonardo da Vinci -
 ```
 ###Polycount Wiki
-The Polycount Wiki is “a catalog of information aimed at game development artists; whether professional, student, or hobbyist.” To be honest, this is the only resource you need if you’re starting out as a 3D Game Artist. It covers all the topics. Don’t be fooled by the old-school UI. This is the place where the AAA game artists hang-out. I’ll try and hand-pick a couple of links which are pertinent to 3D environment art:
+The [Polycount Wiki](http://wiki.polycount.com/wiki/Polycount) is "a catalog of information aimed at game development artists; whether professional, student, or hobbyist." To be honest, this is the only resource you need if you're starting out as a 3D Game Artist. It covers all the topics. Don't be fooled by the old-school UI. This is the place where the AAA game artists hang-out. I'll try and hand-pick a couple of links which are pertinent to 3D environment art:
 
 ### Environment Art Theory
-- Environment art isn’t about ‘making pretty things’…so, what’s it about? (2017) by Jason Hickey
-- Color in games: An in-depth look at one of game design’s most useful tools (2015) by Herman Tulleken
-- The Aesthetics of Game Art and Game Design (2013) by Chris Solarski
-- Applying the Elements of Design and Principles of Design in Level Art (2011) by Jeremy Price
+- [Environment art isn't about 'making pretty things'...so, what's it about?](https://www.gamasutra.com/view/news/300314/Environment_art_isnt_about_making_pretty_thingsso_whats_it_about.php) (2017) by Jason Hickey
+- [Color in games: An in-depth look at one of game design's most useful tools](https://www.gamasutra.com/blogs/HermanTulleken/20150729/249761/Color_in_games_An_indepth_look_at_one_of_game_designs_most_useful_tools.php) (2015) by Herman Tulleken
+- [The Aesthetics of Game Art and Game Design](https://www.gamasutra.com/view/feature/185676/the_aesthetics_of_game_art_and_.php) (2013) by Chris Solarski
+- [Applying the Elements of Design and Principles of Design in Level Art](https://www.gamasutra.com/blogs/JeremyPrice/20110318/7258/Applying_the_Elements_of_Design_and_Principles_of_Design_in_Level_Art.php) (2011) by Jeremy Price
 
 ### Concept Art
-Concept Fundamentals
-FZD School of Design videos by Feng Zhu
+- [Concept Fundamentals](http://wiki.polycount.com/wiki/Concept_Fundamentals)
+- [FZD School of Design videos](https://www.youtube.com/user/FZDSCHOOL/videos) by Feng Zhu
 
 ### 3D Modeling
-- Topology
-- Subdivision Surface Modeling
-- Vertex Normal
-- Topology Guides by Johnson Martin
+- [Topology](http://wiki.polycount.com/wiki/Topology)
+- [Subdivision Surface Modeling](http://wiki.polycount.com/wiki/Subdivision_Surface_Modeling)
+- [Vertex Normal](http://wiki.polycount.com/wiki/VertexNormal)
+- [Topology Guides](https://topologyguides.com/) by Johnson Martin
 
 ### Texturing
-- Environment Texturing Tutorials
-- Texture Coordinates
-- Channel Packing
-- Multi-Texture
-- Photogrammetry Thread (2014 to present) by littleclaude
+- [Environment Texturing Tutorials](http://wiki.polycount.com/wiki/Environment_Texturing)
+- [Texture Coordinates](http://wiki.polycount.com/wiki/Texture_Coordinates)
+- [Channel Packing](http://wiki.polycount.com/wiki/ChannelPacking)
+- [Multi-Texture](http://wiki.polycount.com/wiki/MultiTexture)
+- [Photogrammetry Thread](https://polycount.com/discussion/140949/photogrammetry-thread) (2014 to present) by littleclaude
 
 ### Normal Maps
-- Normal Map
-- Texture Baking
-- A Practical Guide on Normal Mapping for Games (2015) by Alexey Oshchepkov a.k.a. Superfranky
-- Of Bit Depths, Banding and Normal Maps (2015) by Joe “EarthQuake” Wilson
-- Skew you buddy! Making sense of skewed normal map details. (2015) by Joe “EarthQuake” Wilson
-- You’re making me hard. Making sense of hard edges, uvs, normal maps and vertex counts (2012) by Joe “EarthQuake” Wilson
-- Understanding averaged normals and ray projection/Who put waviness in my normal map? (2011) by Joe “EarthQuake” Wilson
+- [Normal Map](http://wiki.polycount.com/wiki/Normal_map)
+- [Texture Baking](http://wiki.polycount.com/wiki/Texture_Baking)
+- [A Practical Guide on Normal Mapping for Games](http://polycount.com/discussion/146667/a-practical-guide-on-normal-mapping-for-games) (2015) by Alexey Oshchepkov a.k.a. Superfranky
+- [Of Bit Depths, Banding and Normal Maps](https://polycount.com/discussion/107196/youre-making-me-hard-making-sense-of-hard-edges-uvs-normal-maps-and-vertex-counts) (2015) by Joe "EarthQuake" Wilson
+- [Skew you buddy! Making sense of skewed normal map details.](https://polycount.com/discussion/147227/skew-you-buddy-making-sense-of-skewed-normal-map-details) (2015) by Joe "EarthQuake" Wilson
+- [You're making me hard. Making sense of hard edges, uvs, normal maps and vertex counts](https://polycount.com/discussion/107196/youre-making-me-hard-making-sense-of-hard-edges-uvs-normal-maps-and-vertex-counts) (2012) by Joe "EarthQuake" Wilson
+- [Understanding averaged normals and ray projection/Who put waviness in my normal map?](https://polycount.com/discussion/81154/understanding-averaged-normals-and-ray-projection-who-put-waviness-in-my-normal-map) (2011) by Joe "EarthQuake" Wilson
 
 ### Lighting & Rendering
-- Lighting Resources
-- An In-Depth Look at Real-Time Rendering (2019) by Sjoerd de Jong
-- Unreal Engine 4 Lighting Academy by 51Daedalus
+- [Lighting Resources](http://wiki.polycount.com/wiki/Lighting)
+- [An In-Depth Look at Real-Time Rendering](https://www.unrealengine.com/en-US/onlinelearning-courses/an-in-depth-look-at-real-time-rendering) (2019) by Sjoerd de Jong
+- [Unreal Engine 4 Lighting Academy](https://www.youtube.com/user/51Daedalus/playlists) by 51Daedalus
 
 ### Physically-Based Rendering
-- Basic Theory of Physically-Based Rendering by Jeff Russell
-- Physically-Based Rendering, And You Can Too! by Joe “EarthQuake” Wilson
-- PBR Texture Conversion by Joe “EarthQuake” Wilson
+- [Basic Theory of Physically-Based Rendering](https://marmoset.co/posts/basic-theory-of-physically-based-rendering/) by Jeff Russell
+- [Physically-Based Rendering, And You Can Too!](https://marmoset.co/posts/physically-based-rendering-and-you-can-too/) by Joe "EarthQuake" Wilson
+- [PBR Texture Conversion](https://marmoset.co/posts/physically-based-rendering-and-you-can-too/) by Joe "EarthQuake" Wilson
 
 ### Modular Environments
-- Modular Design & Workflow
-- Creating Trim Textures 4 Part Free Tutorial – Step by Step (2019) by Tim Simpson
+- [Modular Design &amp; Workflow](http://wiki.polycount.com/wiki/Modular_environments)
+- [Creating Trim Textures 4 Part Free Tutorial - Step by Step](https://www.artstation.com/pixelmasher/blog/1zja/creating-trim-textures-4-part-free-tutorial-step-by-step) (2019) by Tim Simpson
 
 ### Landscapes & Foliage
-- Terrain Modeling and Texturing
-- Environment Scupting – Sculpting Tiled Maps
-- Foliage Tutorials
-- Grass Technique
-- Vertex Color
+- [Terrain Modeling and Texturing](http://wiki.polycount.com/wiki/Landscape)
+- [Environment Scupting - Sculpting Tiled Maps](http://wiki.polycount.com/wiki/EnvironmentSculpting)
+- [Foliage Tutorials](http://wiki.polycount.com/wiki/Foliage)
+- [Grass Technique](http://wiki.polycount.com/wiki/GrassTechnique)
+- [Vertex Color](http://wiki.polycount.com/wiki/Vertex_color)
 
 ### Optimization
-- Polygon vs. Triangle vs. Vertex Count
-- GPU Performance for Game Artists (2017) by Keith O’Conor
-- Polycount vs Vertex count (2013) by Matías Nazareth Goldberg
+- [Polygon vs. Triangle vs. Vertex Count](http://wiki.polycount.com/wiki/Polygon_Count)
+- [GPU Performance for Game Artists](http://fragmentbuffer.com/gpu-performance-for-game-artists/) (2017) by Keith O'Conor
+- [Polycount vs Vertex count](https://distantsoulsdev.blogspot.com/2013/02/polycount-vs-vertex-count.html) (2013) by Matías Nazareth Goldberg
 
 ### Technical Studies and Research
-- Game Art Tricks by Simon Schreibt
-- Graphics Studies Compilation (2020) by Adrian Courrèges
-- Interesting Research Thread (2014-2020) by littleclaude
+- [Game Art Tricks](https://simonschreibt.de/game-art-tricks/) by Simon Schreibt
+- [Graphics Studies Compilation](http://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/) (2020) by Adrian Courrèges
+- [Interesting Research](https://polycount.com/discussion/136458/interesting-research-thread) Thread (2014-2020) by littleclaude
 
 ### Career Advice
-- Freelance
-- Game Industry Tips
-- 8 Tips for Artists Struggling With Motivation (2018) by Tim Simpson
-- 10 Insider Tips for Digital Artists Applying to Game Studios (2018) by Tim Simpson
-- WHY Your portfolio needs to be on ArtStation (2018) by Tim Simpson
-- The Death of Curiosity (2016) by Joe “EarthQuake” Wilson
+- [Freelance](http://wiki.polycount.com/wiki/Freelance)
+- [Game Industry Tips](http://wiki.polycount.com/wiki/Game_Industry)
+- [8 Tips for Artists Struggling With Motivation](https://www.polygon-academy.com/tips-for-artists-struggling-with-motivation/) (2018) by Tim Simpson
+- [10 Insider Tips for Digital Artists Applying to Game Studios](https://www.polygon-academy.com/10-insider-tips-for-artists-applying-to-game-studios/) (2018) by Tim Simpson
+- [WHY Your portfolio needs to be on ArtStation](https://www.polygon-academy.com/why-your-portfolio-needs-to-be-on-artstation/) (2018) by Tim Simpson
+- [The Death of Curiosity](https://polycount.com/discussion/171153/the-death-of-curiosity) (2016) by Joe "EarthQuake" Wilson

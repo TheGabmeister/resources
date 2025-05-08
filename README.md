@@ -4,52 +4,52 @@ This page is a collection of links that have helped me throughout my career as a
 ## XR
 
 ### Meta Quest
-- Oculus Documentation
-- Code Samples
-- Capture MR and VR Apps for Publishing
-- Making a Mesh: Global Mesh Destruction in First Encounters (2023)
-- How to Improve Unreal Engine Material Shader with Adreno Offline Compiler (2023)
-- Improve App Image Quality with Meta Quest Super Resolution (2023)
-- Project Flowerbed: A WebXR Case Study (2023)
-- The Evolution & Implementation of Hand Tracking in ‘Myst’ (2022)
-- Building Your Multiplayer VR Experience (2022)
-- Showdown on Quest Part 1 (2022) by Zac Drake
-- Getting a Handle on Meta Quest Memory Usage (2022)
-- Oculus Multiplayer Development Quick Start Guide (2022)
-- Avoiding Hitches When Loading Scenes in Unity (2021)
-- Unity Profiler & Profile Analyzer Data on Quest (2021)
-- Using Vulkan Subpasses in UE4 for Performant Tone Mapping on Quest (2021)
-- Unreal Insights on Oculus Quest (2021)
-- Optimizing Performance For Fast-Paced Interactions on Quest (2019)
+- [Meta Horizon OS Developers](https://developers.meta.com/horizon/develop/)
+- [Code Samples](https://developer.oculus.com/code-samples/)
+- [Capture MR and VR Apps for Publishing](https://developers.meta.com/horizon/resources/video-capture-mr-vr/)
+- [Making a Mesh: Global Mesh Destruction in First Encounters](https://developers.meta.com/horizon/blog/scene-mesh-destruction-first-encounters-meta-quest-developers-mixed-reality/) (2023)
+- [How to Improve Unreal Engine Material Shader with Adreno Offline Compiler](https://developers.meta.com/horizon/blog/unreal-engine-adreno-offline-compiler-meta-quest/) (2023)
+- [Improve App Image Quality with Meta Quest Super Resolution](https://developers.meta.com/horizon/blog/vr-image-quality-meta-quest-super-resolution/) (2023)
+- [Project Flowerbed: A WebXR Case Study](https://developers.meta.com/horizon/blog/project-flowerbed-a-webxr-case-study/) (2023)
+- [The Evolution & Implementation of Hand Tracking in ‘Myst’](https://developers.meta.com/horizon/blog/the-evolution-and-implementation-of-hand-tracking-in-myst/) (2022)
+- [Building Your Multiplayer VR Experience](https://developers.meta.com/horizon/blog/building-your-multiplayer-vr-experience-platform-sdk-and-unity-sharedspaces-sample/) (2022)
+- [Showdown on Quest Part 1](https://developers.meta.com/horizon/blog/showdown-on-quest-part-1-how-app-spacewarp-improves-performance-/) (2022) by Zac Drake
+- [Getting a Handle on Meta Quest Memory Usage](https://developers.meta.com/horizon/blog/getting-a-handle-on-meta-quest-memory-usage/) (2022)
+- [Oculus Multiplayer Development Quick Start Guide](https://developers.meta.com/horizon/blog/oculus-multiplayer-development-quick-start-guide/) (2022)
+- [Avoiding Hitches When Loading Scenes in Unity](https://developers.meta.com/horizon/blog/avoiding-hitches-when-loading-scenes-in-unity/) (2021)
+- [Unity Profiler & Profile Analyzer Data on Quest](https://developers.meta.com/horizon/blog/get-started-with-the-unity-profiler-amp-profile-analyzer-data-on-quest/) (2021)
+- [Using Vulkan Subpasses in UE4 for Performant Tone Mapping on Quest](https://developers.meta.com/horizon/blog/graphics-showcase-using-vulkan-subpasses-in-ue4-for-performant-tone-mapping-on-quest/) (2021)
+- [Unreal Insights on Oculus Quest](https://developers.meta.com/horizon/blog/get-started-with-unreal-insights-on-the-oculus-quest/) (2021)
+- [Optimizing Performance For Fast-Paced Interactions on Quest](https://developers.meta.com/horizon/blog/developer-perspective-optimizing-performance-for-fast-paced-interactions-on-quest/) (2019)
 
 ### Meta Developers YouTube Channel
 
-- State of Compute: Maximizing Performance on Meta Quest (2023)
-- Developing Marvel’s Iron Man VR for Meta Quest (2023)
-- Performance and Optimization on Meta Quest Platform (2022)
-- State of the Art GPU Profiling on Quest l Facebook Connect (2021) by Meta Quest
+- [State of Compute: Maximizing Performance on Meta Quest](https://www.youtube.com/watch?v=M6RKMXQbtWk) (2023)
+- [Developing Marvel’s Iron Man VR for Meta Quest](https://www.youtube.com/watch?v=Z0be5hidNBk) (2023)
+- [Performance and Optimization on Meta Quest Platform](https://www.youtube.com/watch?v=5Tll_sYZ83w) (2022)
+- [State of the Art GPU Profiling on Quest l Facebook Connect](https://www.youtube.com/watch?v=0qMyqYiqnvk) (2021) by Meta Quest
 
 ### XR in Unreal Engine
-- XR Best Practices in UE Documentation
-- XR Performance and Profiling in UE Documentation
-- Profiling with Stereo Rendering (2024) by Epic Online Learning
-- What You Didn’t Know About VR Development in Unreal Engine (2023)
-- What are the Performance-killer for VR? (2021) in UE Forums
-- Oculus Quest Performance Tools in Unreal Engine (2020) by Shahriar Shahrabi
+- [XR Best Practices](https://dev.epicgames.com/documentation/en-us/unreal-engine/xr-best-practices-in-unreal-engine) in UE Documentation
+- [XR Performance and Profiling](https://dev.epicgames.com/documentation/en-us/unreal-engine/xr-performance-and-profiling-in-unreal-engine) in UE Documentation
+- [Profiling with Stereo Rendering](https://dev.epicgames.com/community/learning/tutorials/bOLv/unreal-engine-profiling-with-stereo-rendering-xr) (2024) by Epic Online Learning
+- [What You Didn’t Know About VR Development in Unreal Engine](https://www.youtube.com/watch?v=vT1T2unF8EI) (2023)
+- [What are the Performance-killer for VR?](https://forums.unrealengine.com/t/what-are-the-performance-killer-for-vr-eg-oculusquest2-all-postprocess-all-screen-space/248143) (2021) in UE Forums
+- [Oculus Quest Performance Tools in Unreal Engine](https://medium.com/realities-io/oculus-quest-performance-tools-in-unreal-engine-2210f2581c8f) (2020) by Shahriar Shahrabi
 ### XR in Unity
-- XR in Unity Documentation
-- VR Optimization and Performance Tips for Unity (2021) by VRwithAndrew
+- [XR](https://docs.unity3d.com/6000.0/Documentation/Manual/XR.html) in Unity Documentation
+- [VR Optimization and Performance Tips for Unity](https://www.youtube.com/watch?v=xqgt9W4Zrjg) (2021) by VRwithAndrew
 ### VR Rendering Issues
-- UNITY Aliasing FIX, Jaggy Noisy Blinking edges in VR URP (2024) by NikoVR
-- Flickering in Unity VR: Fix Flickering and Pixel Noise on Edge (2023) by Roadway VR
-- Behind the Scenes of ‘COMPOUND,’ a New Hardcore Rogue-Lite VR FPS (2022)
-- MSAA + 3D Widgets = Horrible jagged edges (2020) in UE Forums
-- How to improve visual rendering quality in VR (2019) by Ryan O’Shea
-- Common Rendering Mistakes (2019) by Trevor Dasch
-- Anti-aliased Alpha Test (2017) by Ben Golus
-- Steps to Avoid Aliasing in VR (2016) by John Carmack
+- [UNITY Aliasing FIX, Jaggy Noisy Blinking edges in VR URP](https://www.youtube.com/watch?v=_fKaESkzPT0) (2024) by NikoVR
+- [Flickering in Unity VR: Fix Flickering and Pixel Noise on Edge](https://www.youtube.com/watch?v=Lls93SG94Os) (2023) by Roadway VR
+- [Behind the Scenes of ‘COMPOUND,’ a New Hardcore Rogue-Lite VR FPS](https://developer.oculus.com/blog/compound-rogue-lite-vr-fps/) (2022)
+- [MSAA + 3D Widgets = Horrible jagged edges](https://forums.unrealengine.com/t/msaa-3d-widgets-horrible-jagged-edges/138040) (2020) in UE Forums
+- [How to improve visual rendering quality in VR](https://www.youtube.com/watch?v=wyUfZpz4Aw8) (2019) by Ryan O’Shea
+- [Common Rendering Mistakes](https://developer.oculus.com/blog/common-rendering-mistakes-how-to-find-them-and-how-to-fix-them/) (2019) by Trevor Dasch
+- [Anti-aliased Alpha Test](https://bgolus.medium.com/anti-aliased-alpha-test-the-esoteric-alpha-to-coverage-8b177335ae4f) (2017) by Ben Golus
+- [Steps to Avoid Aliasing in VR](https://news.ycombinator.com/item?id=12183340) (2016) by John Carmack
 ### Others
-- The Ultimate XR Developers Resource Guide by authorTom
+- [The Ultimate XR Developers Resource Guide](https://github.com/authorTom/ultimate-XR-dev-guide) by authorTom
 
 ## Programming
 

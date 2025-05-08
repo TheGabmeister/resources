@@ -164,11 +164,11 @@ enough computational power to simulate reality.”
 
 - Tim Sweeney, CEO of Epic Games -
 ```
-- Unreal Engine Documentation
-- Unreal Engine 5 Style Guide by Michael Allar
-- Open Unreal Conventions by Jonas Reich
-- Unreal Engine Learning Library
-- Unreal Engine Learning Resources by Tom Looman
+- [Unreal Engine Documentation](https://docs.unrealengine.com/)
+- [Unreal Engine 5 Style Guide](https://github.com/Allar/ue5-style-guide/tree/v2) by Michael Allar
+- [Open Unreal Conventions](https://jonasreich.github.io/OpenUnrealConventions/) by Jonas Reich
+- [Unreal Engine Learning Library](https://dev.epicgames.com/community/unreal-engine/learning)
+- [Unreal Engine Learning Resources](https://www.tomlooman.com/unreal-engine-resources/) by Tom Looman
 
 ### C++ / Blueprints
 - The Gabmeister Unreal Engine C++ Code Reference by The Gabmeister
@@ -179,7 +179,9 @@ enough computational power to simulate reality.”
 - State Design Pattern in Unreal Engine Blueprint (2020) by Paul Gestwicki
 - Best Practices for Creating and Using Plugins (2019) by Max Preussner
 - Unreal Property System – Reflection (2014) by Michael Noland
+- [Managing complexity in Blueprints](https://www.unrealengine.com/en-US/blog/managing-complexity-in-blueprints) (2014) by Michael Noland
 - Mr Robin Getting Started C++
+
 
 ### User Interface
 - ben ui Unreal Engine and YouTube videos
@@ -228,6 +230,16 @@ enough computational power to simulate reality.”
 - Crashing With Style in Unreal Engine (2022) by Ari Arnbjörnsson
 - What do you do when Unreal Editor crashes? (2020) by Alex Forsythe
 - Crash Reporting in Unreal Engine. NOTE: Download Editor symbols for debugging if you’re using Unreal Engine from the Epic Launcher. These will allow the Crash Reporter to show you a detailed call stack. Moreover, the Crash Reporter does not show up when you’re using a UE5 Editor Source Build from GitHub. Instead, you need to run Debug Mode in Visual Studio.
+
+### Others
+- [How to use delays in C++ in Unreal Engine](https://georgy.dev/posts/how-to-use-delays/)
+- [Reducing build size of Android or iOS game in Unreal Engine](https://georgy.dev/posts/reducing-mobile-build-size/)
+- [How to integrate third-party library into Unreal Engine](https://georgy.dev/posts/third-party-integration/)
+- Events vs Functions [[1](https://forums.unrealengine.com/t/function-vs-custom-event/1988)][[2](https://forums.unrealengine.com/t/event-functions-whats-the-main-difference-between-them/351110)]. Function can return value(s). Event cannot have any output. Event can use Delay node or timelines, functions cannot. Functions are guaranteed to execute and return immediately by limiting what kinds of nodes can be placed in a function (latent actions, timelines, etc… are all prohibited). Function can use local variables(s).
+- [Interfaces vs Casting performance](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/ActorCommunication/InterfaceQuickStart/). "There are also performance benefits when Interfaces over casting, as loading an Actor that casts to another Actor will subsequently load that Actor to memory as well. If not treated carefully, this could result in a cascading loading effect where loading a single Actor results in several other Actors being loaded into memory as well."
+- [Tom Looman](https://www.tomlooman.com/)
+- Mr Robin’s [Guide to Unreal Engine C++](https://github.com/MrRobinOfficial/Guide-UnrealEngine)
+- [Unreal Engine Community Wiki](https://unrealcommunity.wiki/)
 
 ## Networking / Multiplayer
 ```

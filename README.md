@@ -1,12 +1,11 @@
 # The Gabmeister Resources
 This page is a collection of links that have helped me throughout my career as a VR, AR, Unreal Engine, and Unity Developer. I’m constantly updating this list, removing old items and adding new ones. I try to remove those that are older than 5 years old. However, there are exceptions which I truly believe contain information that are relevant today. I hope that these resources assist you in your journey.
-
----
-
+```
 "Unfortunately, no one can be told what the Matrix is.
 You have to see it for yourself."
-Morpheus, The Matrix (1999)
----
+
+- Morpheus, The Matrix (1999) -
+```
 ## XR
 
 ### Meta Quest
@@ -58,7 +57,11 @@ Morpheus, The Matrix (1999)
 - [The Ultimate XR Developers Resource Guide](https://github.com/authorTom/ultimate-XR-dev-guide) by authorTom
 
 ## Programming
+```
+"Talk is cheap. Show me the code."
 
+- Linus Torvalds, creator of Linux -
+```
 ### Assembly
 - Assembly Language for x86 Processors, 8th edition (2019) book by Kip R. Irvine
 - [The Art of Picking Intel Registers](https://www.swansontec.com/sregisters.html) (2003) by William Swanson
@@ -111,44 +114,56 @@ Morpheus, The Matrix (1999)
 - [GitHub Ranking Top 100 Stars](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-stars.md)
 
 ## Unity
+```
+"I think the unmissable "skill" is the drive to create. 
+If you have that drive, Unity will give you back thousandfold."
+
+- David Helgason, Co-founder of Unity -
+```
 - [Unity User Manual](https://docs.unity3d.com/Manual/index.html)
 - [Technical deep dive: Unity best practices](https://unity.com/how-to)
 
 C# Programming
-- Unity Production Architecture by Mody
-- Create modular game architecture in Unity with ScriptableObjects (2023) by Unity
-- Create a C# style guide: Write cleaner code that scales (2023) by Unity
-- Functional Unity Architecture: A Developer’s Guide 2023 by Bruno Mikoski
-- Level up your code with game programming patterns by Thomas Krogh-Jacobsen (2022). Complete PDF version here.
-- Game programming patterns in Unity by Erik Nordeus
-- Unity Clean Code by Lucas Sampaio Dias
-- DeltaTime (2023) by Jonas Tyroller
-- Unity Architecture for Noobs – Game Structure (2021) by Tarodev
-- Three ways to architect your game with ScriptableObjects (2020) by Unity
-- How to get a variable from another script in Unity (2020) by John French
-- How to Get Variables from Other Scripts in Unity (2020) by Jason Storey
-- Game Architecture with Scriptable Objects (2017) byRyan Hipple
-- Unity Software Design – Introduction (2016) by Luke Thompson
+- [Unity Production Architecture](https://unity-architecture.com/) by Mody
+- [Create modular game architecture in Unity with ScriptableObjects](https://unity.com/resources/create-modular-game-architecture-with-scriptable-objects-ebook) (2023) by Unity
+- [Create a C# style guide: Write cleaner code that scales](https://unity.com/resources/create-code-c-sharp-style-guide-e-book) (2023) by Unity
+- [Functional Unity Architecture: A Developer’s Guide](https://medium.com/@bada/functional-unity-architecture-a-developers-guide-359e5111c5c2) 2023 by Bruno Mikoski
+- [Level up your code with game programming patterns](https://unity.com/blog/games/level-up-your-code-with-game-programming-patterns) by Thomas Krogh-Jacobsen (2022). Complete PDF version [here](https://resources.unity.com/games/level-up-your-code-with-game-programming-patterns).
+- [Game programming patterns in Unity](https://github.com/Habrador/Unity-Programming-Patterns) by Erik Nordeus
+- [Unity Clean Code](https://github.com/sampaiodias/unity-clean-code) by Lucas Sampaio Dias
+- [DeltaTime](https://www.youtube.com/watch?v=yGhfUcPjXuE) (2023) by Jonas Tyroller
+- [Unity Architecture for Noobs](https://www.youtube.com/watch?v=tE1qH8OxO2Y) – Game Structure (2021) by Tarodev
+- [Three ways to architect your game with ScriptableObjects](https://unity.com/how-to/architect-game-code-scriptable-objects) (2020) by Unity
+- [How to get a variable from another script in Unity](https://gamedevbeginner.com/how-to-get-a-variable-from-another-script-in-unity-the-right-way/) (2020) by John French
+- [How to Get Variables from Other Scripts in Unity](https://www.youtube.com/watch?v=7gRrujBjsFo) (2020) by Jason Storey
+- [Game Architecture with Scriptable Objects](https://www.youtube.com/watch?v=raQ3iHhE_Kk) (2017) byRyan Hipple
+- [Unity Software Design – Introduction](http://www.sigtrapgames.com/unity-software-design-introduction/) (2016) by Luke Thompson
 
 ### Optimization
-- When Optimisations Work, But for the Wrong Reasons (2024) by SimonDev
-- Performance optimization tips: Physics in Unity (2021) by Unity Technologies
-- Optimization tips for maximum performance – Part 1 (2020) by Unity Technologies
-- Optimization tips for maximum performance – Part 2 (2020) by Unity Technologies
-- Fixing Performance Problems (2020) by Unity Technologies
-- Optimizing Graphics in Unity (2018) by Unity Technologies
-- Squeezing Unity: Tips for raising performance (2017) by Unity Technologies
-- Unity Draw Call Batching: The Ultimate Guide (2020) by Ruben Torres Bonet
-- Event Performance: C# vs. UnityEvent (2016) by Jackson Dunstan
-- Unity Optimization Tips: Mobile & Desktop (2022) by Makaka Games
-- Performance recommendations for Unity (2022) in Microsoft Documentation
+- [When Optimisations Work, But for the Wrong Reasons](https://www.youtube.com/watch?v=hf27qsQPRLQ) (2024) by SimonDev
+- [Performance optimization tips: Physics in Unity](https://www.youtube.com/watch?v=pTz3LMQpvfA) (2021) by Unity Technologies
+- [Optimization tips for maximum performance – Part 1](https://www.youtube.com/watch?v=ZRDHEqy2uPI) (2020) by Unity Technologies
+- [Optimization tips for maximum performance – Part 2](https://www.youtube.com/watch?v=EK8sX8oCQbw) (2020) by Unity Technologies
+- [Fixing Performance Problems](https://learn.unity.com/tutorial/fixing-performance-problems-2019-3-1) (2020) by Unity Technologies
+- [Optimizing Graphics in Unity](https://learn.unity.com/tutorial/optimizing-graphics-in-unity) (2018) by Unity Technologies
+- [Squeezing Unity: Tips for raising performance](https://www.youtube.com/watch?v=_wxitgdx-UI) (2017) by Unity Technologies
+- [Unity Draw Call Batching: The Ultimate Guide](https://thegamedev.guru/unity-performance/draw-call-optimization/) (2020) by Ruben Torres Bonet
+- [Event Performance: C# vs. UnityEvent](https://www.jacksondunstan.com/articles/3335) (2016) by Jackson Dunstan
+- [Unity Optimization Tips: Mobile & Desktop](https://makaka.org/unity-tutorials/optimization) (2022) by Makaka Games
+- [Performance recommendations for Unity](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/performance-recommendations-for-unity) (2022) in Microsoft Documentation
 
 ### Networking / Multiplayer
-- Unity Realtime Multiplayer (2023) by Dimitrii Ivashchenko
-- Multiplayer Game Architecture in Unity (2020) by Shrine Wars
-- High Performance Game Networking in Unity3D + Q&A (2019) by Kyle Olsen and Jason Weimann
+- [Unity Realtime Multiplayer](https://hackernoon.com/unity-realtime-multiplayer-part-1-networking-basics) (2023) by Dimitrii Ivashchenko
+- [Multiplayer Game Architecture in Unity](https://www.youtube.com/watch?v=77vYKsXC4IE) (2020) by Shrine Wars
+- [High Performance Game Networking in Unity3D + Q&A](https://www.youtube.com/watch?v=5b6k_ywdjw4) (2019) by Kyle Olsen and Jason Weimann
 
 ## Unreal Engine
+```
+“Within our lifetimes, we will be able to push out 
+enough computational power to simulate reality.”
+
+- Tim Sweeney, CEO of Epic Games -
+```
 - Unreal Engine Documentation
 - Unreal Engine 5 Style Guide by Michael Allar
 - Open Unreal Conventions by Jonas Reich
@@ -215,6 +230,12 @@ C# Programming
 - Crash Reporting in Unreal Engine. NOTE: Download Editor symbols for debugging if you’re using Unreal Engine from the Epic Launcher. These will allow the Crash Reporter to show you a detailed call stack. Moreover, the Crash Reporter does not show up when you’re using a UE5 Editor Source Build from GitHub. Instead, you need to run Debug Mode in Visual Studio.
 
 ## Networking / Multiplayer
+```
+"People come to The Oasis for all the things they can do, 
+but they stay because of all the things they can be."
+
+- Wade Watts, Ready Player One (2018) - 
+```
 - Beej’s Guide to Network Programming (2025) by Brian Hall
 - Choosing the right network model for your multiplayer game (2024) by Glenn Fiedler
 - The Ultimate Guide to Forwarding Ports in Your Router (2021) by Jason Bauer
@@ -259,7 +280,11 @@ C# Programming
 - Good AI Podcasts and Newsletters by swyx
 
 ## 3D Environment Art
+```
+"Art is never finished, only abandoned. "
 
+- Leonardo da Vinci -
+```
 ###Polycount Wiki
 The Polycount Wiki is “a catalog of information aimed at game development artists; whether professional, student, or hobbyist.” To be honest, this is the only resource you need if you’re starting out as a 3D Game Artist. It covers all the topics. Don’t be fooled by the old-school UI. This is the place where the AAA game artists hang-out. I’ll try and hand-pick a couple of links which are pertinent to 3D environment art:
 

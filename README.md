@@ -1,6 +1,12 @@
 # The Gabmeister Resources
 This page is a collection of links that have helped me throughout my career as a VR, AR, Unreal Engine, and Unity Developer. I’m constantly updating this list, removing old items and adding new ones. I try to remove those that are older than 5 years old. However, there are exceptions which I truly believe contain information that are relevant today. I hope that these resources assist you in your journey.
 
+---
+
+"Unfortunately, no one can be told what the Matrix is.
+You have to see it for yourself."
+Morpheus, The Matrix (1999)
+---
 ## XR
 
 ### Meta Quest
@@ -55,42 +61,41 @@ This page is a collection of links that have helped me throughout my career as a
 
 ### Assembly
 - Assembly Language for x86 Processors, 8th edition (2019) book by Kip R. Irvine
-- The Art of Picking Intel Registers (2003) by William Swanson
-- Compiler Explorer
+- [The Art of Picking Intel Registers](https://www.swansontec.com/sregisters.html) (2003) by William Swanson
+- [Compiler Explorer](https://godbolt.org/)
 
 ### C
-- Beej’s Guide to C Programming
+- [Beej’s Guide to C Programming](https://beej.us/guide/bgc/)
 - C Programming: A Modern Approach, 2nd Edition (2008) by K.N. King
-- null program by Chris Wellons
-- Awesome C – A curated list of C good stuff.
-- Learn Makefiles
-- How to write a game engine in pure C (2019) by PRDeving
-- Game State Pattern in C (2011) by Paweł Góralski
+- [null program](https://nullprogram.com/index/) by Chris Wellons
+- [Awesome C](https://github.com/oz123/awesome-c) – A curated list of C good stuff.
+- [Learn Makefiles](https://makefiletutorial.com/)
+- [Game State Pattern in C](https://gamedev.nokturnal.pl/posts/game-state-pattern-in-c/) (2011) by Paweł Góralski
 
 ### C++
-- LearnCpp.com
-- The Definitive C++ Book Guide and List
-- C++ Links by MattPD
-- An Introduction to Modern CMake by Henry Schreiner
-- cmakeSetup by meemknight
-- C++ Core Guidelines (2024) by Bjarne Stroustrup and Herb Sutter
-- C++ Game Programming (2024) by Dave Churchill
-- Awesome Modern C++
-- Modernes CPP Resources
-- YouTube: CppCon, The Cherno,
+- [LearnCpp.com](https://www.learncpp.com/)
+- [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+- [C++ Links](https://github.com/MattPD/cpplinks) by MattPD
+- [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/) by Henry Schreiner
+- [cmakeSetup](https://github.com/meemknight/cmakeSetup) by meemknight
+- [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines.html) (2024) by Bjarne Stroustrup and Herb Sutter
+- [C++ Game Programming](https://www.youtube.com/playlist?list=PL_xRyXins84_Sq7yZkxGP_MgYAH-Zo8Uu) (2024) by Dave Churchill
+- [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp)
+- [Modernes CPP Resources](https://www.modernescpp.org/resources/)
+- YouTube: [CppCon](https://www.youtube.com/@CppCon), [The Cherno](https://www.youtube.com/@TheCherno), [javidx9](https://www.youtube.com/@javidx9)
 
 ### C#
-- C# Documentation
+- [C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 ### Clean Code and Design Patterns
-- A Short Summary On Clean Coding Best Practices (2021) by Thilina Ashen Gamage
-- Refactoring Guru
-- Game Programming Patterns (2014) by Robert Nystrom
-- Summary of “Clean Code” by Robert C. Martin
-- C³: Common Coding Conventions
-- Purely Functional Retrogames, Part 1 (2008) by James Hague
-- The solution to ‘OOP is Bad’ : ECS
-- What is an Entity Component System architecture for game development? () by Richard Lord
+- [A Short Summary On Clean Coding Best Practices](https://codeburst.io/a-short-summary-on-clean-coding-best-practices-d8afbfa7677) (2021) by Thilina Ashen Gamage
+- [Refactoring Guru](https://refactoring.guru/)
+- [Game Programming Patterns](https://gameprogrammingpatterns.com/) (2014) by Robert Nystrom
+- [Summary of “Clean Code” by Robert C. Martin](https://gist.github.com/cedrickchee/55ecfbaac643bf0c24da6874bf4feb08)
+- [C³: Common Coding Conventions](https://github.com/tum-esi/common-coding-conventions)
+- [Purely Functional Retrogames, Part 1](https://prog21.dadgum.com/23.html) (2008) by James Hague
+- [The solution to ‘OOP is Bad’ : ECS](https://docs.spacestation14.com/en/robust-toolbox/ecs.html)
+- [What is an Entity Component System architecture for game development?](https://www.richardlord.net/blog/ecs/what-is-an-entity-framework) () by Richard Lord
 
 ### Rust
 - [The Rust Book](https://doc.rust-lang.org/book/)
@@ -100,14 +105,14 @@ This page is a collection of links that have helped me throughout my career as a
 - [Too many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 
 ### Other References
-- Project Based Learning
-- Just-In-Case vs. Just-In-Time Learning
-- How Developers Stop Learning: Rise of the Expert Beginner (2013) by Erik Dietrich
-- GitHub Ranking Top 100 Stars
+- [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
+- [Just-In-Case vs. Just-In-Time Learning](https://hackernoon.com/just-in-case-vs-just-in-time-learning-c87f61d24360)
+- [How Developers Stop Learning: Rise of the Expert Beginner](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/) (2013) by Erik Dietrich
+- [GitHub Ranking Top 100 Stars](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-stars.md)
 
 ## Unity
-- Unity User Manual
-- Technical deep dive: Unity best practices
+- [Unity User Manual](https://docs.unity3d.com/Manual/index.html)
+- [Technical deep dive: Unity best practices](https://unity.com/how-to)
 
 C# Programming
 - Unity Production Architecture by Mody
@@ -228,6 +233,7 @@ C# Programming
 - Tools to make a Game Engine in C++ (2022) by pikuma
 - Game Engine Black Book Doom
 - Custom Engines by Angelo “Encelo” Theodorou
+- [How to write a game engine in pure C](https://prdeving.wordpress.com/2019/05/30/how-to-write-a-game-engine-in-pure-c-part-1-state-manager/) (2019) by PRDeving
 - YouTube Series: The Cherno Game Engine (2018), Kohi Game Engine (2021)
 
 ## Artificial Intelligence

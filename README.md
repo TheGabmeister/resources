@@ -93,10 +93,11 @@ This page is a collection of links that have helped me throughout my career as a
 - What is an Entity Component System architecture for game development? () by Richard Lord
 
 ### Rust
--
--
--
-
+- [The Rust Book](https://doc.rust-lang.org/book/)
+- [Rustlings](https://github.com/rust-lang/rustlings)
+- [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
+- [Rust for Rustaceans](https://rust-for-rustaceans.com/)
+- [Too many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 
 ### Other References
 - Project Based Learning

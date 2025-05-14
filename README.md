@@ -241,6 +241,10 @@ enough computational power to simulate reality.”
 - Mr Robin’s [Guide to Unreal Engine C++](https://github.com/MrRobinOfficial/Guide-UnrealEngine)
 - [Unreal Engine Community Wiki](https://unrealcommunity.wiki/)
 
+## Godot
+- [This is THE way to implement interfaces in Godot](https://xynanlee.substack.com/p/this-is-the-way-to-implement-interfaces) (2025) by Xynan Lee 
+- 
+
 ## Networking / Multiplayer
 ```
 "People come to The Oasis for all the things they can do, 

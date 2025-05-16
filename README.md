@@ -242,8 +242,8 @@ enough computational power to simulate reality.”
 - [Unreal Engine Community Wiki](https://unrealcommunity.wiki/)
 
 ## Godot
+- [How to Minify Godot's Build Size (93MB -> 6.4MB exe)](https://popcar.bearblog.dev/how-to-minify-godots-build-size/)
 - [This is THE way to implement interfaces in Godot](https://xynanlee.substack.com/p/this-is-the-way-to-implement-interfaces) (2025) by Xynan Lee 
-- 
 
 ## Networking / Multiplayer
 ```

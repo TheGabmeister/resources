@@ -231,6 +231,9 @@ enough computational power to simulate reality.”
 - [What do you do when Unreal Editor crashes?](https://www.youtube.com/watch?v=TXZGIvpEhW8) (2020) by Alex Forsythe
 - [Crash Reporting](https://dev.epicgames.com/documentation/en-us/unreal-engine/crash-reporting-in-unreal-engine) in Unreal Engine. **NOTE**: Download ***Editor symbols for debugging*** if you're using Unreal Engine from the Epic Launcher. These will allow the Crash Reporter to show you a detailed call stack. Moreover, the Crash Reporter does not show up when you're using a UE5 Editor Source Build from GitHub. Instead, you need to run Debug Mode in Visual Studio.
 
+### 2D
+- [Optimal Post Process Settings / 2D Pixel Art](https://ue5study.com/2d/ue5-2d-postprocess-settings/)
+
 ### Others
 - [How to use delays in C++ in Unreal Engine](https://georgy.dev/posts/how-to-use-delays/)
 - [Reducing build size of Android or iOS game in Unreal Engine](https://georgy.dev/posts/reducing-mobile-build-size/)

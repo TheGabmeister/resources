@@ -269,6 +269,7 @@ but they stay because of all the things they can be."
 - <https://engine-programming.github.io/>
 - [Game Engine Architecture](https://www.gameenginebook.com/) by Jason Gregory
 - [Handmade Hero](https://www.youtube.com/playlist?list=PLnuhp3Xd9PYTt6svyQPyRO_AAuMWGxPzU)
+- [Handmade Hero Notes](https://yakvi.github.io/handmade-hero-notes/)
 - [Rendering Engine Architecture Conference](https://enginearchitecture.org/)
 - [Tools to make a Game Engine in C++](https://www.youtube.com/watch?v=qK-GTuhZwUg) (2022) by pikuma
 - [Game Engine Black Book Doom](https://fabiensanglard.net/gebbdoom/)

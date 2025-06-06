@@ -377,3 +377,8 @@ The [Polycount Wiki](http://wiki.polycount.com/wiki/Polycount) is "a catalog of 
 - [10 Insider Tips for Digital Artists Applying to Game Studios](https://www.polygon-academy.com/10-insider-tips-for-artists-applying-to-game-studios/) (2018) by Tim Simpson
 - [WHY Your portfolio needs to be on ArtStation](https://www.polygon-academy.com/why-your-portfolio-needs-to-be-on-artstation/) (2018) by Tim Simpson
 - [The Death of Curiosity](https://polycount.com/discussion/171153/the-death-of-curiosity) (2016) by Joe "EarthQuake" Wilson
+
+## CC0 Assets
+- [OpenGameArt](https://opengameart.org/) filter by license
+- [Kenney](https://kenney.nl/)
+- [Free Casual Game Sounds](https://dustyroom.com/free-casual-game-sounds/)

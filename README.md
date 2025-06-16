@@ -138,6 +138,7 @@ C# Programming
 - [How to Get Variables from Other Scripts in Unity](https://www.youtube.com/watch?v=7gRrujBjsFo) (2020) by Jason Storey
 - [Game Architecture with Scriptable Objects](https://www.youtube.com/watch?v=raQ3iHhE_Kk) (2017) byRyan Hipple
 - [Unity Software Design – Introduction](http://www.sigtrapgames.com/unity-software-design-introduction/) (2016) by Luke Thompson
+- [Inversion of Control with Unity](https://www.sebaslab.com/ioc-container-unity-part-1/) (2012)
 
 ### Optimization
 - [When Optimisations Work, But for the Wrong Reasons](https://www.youtube.com/watch?v=hf27qsQPRLQ) (2024) by SimonDev

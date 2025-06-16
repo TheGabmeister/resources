@@ -132,6 +132,7 @@ C# Programming
 - [Game programming patterns in Unity](https://github.com/Habrador/Unity-Programming-Patterns) by Erik Nordeus
 - [Unity Clean Code](https://github.com/sampaiodias/unity-clean-code) by Lucas Sampaio Dias
 - [DeltaTime](https://www.youtube.com/watch?v=yGhfUcPjXuE) (2023) by Jonas Tyroller
+- [Unity Game Architecture](https://www.youtube.com/playlist?list=PLan3SCnsISTTnVHldjnrM5s18u6_BOuRz) (2022) by Hassan Habib
 - [Unity Architecture for Noobs](https://www.youtube.com/watch?v=tE1qH8OxO2Y) – Game Structure (2021) by Tarodev
 - [Three ways to architect your game with ScriptableObjects](https://unity.com/how-to/architect-game-code-scriptable-objects) (2020) by Unity
 - [How to get a variable from another script in Unity](https://gamedevbeginner.com/how-to-get-a-variable-from-another-script-in-unity-the-right-way/) (2020) by John French

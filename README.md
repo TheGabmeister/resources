@@ -134,7 +134,6 @@ C# Programming
 - [Unity Clean Code](https://github.com/sampaiodias/unity-clean-code) by Lucas Sampaio Dias
 - [DeltaTime](https://www.youtube.com/watch?v=yGhfUcPjXuE) (2023) by Jonas Tyroller
 - [Unity Game Architecture](https://www.youtube.com/playlist?list=PLan3SCnsISTTnVHldjnrM5s18u6_BOuRz) (2022) by Hassan Habib
-- [Watch This Before Working on a Big Game in Unity](https://www.youtube.com/watch?v=kML67qB9Chk) (2022) by John Leorid
 - [Unity Architecture for Noobs](https://www.youtube.com/watch?v=tE1qH8OxO2Y) – Game Structure (2021) by Tarodev
 - [Three ways to architect your game with ScriptableObjects](https://unity.com/how-to/architect-game-code-scriptable-objects) (2020) by Unity
 - [How to get a variable from another script in Unity](https://gamedevbeginner.com/how-to-get-a-variable-from-another-script-in-unity-the-right-way/) (2020) by John French
@@ -146,6 +145,7 @@ C# Programming
 
 ### Optimization
 - [When Optimisations Work, But for the Wrong Reasons](https://www.youtube.com/watch?v=hf27qsQPRLQ) (2024) by SimonDev
+- [Watch This Before Working on a Big Game in Unity](https://www.youtube.com/watch?v=kML67qB9Chk) (2022) by John Leorid
 - [Performance optimization tips: Physics in Unity](https://www.youtube.com/watch?v=pTz3LMQpvfA) (2021) by Unity 
 - [Optimization tips for maximum performance – Part 1](https://www.youtube.com/watch?v=ZRDHEqy2uPI) (2020) by Unity 
 - [Optimization tips for maximum performance – Part 2](https://www.youtube.com/watch?v=EK8sX8oCQbw) (2020) by Unity 

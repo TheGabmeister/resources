@@ -128,6 +128,7 @@ C# Programming
 - [Create modular game architecture in Unity with ScriptableObjects](https://unity.com/resources/create-modular-game-architecture-with-scriptable-objects-ebook) (2023) by Unity
 - [Create a C# style guide: Write cleaner code that scales](https://unity.com/resources/create-code-c-sharp-style-guide-e-book) (2023) by Unity
 - [Functional Unity Architecture: A Developer’s Guide](https://medium.com/@bada/functional-unity-architecture-a-developers-guide-359e5111c5c2) 2023 by Bruno Mikoski
+- [Simon Nordon's Game Architecture Case Studies](https://medium.com/@simon.nordon) (2023)
 - [Level up your code with game programming patterns](https://unity.com/blog/games/level-up-your-code-with-game-programming-patterns) by Thomas Krogh-Jacobsen (2022). Complete PDF version [here](https://resources.unity.com/games/level-up-your-code-with-game-programming-patterns).
 - [Game programming patterns in Unity](https://github.com/Habrador/Unity-Programming-Patterns) by Erik Nordeus
 - [Unity Clean Code](https://github.com/sampaiodias/unity-clean-code) by Lucas Sampaio Dias

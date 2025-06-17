@@ -139,6 +139,7 @@ C# Programming
 - [How to get a variable from another script in Unity](https://gamedevbeginner.com/how-to-get-a-variable-from-another-script-in-unity-the-right-way/) (2020) by John French
 - [How to Get Variables from Other Scripts in Unity](https://www.youtube.com/watch?v=7gRrujBjsFo) (2020) by Jason Storey
 - [Game Architecture with Scriptable Objects](https://www.youtube.com/watch?v=raQ3iHhE_Kk) (2017) byRyan Hipple
+- [Unity Architecture in Pokémon Go](https://www.youtube.com/watch?v=8hru629dkRY) (2016) by Chris Mortonson
 - [Unity Software Design – Introduction](http://www.sigtrapgames.com/unity-software-design-introduction/) (2016) by Luke Thompson
 - [Inversion of Control with Unity](https://www.sebaslab.com/ioc-container-unity-part-1/) (2012)
 

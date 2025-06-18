@@ -125,6 +125,7 @@ If you have that drive, Unity will give you back thousandfold."
 
 C# Programming
 - [Unity Production Architecture](https://unity-architecture.com/) by Mody
+- [Level up your code with design patterns and SOLID](https://unity.com/resources/design-patterns-solid-ebook) (2024) by Unity
 - [Create modular game architecture in Unity with ScriptableObjects](https://unity.com/resources/create-modular-game-architecture-with-scriptable-objects-ebook) (2023) by Unity
 - [Create a C# style guide: Write cleaner code that scales](https://unity.com/resources/create-code-c-sharp-style-guide-e-book) (2023) by Unity
 - [Functional Unity Architecture: A Developer’s Guide](https://medium.com/@bada/functional-unity-architecture-a-developers-guide-359e5111c5c2) 2023 by Bruno Mikoski

@@ -178,14 +178,13 @@ enough computational power to simulate reality.”
 - [Unreal Engine Learning Resources](https://www.tomlooman.com/unreal-engine-resources/) by Tom Looman
 
 ### C++ / Blueprints
-- The Gabmeister Unreal Engine C++ Code Reference by The Gabmeister
-- Blueprints vs. C++: How They Fit Together and Why You Should Use Both (2021) by Alex Forsythe
-- The Unreal Engine Game Framework: From int main() to BeginPlay (2020) by Alex Forsythe
-- Unreal Engine C++ Project Setup, From Scratch (2020) by Alex Forsythe
-- Data-driven Design in Unreal (2020) by Ben UI
-- State Design Pattern in Unreal Engine Blueprint (2020) by Paul Gestwicki
-- Best Practices for Creating and Using Plugins (2019) by Max Preussner
-- Unreal Property System – Reflection (2014) by Michael Noland
+- [Lessons Learned From A Year of Unreal Engine AAA Development](https://www.youtube.com/watch?v=U0RCO0id1kI) (2022) by Ari Arnbjörnsson
+- [Blueprints vs. C++: How They Fit Together and Why You Should Use Both](https://www.youtube.com/watch?v=VMZftEVDuCE) (2021) by Alex Forsythe
+- [The Unreal Engine Game Framework: From int main() to BeginPlay](https://www.youtube.com/watch?v=IaU2Hue-ApI) (2020) by Alex Forsythe
+- [Unreal Engine C++ Project Setup, From Scratch](https://www.youtube.com/watch?v=94FvzO1HVzY) (2020) by Alex Forsythe
+- [Data-driven Design in Unreal](https://unreal-garden.com/tutorials/data-driven-design/) (2020) by Ben UI
+- [State Design Pattern in Unreal Engine Blueprint](https://www.youtube.com/watch?v=Eh-ONuMYADA) (2020) by Paul Gestwicki
+- [Unreal Property System – Reflection](https://www.unrealengine.com/en-US/blog/unreal-property-system-reflection) (2014) by Michael Noland
 - [Managing complexity in Blueprints](https://www.unrealengine.com/en-US/blog/managing-complexity-in-blueprints) (2014) by Michael Noland
 - Mr Robin Getting Started C++
 

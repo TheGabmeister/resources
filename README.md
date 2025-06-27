@@ -1,9 +1,9 @@
 # The Gabmeister Resources
 This page is a collection of links for VR, AR, Unreal Engine, and Unity Development. I’m constantly updating this list, removing old items and adding new ones. I try to remove those that are older than 5 years old. However, there are exceptions which I truly believe contain information that are relevant today. 
 
-One major shift that happened recently is the advent of AI. Large language models (LLMs) made a lot of beginner-level resources obsolete. We used to scavange the depths of online forums and stack overflow looking for "how-to" tutorials. Nowadays, we ask AI first, and do a search only if the answer is inadequate. This is why I will focus on resources that I think add value on top of what AI can already provide. 
+One major shift that happened recently was the advent of AI. Large language models (LLMs) made a lot of beginner-level resources obsolete. We used to scavange the depths of online forums and stack overflow looking for "how-to" tutorials. Nowadays, we ask AI first, and do a search only if the answer is inadequate. This is why I will focus on resources that I think add value on top of what AI can already provide. 
 
-Another best practice, if it's not already obvious, is to read the manual. The Unity and Unreal documentation, for example, are continously being updated. You would be surprised how much hidden gems are tucked away here.
+Another best practice, if it's not already obvious, is to read the manual. The Unity and Unreal documentation, for example, are continously being updated. You would be surprised how much hidden gems are tucked away here. 
 
 I hope that these resources assist you in your journey.
 ## XR
@@ -169,6 +169,7 @@ enough computational power to simulate reality.”
 ```
 
 ### Project Architecture and Design Patterns
+- [Working with Data in Unreal Engine](https://dev.epicgames.com/community/learning/tutorials/Gp9j/working-with-data-in-unreal-engine-data-tables-data-assets-uproperty-specifiers-and-more) (2024) with [video](https://www.youtube.com/watch?v=HOpyZ8552oA) by JackDCondon
 - [Unreal Engine Data Roundtable Discussion](https://www.youtube.com/watch?v=6-N-j6W-DhE) (2022) by benui
 - [Data-driven Design in Unreal](https://unreal-garden.com/tutorials/data-driven-design/) (2020) by benui
 - [The Unreal Engine Game Framework: From int main() to BeginPlay](https://www.youtube.com/watch?v=IaU2Hue-ApI) (2020) by Alex Forsythe
@@ -197,6 +198,7 @@ enough computational power to simulate reality.”
 - [Balancing Blueprint and C++](https://dev.epicgames.com/documentation/en-us/unreal-engine/balancing-blueprint-and-cplusplus?application_version=4.27) and [learning course](https://dev.epicgames.com/community/learning/courses/bY/unreal-engine-balancing-blueprint-and-c-in-game-development/LdK/introduction-to-the-course)
 
 ### UI
+- [Unreal Garden](https://unreal-garden.com/) UI Tutorials
 - [Tech Art Chronicles: UMG Tips and Tricks](https://joyrok.com/UMG-Layouts-Tips-and-Tricks)
 - [Best Practices for Creating and Managing Widgets](https://www.youtube.com/watch?v=7b7a20j0azc) (2023) by Kekdot
 - [How to create Modular and Scalable UI systems](https://www.youtube.com/watch?v=v9k-J2GeEKI) (2023) by AmrMakesGames
@@ -217,6 +219,7 @@ enough computational power to simulate reality.”
 - [An In-Depth Look at Real-Time Rendering](https://www.unrealengine.com/en-US/onlinelearning-courses/an-in-depth-look-at-real-time-rendering) (2019) by Sjoerd de Jong
 - [Profiling and Optimization in UE4](https://www.youtube.com/watch?v=EbXakIuZPFo) (2019) by Paulo Souza
 - [Performance Optimization for Environments](https://www.youtube.com/watch?v=ZRaeiVAM4LI) (2020) by Matt Oztalay and Jakob Keudel
+- [Unreal Art Optimization](https://unrealartoptimization.github.io/) by Oskar Świerad
 
 ### Lighting
 - [Understanding Lightmapping in Unreal Engine](https://docs.unrealengine.com/5.0/en-US/understanding-lightmapping-in-unreal-engine/) in documentation
@@ -229,11 +232,12 @@ enough computational power to simulate reality.”
 - [Unreal Engine Multiplayer Tips and Tricks](https://wizardcell.com/unreal/multiplayer-tips-and-tricks/) by WizardCell
 - [Persistent Data Compendium](https://wizardcell.com/unreal/persistent-data/) by WizardCell
 - [Multiplayer Network Compendium](https://cedric-neukirchen.net/docs/category/multiplayer-network-compendium/) by Cedric Neukirchen
-- [\[UE4\] The Secret of Multiplayer | Ownership](https://www.youtube.com/watch?v=k4_n5LD5Ees) (2021) by Aaron Hunt
+- [The Secret of Multiplayer | Ownership](https://www.youtube.com/watch?v=k4_n5LD5Ees) (2021) by Aaron Hunt
 - [Multiplayer in Unreal Engine: How to Understand Network Replication](https://www.youtube.com/watch?v=JOJP0CvpB8w) (2020) by Alex Forsythe
 - [Unreal Engine Multiplayer Framework](https://www.youtube.com/watch?v=Hsr6mbNKBLU) (2022) by Kekdot
 - <https://unreal-mmo-dev.com>
 - [Kieran Newland Blog](https://www.kierannewland.co.uk/blog/)
+- [Devtricks blog](https://vorixo.github.io/devtricks/) by Alvaro Jover-Alvarez
 
 ### Pixel Streaming
 - [Pixel Streaming documentation](https://docs.unrealengine.com/5.2/en-US/pixel-streaming-in-unreal-engine/)
@@ -256,20 +260,19 @@ enough computational power to simulate reality.”
 ### Others
 - [How to use delays in C++ in Unreal Engine](https://georgy.dev/posts/how-to-use-delays/)
 - [Reducing build size of Android or iOS game in Unreal Engine](https://georgy.dev/posts/reducing-mobile-build-size/)
-- [How to integrate third-party library into Unreal Engine](https://georgy.dev/posts/third-party-integration/)
+- [How to integrate third-party library into Unreal Engine](https://georgy.dev/posts/third-party-integration/)\
+- [The Unfeatured Features of Unreal Engine](https://www.youtube.com/watch?v=_BIZ3FOcLNs) (2024) by Chris Murphy
 
-### Blogs and Articles
+### Other Blogs and Articles
 - [Unreal Engine Tech Blogs](https://www.unrealengine.com/en-US/feed?tags=tech-blog)
 - [Unreal Engine Learning Library](https://dev.epicgames.com/community/unreal-engine/learning)
 - [Ari's Unreal Engine Notes](https://flassari.notion.site/Ari-s-Unreal-Engine-Notes-1a75e43f4014464984d4fae0617e5cef)
 - [ari.games](https://ari.games/)
-- [Unreal Garden](https://unreal-garden.com/) UI Tutorials
 - [Unreal Engine Community Wiki](https://unrealcommunity.wiki/)
 - [Tom Looman](https://www.tomlooman.com/)
 - [Unreal Engine Learning Resources](https://www.tomlooman.com/unreal-engine-resources/) by Tom Looman
 - [Laura's (Mostly) Unreal Blog](https://landelare.github.io/)
 - [Unreal Directive](https://unrealdirective.com/) by Dylan "Tezenari" Amos
-- [Unreal Art Optimization](https://unrealartoptimization.github.io/) by Oskar Świerad
 
 ## Godot
 - [How to Minify Godot's Build Size (93MB -> 6.4MB exe)](https://popcar.bearblog.dev/how-to-minify-godots-build-size/)
@@ -307,7 +310,7 @@ but they stay because of all the things they can be."
 
 ## Artificial Intelligence
 - [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) by 3Blue1Brown
-- [\[1hr Talk\] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) (2023) by Andrej Karpathy
+- [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) (2023) by Andrej Karpathy
 - [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) by Andrej Karpathy
 - [llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch) (May, 2024) by Nishant Aklecha
 - [AI Canon](https://a16z.com/ai-canon/) (May, 2023)

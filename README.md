@@ -1,17 +1,18 @@
 # The Gabmeister Resources
-This page is a collection of links that have helped me throughout my career as a VR, AR, Unreal Engine, and Unity Developer. I’m constantly updating this list, removing old items and adding new ones. I try to remove those that are older than 5 years old. However, there are exceptions which I truly believe contain information that are relevant today. 
+This page is a collection of links for VR, AR, Unreal Engine, and Unity Development. I’m constantly updating this list, removing old items and adding new ones. I try to remove those that are older than 5 years old. However, there are exceptions which I truly believe contain information that are relevant today. 
 
-One major shift that happened recently is the advent of AI. Large language models made a lot of beginner-level resources obsolete. We used to scavange the depths of online forums and stack overflow looking for how-to tutorials. Nowadays, we ask AI first, and do a search only if the answer is inadequate. This is why I will only focus on resources that I think add value on top of what AI can already provide. 
+One major shift that happened recently is the advent of AI. Large language models (LLMs) made a lot of beginner-level resources obsolete. We used to scavange the depths of online forums and stack overflow looking for how-to tutorials. Nowadays, we ask AI first, and do a search only if the answer is inadequate. This is why I will only focus on resources that I think add value on top of what AI can already provide. 
+
+Another best practice, if it's not already obvious, is to read the manual. The Unity and Unreal documentation, for example, are continously being updated. You would be surprised how much hidden gems are tucked away here.
 
 I hope that these resources assist you in your journey.
+## XR
 ```
 "Unfortunately, no one can be told what the Matrix is.
 You have to see it for yourself."
 
 - Morpheus, The Matrix (1999) -
 ```
-## XR
-
 ### Meta Quest
 - [Meta Horizon OS Developers](https://developers.meta.com/horizon/develop/)
 - [Code Samples](https://developer.oculus.com/code-samples/)
@@ -32,7 +33,6 @@ You have to see it for yourself."
 - [Optimizing Performance For Fast-Paced Interactions on Quest](https://developers.meta.com/horizon/blog/developer-perspective-optimizing-performance-for-fast-paced-interactions-on-quest/) (2019)
 
 ### Meta Developers YouTube Channel
-
 - [State of Compute: Maximizing Performance on Meta Quest](https://www.youtube.com/watch?v=M6RKMXQbtWk) (2023)
 - [Developing Marvel’s Iron Man VR for Meta Quest](https://www.youtube.com/watch?v=Z0be5hidNBk) (2023)
 - [Performance and Optimization on Meta Quest Platform](https://www.youtube.com/watch?v=5Tll_sYZ83w) (2022)
@@ -45,9 +45,11 @@ You have to see it for yourself."
 - [What You Didn’t Know About VR Development in Unreal Engine](https://www.youtube.com/watch?v=vT1T2unF8EI) (2023)
 - [What are the Performance-killer for VR?](https://forums.unrealengine.com/t/what-are-the-performance-killer-for-vr-eg-oculusquest2-all-postprocess-all-screen-space/248143) (2021) in UE Forums
 - [Oculus Quest Performance Tools in Unreal Engine](https://medium.com/realities-io/oculus-quest-performance-tools-in-unreal-engine-2210f2581c8f) (2020) by Shahriar Shahrabi
+
 ### XR in Unity
 - [XR](https://docs.unity3d.com/6000.0/Documentation/Manual/XR.html) in Unity Documentation
 - [VR Optimization and Performance Tips for Unity](https://www.youtube.com/watch?v=xqgt9W4Zrjg) (2021) by VRwithAndrew
+
 ### VR Rendering Issues
 - [UNITY Aliasing FIX, Jaggy Noisy Blinking edges in VR URP](https://www.youtube.com/watch?v=_fKaESkzPT0) (2024) by NikoVR
 - [Flickering in Unity VR: Fix Flickering and Pixel Noise on Edge](https://www.youtube.com/watch?v=Lls93SG94Os) (2023) by Roadway VR
@@ -57,6 +59,7 @@ You have to see it for yourself."
 - [Common Rendering Mistakes](https://developer.oculus.com/blog/common-rendering-mistakes-how-to-find-them-and-how-to-fix-them/) (2019) by Trevor Dasch
 - [Anti-aliased Alpha Test](https://bgolus.medium.com/anti-aliased-alpha-test-the-esoteric-alpha-to-coverage-8b177335ae4f) (2017) by Ben Golus
 - [Steps to Avoid Aliasing in VR](https://news.ycombinator.com/item?id=12183340) (2016) by John Carmack
+
 ### Others
 - [The Ultimate XR Developers Resource Guide](https://github.com/authorTom/ultimate-XR-dev-guide) by authorTom
 
@@ -104,13 +107,6 @@ You have to see it for yourself."
 - [The solution to ‘OOP is Bad’ : ECS](https://docs.spacestation14.com/en/robust-toolbox/ecs.html)
 - [What is an Entity Component System architecture for game development?](https://www.richardlord.net/blog/ecs/what-is-an-entity-framework) () by Richard Lord
 
-### Rust
-- [The Rust Book](https://doc.rust-lang.org/book/)
-- [Rustlings](https://github.com/rust-lang/rustlings)
-- [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
-- [Rust for Rustaceans](https://rust-for-rustaceans.com/)
-- [Too many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
-
 ### Other References
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
 - [Just-In-Case vs. Just-In-Time Learning](https://hackernoon.com/just-in-case-vs-just-in-time-learning-c87f61d24360)
@@ -128,8 +124,7 @@ If you have that drive, Unity will give you back thousandfold."
 ### Blogs nad Articles
 - [Technical deep dive: Unity best practices](https://unity.com/how-to)
 
-
-### Architecture and Programming Patterns
+### Project Architecture and Programming Patterns
 - [Unity Production Architecture](https://unity-architecture.com/) by Mody
 - [Level up your code with design patterns and SOLID](https://unity.com/resources/design-patterns-solid-ebook) (2024) by Unity
 - [Create modular game architecture in Unity with ScriptableObjects](https://unity.com/resources/create-modular-game-architecture-with-scriptable-objects-ebook) (2023) by Unity
@@ -183,16 +178,15 @@ enough computational power to simulate reality.”
 - Tim Sweeney, CEO of Epic Games -
 ```
 
-### Unreal Engine Docs hidden gems
-- [Balancing Blueprint and C++](https://dev.epicgames.com/documentation/en-us/unreal-engine/balancing-blueprint-and-cplusplus?application_version=4.27) and [learning course](https://dev.epicgames.com/community/learning/courses/bY/unreal-engine-balancing-blueprint-and-c-in-game-development/LdK/introduction-to-the-course)
-
 ### Project Architecture and Design Patterns
 - [Unreal Engine Data Roundtable Discussion](https://www.youtube.com/watch?v=6-N-j6W-DhE) (2022) by benui
 - [Data-driven Design in Unreal](https://unreal-garden.com/tutorials/data-driven-design/) (2020) by benui
+- [The Unreal Engine Game Framework: From int main() to BeginPlay](https://www.youtube.com/watch?v=IaU2Hue-ApI) (2020) by Alex Forsythe
 
 ### Sample Projects
 - [Lyra Sample Game](https://dev.epicgames.com/documentation/en-us/unreal-engine/lyra-sample-game-in-unreal-engine) with [learning path](https://dev.epicgames.com/community/learning/paths/Z4/lyra-starter-game)
 - [Parrot Game Sample](https://dev.epicgames.com/documentation/en-us/unreal-engine/parrot-game-sample-for-unreal-engine) with [video](https://www.youtube.com/watch?v=G8GrRA-8BHA)
+- [Action Roguelike C++](https://github.com/tomlooman/ActionRoguelike) by Tom Looman
 
 ### Conventions
 - [Coding Standard](https://dev.epicgames.com/documentation/en-us/unreal-engine/epic-cplusplus-coding-standard-for-unreal-engine)
@@ -202,7 +196,6 @@ enough computational power to simulate reality.”
 ### C++ / Blueprints
 - [Lessons Learned From A Year of Unreal Engine AAA Development](https://www.youtube.com/watch?v=U0RCO0id1kI) (2022) by Ari Arnbjörnsson
 - [Blueprints vs. C++: How They Fit Together and Why You Should Use Both](https://www.youtube.com/watch?v=VMZftEVDuCE) (2021) by Alex Forsythe
-- [The Unreal Engine Game Framework: From int main() to BeginPlay](https://www.youtube.com/watch?v=IaU2Hue-ApI) (2020) by Alex Forsythe
 - [Unreal Engine C++ Project Setup, From Scratch](https://www.youtube.com/watch?v=94FvzO1HVzY) (2020) by Alex Forsythe
 - [State Design Pattern in Unreal Engine Blueprint](https://www.youtube.com/watch?v=Eh-ONuMYADA) (2020) by Paul Gestwicki
 - [Unreal Property System – Reflection](https://www.unrealengine.com/en-US/blog/unreal-property-system-reflection) (2014) by Michael Noland
@@ -211,13 +204,13 @@ enough computational power to simulate reality.”
 - [Unreal Engine C++ Complete Guide](https://www.tomlooman.com/unreal-engine-cpp-guide/) (2023) by Tom Looman
 - [Unreal C++ speedrun](https://landelare.github.io/2023/01/07/cpp-speedrun.html) (2023) by Laura Andelare
 - Mr Robin’s [Guide to Unreal Engine C++](https://github.com/MrRobinOfficial/Guide-UnrealEngine)
+- [Balancing Blueprint and C++](https://dev.epicgames.com/documentation/en-us/unreal-engine/balancing-blueprint-and-cplusplus?application_version=4.27) and [learning course](https://dev.epicgames.com/community/learning/courses/bY/unreal-engine-balancing-blueprint-and-c-in-game-development/LdK/introduction-to-the-course)
 
 ### UI
 - [Tech Art Chronicles: UMG Tips and Tricks](https://joyrok.com/UMG-Layouts-Tips-and-Tricks)
 - [Best Practices for Creating and Managing Widgets](https://www.youtube.com/watch?v=7b7a20j0azc) (2023) by Kekdot
 - [How to create Modular and Scalable UI systems](https://www.youtube.com/watch?v=v9k-J2GeEKI) (2023) by AmrMakesGames
 - [Optimizing and Building UI for AAA Games](https://www.youtube.com/watch?v=OyY3OYbNK7s) (2020) by Carey Hickling
-- [Unreal UI Best Practices](https://unreal-garden.com/tutorials/ui-best-practices/) (2019) by benui
 
 ### Profiling and Optimization
 - [Optimizing and Debugging Projects for Real-Time Rendering](https://dev.epicgames.com/documentation/en-us/unreal-engine/optimizing-and-debugging-projects-for-real-time-rendering-in-unreal-engine) in Unreal Engine Docs
@@ -274,15 +267,19 @@ enough computational power to simulate reality.”
 - [How to use delays in C++ in Unreal Engine](https://georgy.dev/posts/how-to-use-delays/)
 - [Reducing build size of Android or iOS game in Unreal Engine](https://georgy.dev/posts/reducing-mobile-build-size/)
 - [How to integrate third-party library into Unreal Engine](https://georgy.dev/posts/third-party-integration/)
-- [Unreal Engine Community Wiki](https://unrealcommunity.wiki/)
 
 ### Blogs and Articles
+- [Unreal Engine Tech Blogs](https://www.unrealengine.com/en-US/feed?tags=tech-blog)
 - [Unreal Engine Learning Library](https://dev.epicgames.com/community/unreal-engine/learning)
+- [Ari's Unreal Engine Notes](https://flassari.notion.site/Ari-s-Unreal-Engine-Notes-1a75e43f4014464984d4fae0617e5cef)
+- [ari.games](https://ari.games/)
 - [Unreal Garden](https://unreal-garden.com/) UI Tutorials
+- [Unreal Engine Community Wiki](https://unrealcommunity.wiki/)
 - [Tom Looman](https://www.tomlooman.com/)
+- [Unreal Engine Learning Resources](https://www.tomlooman.com/unreal-engine-resources/) by Tom Looman
 - [Laura's (Mostly) Unreal Blog](https://landelare.github.io/)
 - [Unreal Directive](https://unrealdirective.com/) by Dylan "Tezenari" Amos
-- [Unreal Engine Learning Resources](https://www.tomlooman.com/unreal-engine-resources/) by Tom Looman
+- [Unreal Art Optimization](https://unrealartoptimization.github.io/) by Oskar Świerad
 
 ## Godot
 - [How to Minify Godot's Build Size (93MB -> 6.4MB exe)](https://popcar.bearblog.dev/how-to-minify-godots-build-size/)

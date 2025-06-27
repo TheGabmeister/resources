@@ -1,7 +1,7 @@
 # The Gabmeister Resources
 This page is a collection of links for VR, AR, Unreal Engine, and Unity Development. I’m constantly updating this list, removing old items and adding new ones. I try to remove those that are older than 5 years old. However, there are exceptions which I truly believe contain information that are relevant today. 
 
-One major shift that happened recently is the advent of AI. Large language models (LLMs) made a lot of beginner-level resources obsolete. We used to scavange the depths of online forums and stack overflow looking for how-to tutorials. Nowadays, we ask AI first, and do a search only if the answer is inadequate. This is why I will only focus on resources that I think add value on top of what AI can already provide. 
+One major shift that happened recently is the advent of AI. Large language models (LLMs) made a lot of beginner-level resources obsolete. We used to scavange the depths of online forums and stack overflow looking for "how-to" tutorials. Nowadays, we ask AI first, and do a search only if the answer is inadequate. This is why I will focus on resources that I think add value on top of what AI can already provide. 
 
 Another best practice, if it's not already obvious, is to read the manual. The Unity and Unreal documentation, for example, are continously being updated. You would be surprised how much hidden gems are tucked away here.
 
@@ -75,11 +75,7 @@ You have to see it for yourself."
 - [Compiler Explorer](https://godbolt.org/)
 
 ### C
-- [Beej’s Guide to C Programming](https://beej.us/guide/bgc/)
-- C Programming: A Modern Approach, 2nd Edition (2008) by K.N. King
-- [null program](https://nullprogram.com/index/) by Chris Wellons
-- [Awesome C](https://github.com/oz123/awesome-c) – A curated list of C good stuff.
-- [Learn Makefiles](https://makefiletutorial.com/)
+- [Tips for C Programming](https://www.youtube.com/watch?v=9UIIMBqq1D4) (2025) by Nic Barker
 - [Game State Pattern in C](https://gamedev.nokturnal.pl/posts/game-state-pattern-in-c/) (2011) by Paweł Góralski
 
 ### C++
@@ -92,10 +88,7 @@ You have to see it for yourself."
 - [C++ Game Programming](https://www.youtube.com/playlist?list=PL_xRyXins84_Sq7yZkxGP_MgYAH-Zo8Uu) (2024) by Dave Churchill
 - [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp)
 - [Modernes CPP Resources](https://www.modernescpp.org/resources/)
-- YouTube: [CppCon](https://www.youtube.com/@CppCon), [The Cherno](https://www.youtube.com/@TheCherno), [javidx9](https://www.youtube.com/@javidx9)
-
-### C#
-- [C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/)
+- YouTube: [CppCon](https://www.youtube.com/@CppCon), [javidx9](https://www.youtube.com/@javidx9)
 
 ### Clean Code and Design Patterns
 - [A Short Summary On Clean Coding Best Practices](https://codeburst.io/a-short-summary-on-clean-coding-best-practices-d8afbfa7677) (2021) by Thilina Ashen Gamage
@@ -127,6 +120,7 @@ If you have that drive, Unity will give you back thousandfold."
 ### Project Architecture and Programming Patterns
 - [Unity Production Architecture](https://unity-architecture.com/) by Mody
 - [Level up your code with design patterns and SOLID](https://unity.com/resources/design-patterns-solid-ebook) (2024) by Unity
+- [Intro to Data Oriented Design for Games](https://www.youtube.com/watch?v=WwkuAqObplU) (2023) by Nic Barker
 - [Create modular game architecture in Unity with ScriptableObjects](https://unity.com/resources/create-modular-game-architecture-with-scriptable-objects-ebook) (2023) by Unity
 - [Functional Unity Architecture: A Developer’s Guide](https://medium.com/@bada/functional-unity-architecture-a-developers-guide-359e5111c5c2) 2023 by Bruno Mikoski
 - [Simon Nordon's Game Architecture Case Studies](https://medium.com/@simon.nordon) (2023)

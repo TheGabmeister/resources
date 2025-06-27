@@ -3,7 +3,7 @@ This page is a collection of links I have found useful throughout my career (mos
 
 One major shift that happened recently was the advent of AI. Large language models (LLMs) made a lot of beginner-level resources obsolete. We used to scavange the depths of online forums and stack overflow looking for "how-to" tutorials. Nowadays, we ask AI first, and do a search only if the answer is inadequate. This is why I will focus on resources that I think add value on top of what AI can already provide. 
 
-The biggest mistake I did back then was getting into game engines without understanding computer programming fundamentals. Mainstream game engines do a lot of heavy lifting to abstract away the complexity happening under the hood. If you stay too long working on this abstraction layer, your knowledge and skills will plateau early, and it will be harder to tackle complex projects that require deeper understanding. That is why I recommend studying Assembly, C, and C++ alongside game engines. Get comfortable programming like how it was in the early 90s, and gradually move up the abstraction layers.
+The biggest mistake I did back then was getting into game engines without understanding computer programming fundamentals. I have never taken any formal computer science or game development education, so I just jumped straight into Unity and watched YouTube tutorials. Mainstream game engines do a lot of heavy lifting to abstract away the complexity happening under the hood. If you stay too long working on this abstraction layer, your knowledge and skills will plateau early, and it will be harder to tackle complex projects that require deeper understanding. That is why I recommend studying Assembly, C, and C++ alongside game engines. In fact, I recommend making your own simple game engine just for learning. Get comfortable programming like how it was in the early 90s, and gradually move up the abstraction layers.
 
 Another best practice, if it's not already obvious, is to read the manual. The Unity and Unreal documentation, for example, are continously being updated. You would be surprised how much hidden gems are tucked away here. 
 
@@ -14,7 +14,8 @@ Another best practice, if it's not already obvious, is to read the manual. The U
 - Linus Torvalds, creator of Linux -
 ```
 ### Learning Tips
-- [Just-In-Case vs. Just-In-Time Learning](https://hackernoon.com/just-in-case-vs-just-in-time-learning-c87f61d24360)
+- [The Hacker Mindset](https://dev.to/fluffynuts/the-hacker-mindset-p2f) (2019) by Davyd McColl
+- [Just-In-Case vs. Just-In-Time Learning](https://hackernoon.com/just-in-case-vs-just-in-time-learning-c87f61d24360) (2018) by Osman (Ozzie) Ahmed Osman
 - [How Developers Stop Learning: Rise of the Expert Beginner](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/) (2013) by Erik Dietrich
 
 ### Assembly
@@ -24,6 +25,7 @@ Another best practice, if it's not already obvious, is to read the manual. The U
 
 ### C
 - [Tips for C Programming](https://www.youtube.com/watch?v=9UIIMBqq1D4) (2025) by Nic Barker
+- [raylib vs SDL](https://gist.github.com/raysan5/17392498d40e2cb281f5d09c0a4bf798) (2022) by raysan5
 - [Game State Pattern in C](https://gamedev.nokturnal.pl/posts/game-state-pattern-in-c/) (2011) by Paweł Góralski
 
 ### C++
@@ -34,7 +36,7 @@ Another best practice, if it's not already obvious, is to read the manual. The U
 - [C++ Game Programming](https://www.youtube.com/playlist?list=PL_xRyXins84_Sq7yZkxGP_MgYAH-Zo8Uu) (2024) by Dave Churchill
 - [Thoughts on Modern C++ and Game Dev](https://www.elbeno.com/blog/?p=1598) (2019)
 
-### Clean Code and Design Patterns
+### Clean Code and Programming Patterns
 - [A Short Summary On Clean Coding Best Practices](https://codeburst.io/a-short-summary-on-clean-coding-best-practices-d8afbfa7677) (2021) by Thilina Ashen Gamage
 - [Refactoring Guru](https://refactoring.guru/)
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/) (2014) by Robert Nystrom
@@ -44,6 +46,18 @@ Another best practice, if it's not already obvious, is to read the manual. The U
 - [The solution to ‘OOP is Bad’ : ECS](https://docs.spacestation14.com/en/robust-toolbox/ecs.html)
 - [What is an Entity Component System architecture for game development?](https://www.richardlord.net/blog/ecs/what-is-an-entity-framework) () by Richard Lord
 
+## Game Engine Programming
+- [Learn Game Engine Programming](https://engine-programming.github.io/)
+- [Game Engine Architecture](https://www.gameenginebook.com/) by Jason Gregory
+- [Handmade Hero](https://www.youtube.com/playlist?list=PLnuhp3Xd9PYTt6svyQPyRO_AAuMWGxPzU)
+- [Handmade Hero Notes](https://yakvi.github.io/handmade-hero-notes/)
+- [Rendering Engine Architecture Conference](https://enginearchitecture.org/)
+- [Tools to make a Game Engine in C++](https://www.youtube.com/watch?v=qK-GTuhZwUg) (2022) by pikuma
+- [Game Engine Black Book Doom](https://fabiensanglard.net/gebbdoom/)
+- [Custom Game Engines: A Small Study](https://gist.github.com/raysan5/909dc6cf33ed40223eb0dfe625c0de74) (2020) by raysan5
+- [How to write a game engine in pure C](https://prdeving.wordpress.com/2019/05/30/how-to-write-a-game-engine-in-pure-c-part-1-state-manager/) (2019) by PRDeving
+- YouTube Series: [The Cherno Game Engine](https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT) (2018), [Kohi Game Engine](https://www.youtube.com/playlist?list=PLv8Ddw9K0JPg1BEO-RS-0MYs423cvLVtj) (2021)
+
 ## Unity
 ```
 "I think the unmissable "skill" is the drive to create. 
@@ -52,8 +66,8 @@ If you have that drive, Unity will give you back thousandfold."
 - David Helgason, Co-founder of Unity -
 ```
 
-### Blogs nad Articles
-- [Technical deep dive: Unity best practices](https://unity.com/how-to)
+### Sample Projects
+- [Unity Open Project #1: Chop Chop](https://github.com/UnityTechnologies/open-project-1)
 
 ### Project Architecture and Programming Patterns
 - [Unity Production Architecture](https://unity-architecture.com/) by Mody
@@ -66,11 +80,10 @@ If you have that drive, Unity will give you back thousandfold."
 - [Game programming patterns in Unity](https://github.com/Habrador/Unity-Programming-Patterns) by Erik Nordeus
 - [Unity Clean Code](https://github.com/sampaiodias/unity-clean-code) by Lucas Sampaio Dias
 - [Unity Game Architecture](https://www.youtube.com/playlist?list=PLan3SCnsISTTnVHldjnrM5s18u6_BOuRz) (2022) by Hassan Habib
-- [Unity Architecture for Noobs](https://www.youtube.com/watch?v=tE1qH8OxO2Y) – Game Structure (2021) by Tarodev
 - [Three ways to architect your game with ScriptableObjects](https://unity.com/how-to/architect-game-code-scriptable-objects) (2020) by Unity
+- [From Pong to 15 person project](https://www.youtube.com/watch?v=1le4vScG3gk) (2018) by Mikael Kalms
 - [Game Architecture with Scriptable Objects](https://www.youtube.com/watch?v=raQ3iHhE_Kk) (2017) byRyan Hipple
 - [Unity Architecture in Pokémon Go](https://www.youtube.com/watch?v=8hru629dkRY) (2016) by Chris Mortonson
-- [Unity Software Design – Introduction](http://www.sigtrapgames.com/unity-software-design-introduction/) (2016) by Luke Thompson
 - [Inversion of Control with Unity](https://www.sebaslab.com/ioc-container-unity-part-1/) (2012)
 
 ### C# Programming
@@ -92,15 +105,14 @@ If you have that drive, Unity will give you back thousandfold."
 - [Unity Draw Call Batching: The Ultimate Guide](https://thegamedev.guru/unity-performance/draw-call-optimization/) (2020) by Ruben Torres Bonet
 - [Event Performance: C# vs. UnityEvent](https://www.jacksondunstan.com/articles/3335) (2016) by Jackson Dunstan
 - [Unity Optimization Tips: Mobile & Desktop](https://makaka.org/unity-tutorials/optimization) (2022) by Makaka Games
-- [Performance recommendations for Unity](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/performance-recommendations-for-unity) (2022) in Microsoft Documentation
 
 ### Networking / Multiplayer
 - [Unity Realtime Multiplayer](https://hackernoon.com/unity-realtime-multiplayer-part-1-networking-basics) (2023) by Dimitrii Ivashchenko
 - [Multiplayer Game Architecture in Unity](https://www.youtube.com/watch?v=77vYKsXC4IE) (2020) by Shrine Wars
 - [High Performance Game Networking in Unity3D + Q&A](https://www.youtube.com/watch?v=5b6k_ywdjw4) (2019) by Kyle Olsen and Jason Weimann
 
-### Sample Projects
-- [Unity Open Project #1: Chop Chop](https://github.com/UnityTechnologies/open-project-1)
+### Blogs nad Articles
+- [Technical deep dive: Unity best practices](https://unity.com/how-to)
 
 ## Unreal Engine
 ```
@@ -263,6 +275,7 @@ You have to see it for yourself."
 
 ### XR in Unity
 - [XR](https://docs.unity3d.com/6000.0/Documentation/Manual/XR.html) in Unity Documentation
+- [Performance recommendations for Unity](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/performance-recommendations-for-unity) (2022) in Microsoft Documentation
 - [VR Optimization and Performance Tips for Unity](https://www.youtube.com/watch?v=xqgt9W4Zrjg) (2021) by VRwithAndrew
 
 ### VR Rendering Issues
@@ -294,18 +307,6 @@ but they stay because of all the things they can be."
 - [Multiplayer Networking Resources](https://github.com/0xFA11/MultiplayerNetworkingResources) on GitHub
 - [Más Bandwidth](https://mas-bandwidth.com/) articles
 - [Development and Deployment of Multiplayer Online Games](http://ithare.com/contents-of-development-and-deployment-of-massively-multiplayer-games-from-social-games-to-mmofps-with-stock-exchanges-in-between/) (2015) by No Bugs Hare
-
-## Game Engine Programming
-- <https://engine-programming.github.io/>
-- [Game Engine Architecture](https://www.gameenginebook.com/) by Jason Gregory
-- [Handmade Hero](https://www.youtube.com/playlist?list=PLnuhp3Xd9PYTt6svyQPyRO_AAuMWGxPzU)
-- [Handmade Hero Notes](https://yakvi.github.io/handmade-hero-notes/)
-- [Rendering Engine Architecture Conference](https://enginearchitecture.org/)
-- [Tools to make a Game Engine in C++](https://www.youtube.com/watch?v=qK-GTuhZwUg) (2022) by pikuma
-- [Game Engine Black Book Doom](https://fabiensanglard.net/gebbdoom/)
-- [Custom Engines](https://encelo.github.io/CustomEnginesPresentation/) by Angelo "Encelo" Theodorou
-- [How to write a game engine in pure C](https://prdeving.wordpress.com/2019/05/30/how-to-write-a-game-engine-in-pure-c-part-1-state-manager/) (2019) by PRDeving
-- YouTube Series: [The Cherno Game Engine](https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT) (2018), [Kohi Game Engine](https://www.youtube.com/playlist?list=PLv8Ddw9K0JPg1BEO-RS-0MYs423cvLVtj) (2021)
 
 ## Artificial Intelligence
 - [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) by 3Blue1Brown

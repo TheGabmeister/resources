@@ -120,29 +120,33 @@ If you have that drive, Unity will give you back thousandfold."
 
 - David Helgason, Co-founder of Unity -
 ```
-- [Unity User Manual](https://docs.unity3d.com/Manual/index.html)
+
+### Blogs nad Articles
 - [Technical deep dive: Unity best practices](https://unity.com/how-to)
 
-C# Programming
+
+### Architecture and Programming Patterns
 - [Unity Production Architecture](https://unity-architecture.com/) by Mody
 - [Level up your code with design patterns and SOLID](https://unity.com/resources/design-patterns-solid-ebook) (2024) by Unity
 - [Create modular game architecture in Unity with ScriptableObjects](https://unity.com/resources/create-modular-game-architecture-with-scriptable-objects-ebook) (2023) by Unity
-- [Create a C# style guide: Write cleaner code that scales](https://unity.com/resources/create-code-c-sharp-style-guide-e-book) (2023) by Unity
 - [Functional Unity Architecture: A Developer’s Guide](https://medium.com/@bada/functional-unity-architecture-a-developers-guide-359e5111c5c2) 2023 by Bruno Mikoski
 - [Simon Nordon's Game Architecture Case Studies](https://medium.com/@simon.nordon) (2023)
 - [Level up your code with game programming patterns](https://unity.com/blog/games/level-up-your-code-with-game-programming-patterns) by Thomas Krogh-Jacobsen (2022). Complete PDF version [here](https://resources.unity.com/games/level-up-your-code-with-game-programming-patterns).
 - [Game programming patterns in Unity](https://github.com/Habrador/Unity-Programming-Patterns) by Erik Nordeus
 - [Unity Clean Code](https://github.com/sampaiodias/unity-clean-code) by Lucas Sampaio Dias
-- [DeltaTime](https://www.youtube.com/watch?v=yGhfUcPjXuE) (2023) by Jonas Tyroller
 - [Unity Game Architecture](https://www.youtube.com/playlist?list=PLan3SCnsISTTnVHldjnrM5s18u6_BOuRz) (2022) by Hassan Habib
 - [Unity Architecture for Noobs](https://www.youtube.com/watch?v=tE1qH8OxO2Y) – Game Structure (2021) by Tarodev
 - [Three ways to architect your game with ScriptableObjects](https://unity.com/how-to/architect-game-code-scriptable-objects) (2020) by Unity
-- [How to get a variable from another script in Unity](https://gamedevbeginner.com/how-to-get-a-variable-from-another-script-in-unity-the-right-way/) (2020) by John French
-- [How to Get Variables from Other Scripts in Unity](https://www.youtube.com/watch?v=7gRrujBjsFo) (2020) by Jason Storey
 - [Game Architecture with Scriptable Objects](https://www.youtube.com/watch?v=raQ3iHhE_Kk) (2017) byRyan Hipple
 - [Unity Architecture in Pokémon Go](https://www.youtube.com/watch?v=8hru629dkRY) (2016) by Chris Mortonson
 - [Unity Software Design – Introduction](http://www.sigtrapgames.com/unity-software-design-introduction/) (2016) by Luke Thompson
 - [Inversion of Control with Unity](https://www.sebaslab.com/ioc-container-unity-part-1/) (2012)
+
+### C# Programming
+- [Create a C# style guide: Write cleaner code that scales](https://unity.com/resources/create-code-c-sharp-style-guide-e-book) (2023) by Unity
+- [DeltaTime](https://www.youtube.com/watch?v=yGhfUcPjXuE) (2023) by Jonas Tyroller
+- [How to get a variable from another script in Unity](https://gamedevbeginner.com/how-to-get-a-variable-from-another-script-in-unity-the-right-way/) (2020) by John French
+- [How to Get Variables from Other Scripts in Unity](https://www.youtube.com/watch?v=7gRrujBjsFo) (2020) by Jason Storey
 
 ### Optimization
 - [When Optimisations Work, But for the Wrong Reasons](https://www.youtube.com/watch?v=hf27qsQPRLQ) (2024) by SimonDev
@@ -164,6 +168,9 @@ C# Programming
 - [Multiplayer Game Architecture in Unity](https://www.youtube.com/watch?v=77vYKsXC4IE) (2020) by Shrine Wars
 - [High Performance Game Networking in Unity3D + Q&A](https://www.youtube.com/watch?v=5b6k_ywdjw4) (2019) by Kyle Olsen and Jason Weimann
 
+### Sample Projects
+- [Unity Open Project #1: Chop Chop](https://github.com/UnityTechnologies/open-project-1)
+
 ## Unreal Engine
 ```
 “Within our lifetimes, we will be able to push out 
@@ -171,13 +178,14 @@ enough computational power to simulate reality.”
 
 - Tim Sweeney, CEO of Epic Games -
 ```
-- [Unreal Engine Documentation](https://docs.unrealengine.com/)
-- [Unreal Engine 5 Style Guide](https://github.com/Allar/ue5-style-guide/tree/v2) by Michael Allar
-- [Open Unreal Conventions](https://jonasreich.github.io/OpenUnrealConventions/) by Jonas Reich
+### Blogs and Articles
 - [Unreal Engine Learning Library](https://dev.epicgames.com/community/unreal-engine/learning)
+- [Tom Looman](https://www.tomlooman.com/)
 - [Unreal Engine Learning Resources](https://www.tomlooman.com/unreal-engine-resources/) by Tom Looman
 
 ### C++ / Blueprints
+- [Unreal Engine 5 Style Guide](https://github.com/Allar/ue5-style-guide) by Michael Allar
+- [Open Unreal Conventions](https://jonasreich.github.io/OpenUnrealConventions/) by Jonas Reich
 - [Lessons Learned From A Year of Unreal Engine AAA Development](https://www.youtube.com/watch?v=U0RCO0id1kI) (2022) by Ari Arnbjörnsson
 - [Blueprints vs. C++: How They Fit Together and Why You Should Use Both](https://www.youtube.com/watch?v=VMZftEVDuCE) (2021) by Alex Forsythe
 - [The Unreal Engine Game Framework: From int main() to BeginPlay](https://www.youtube.com/watch?v=IaU2Hue-ApI) (2020) by Alex Forsythe
@@ -188,13 +196,17 @@ enough computational power to simulate reality.”
 - [Managing complexity in Blueprints](https://www.unrealengine.com/en-US/blog/managing-complexity-in-blueprints) (2014) by Michael Noland
 - Mr Robin Getting Started C++
 
-
 ### User Interface
 - [ben ui Unreal Engine](https://benui.ca/) and [YouTube videos](https://www.youtube.com/@benui)
+- [How to create Modular and Scalable UI systems](https://www.youtube.com/watch?v=v9k-J2GeEKI) (2023) by AmrMakesGames
+- [Lyra Cross-platform UI Development](https://www.youtube.com/watch?v=u06GAVxyIag) (2022) by Nick Darnell
 
-### GPU / Graphics Profiling and Optimization
+### Profiling and Optimization
 - [Optimizing and Debugging Projects for Real-Time Rendering](https://dev.epicgames.com/documentation/en-us/unreal-engine/optimizing-and-debugging-projects-for-real-time-rendering-in-unreal-engine) in Unreal Engine Docs
-- [Optimizing UE5: Advanced Rendering, Graphics Performance, and Memory Management](https://dev.epicgames.com/community/learning/knowledge-base/9Jx9/unreal-engine-optimizing-ue5-advanced-rendering-graphics-performance-and-memory-management-resources)
+- [The Great Hitch Hunt: Tracking Down Every Frame Drop](https://dev.epicgames.com/community/learning/tutorials/6XW8/unreal-engine-the-great-hitch-hunt-tracking-down-every-frame-drop) (2025) by Ari Arnbjörnsson
+- [Game Engines & Shader Stuttering: UE's Solution](https://dev.epicgames.com/community/learning/tutorials/xjzE/unreal-engine-epic-for-indies-game-engines-shader-stuttering-ue-s-solution) (2025) by Ari Arnbjörnsson
+- [Myth-busting "Best Practices" in Unreal Engine](https://dev.epicgames.com/community/learning/tutorials/l3E0/myth-busting-best-practices-in-unreal-engine) (2024) by Ari Arnbjörnsson
+- [Optimizing UE5: Advanced Rendering, Graphics Performance, and Memory Management](https://dev.epicgames.com/community/learning/knowledge-base/9Jx9/unreal-engine-optimizing-ue5-advanced-rendering-graphics-performance-and-memory-management-resources) (2024)
 - [Dissecting a Frame with RenderDoc](https://www.youtube.com/watch?v=7eznPe3TyAY) (2023) by Tech Art Aid
 - [UE5: Optimizing Memory Usage of Textures &amp; Meshes](https://www.youtube.com/watch?v=PQtrB-c6zhc) (2023) by Tech Art Aid
 - [Shader Optimization – True Instruction Cost, Performance Tips](https://www.youtube.com/watch?v=y0QASid1v8w) (2022) by Tech Art Aid
@@ -246,7 +258,6 @@ enough computational power to simulate reality.”
 - [How to integrate third-party library into Unreal Engine](https://georgy.dev/posts/third-party-integration/)
 - Events vs Functions [[1](https://forums.unrealengine.com/t/function-vs-custom-event/1988)][[2](https://forums.unrealengine.com/t/event-functions-whats-the-main-difference-between-them/351110)]. Function can return value(s). Event cannot have any output. Event can use Delay node or timelines, functions cannot. Functions are guaranteed to execute and return immediately by limiting what kinds of nodes can be placed in a function (latent actions, timelines, etc… are all prohibited). Function can use local variables(s).
 - [Interfaces vs Casting performance](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/ActorCommunication/InterfaceQuickStart/). "There are also performance benefits when Interfaces over casting, as loading an Actor that casts to another Actor will subsequently load that Actor to memory as well. If not treated carefully, this could result in a cascading loading effect where loading a single Actor results in several other Actors being loaded into memory as well."
-- [Tom Looman](https://www.tomlooman.com/)
 - Mr Robin’s [Guide to Unreal Engine C++](https://github.com/MrRobinOfficial/Guide-UnrealEngine)
 - [Unreal Engine Community Wiki](https://unrealcommunity.wiki/)
 

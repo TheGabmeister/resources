@@ -1,5 +1,9 @@
 # The Gabmeister Resources
-This page is a collection of links that have helped me throughout my career as a VR, AR, Unreal Engine, and Unity Developer. I’m constantly updating this list, removing old items and adding new ones. I try to remove those that are older than 5 years old. However, there are exceptions which I truly believe contain information that are relevant today. I hope that these resources assist you in your journey.
+This page is a collection of links that have helped me throughout my career as a VR, AR, Unreal Engine, and Unity Developer. I’m constantly updating this list, removing old items and adding new ones. I try to remove those that are older than 5 years old. However, there are exceptions which I truly believe contain information that are relevant today. 
+
+One major shift that happened recently is the advent of AI. Large language models made a lot of beginner-level resources obsolete. We used to scavange the depths of online forums and stack overflow looking for how-to tutorials. Nowadays, we ask AI first, and do a search only if the answer is inadequate. This is why I will only focus on resources that I think add value on top of what AI can already provide. 
+
+I hope that these resources assist you in your journey.
 ```
 "Unfortunately, no one can be told what the Matrix is.
 You have to see it for yourself."
@@ -178,28 +182,42 @@ enough computational power to simulate reality.”
 
 - Tim Sweeney, CEO of Epic Games -
 ```
-### Blogs and Articles
-- [Unreal Engine Learning Library](https://dev.epicgames.com/community/unreal-engine/learning)
-- [Tom Looman](https://www.tomlooman.com/)
-- [Unreal Engine Learning Resources](https://www.tomlooman.com/unreal-engine-resources/) by Tom Looman
 
-### C++ / Blueprints
+### Unreal Engine Docs hidden gems
+- [Balancing Blueprint and C++](https://dev.epicgames.com/documentation/en-us/unreal-engine/balancing-blueprint-and-cplusplus?application_version=4.27) and [learning course](https://dev.epicgames.com/community/learning/courses/bY/unreal-engine-balancing-blueprint-and-c-in-game-development/LdK/introduction-to-the-course)
+
+### Project Architecture and Design Patterns
+- [Unreal Engine Data Roundtable Discussion](https://www.youtube.com/watch?v=6-N-j6W-DhE) (2022) by benui
+- [Data-driven Design in Unreal](https://unreal-garden.com/tutorials/data-driven-design/) (2020) by benui
+
+### Sample Projects
+- [Lyra Sample Game](https://dev.epicgames.com/documentation/en-us/unreal-engine/lyra-sample-game-in-unreal-engine) with [learning path](https://dev.epicgames.com/community/learning/paths/Z4/lyra-starter-game)
+- [Parrot Game Sample](https://dev.epicgames.com/documentation/en-us/unreal-engine/parrot-game-sample-for-unreal-engine) with [video](https://www.youtube.com/watch?v=G8GrRA-8BHA)
+
+### Conventions
+- [Coding Standard](https://dev.epicgames.com/documentation/en-us/unreal-engine/epic-cplusplus-coding-standard-for-unreal-engine)
 - [Unreal Engine 5 Style Guide](https://github.com/Allar/ue5-style-guide) by Michael Allar
 - [Open Unreal Conventions](https://jonasreich.github.io/OpenUnrealConventions/) by Jonas Reich
+
+### C++ / Blueprints
 - [Lessons Learned From A Year of Unreal Engine AAA Development](https://www.youtube.com/watch?v=U0RCO0id1kI) (2022) by Ari Arnbjörnsson
 - [Blueprints vs. C++: How They Fit Together and Why You Should Use Both](https://www.youtube.com/watch?v=VMZftEVDuCE) (2021) by Alex Forsythe
 - [The Unreal Engine Game Framework: From int main() to BeginPlay](https://www.youtube.com/watch?v=IaU2Hue-ApI) (2020) by Alex Forsythe
 - [Unreal Engine C++ Project Setup, From Scratch](https://www.youtube.com/watch?v=94FvzO1HVzY) (2020) by Alex Forsythe
-- [Data-driven Design in Unreal](https://unreal-garden.com/tutorials/data-driven-design/) (2020) by Ben UI
 - [State Design Pattern in Unreal Engine Blueprint](https://www.youtube.com/watch?v=Eh-ONuMYADA) (2020) by Paul Gestwicki
 - [Unreal Property System – Reflection](https://www.unrealengine.com/en-US/blog/unreal-property-system-reflection) (2014) by Michael Noland
 - [Managing complexity in Blueprints](https://www.unrealengine.com/en-US/blog/managing-complexity-in-blueprints) (2014) by Michael Noland
-- Mr Robin Getting Started C++
+- [Events vs Functions](https://forums.unrealengine.com/t/event-functions-whats-the-main-difference-between-them/351110)
+- [Unreal Engine C++ Complete Guide](https://www.tomlooman.com/unreal-engine-cpp-guide/) (2023) by Tom Looman
+- [Unreal C++ speedrun](https://landelare.github.io/2023/01/07/cpp-speedrun.html) (2023) by Laura Andelare
+- Mr Robin’s [Guide to Unreal Engine C++](https://github.com/MrRobinOfficial/Guide-UnrealEngine)
 
-### User Interface
-- [ben ui Unreal Engine](https://benui.ca/) and [YouTube videos](https://www.youtube.com/@benui)
+### UI
+- [Tech Art Chronicles: UMG Tips and Tricks](https://joyrok.com/UMG-Layouts-Tips-and-Tricks)
+- [Best Practices for Creating and Managing Widgets](https://www.youtube.com/watch?v=7b7a20j0azc) (2023) by Kekdot
 - [How to create Modular and Scalable UI systems](https://www.youtube.com/watch?v=v9k-J2GeEKI) (2023) by AmrMakesGames
-- [Lyra Cross-platform UI Development](https://www.youtube.com/watch?v=u06GAVxyIag) (2022) by Nick Darnell
+- [Optimizing and Building UI for AAA Games](https://www.youtube.com/watch?v=OyY3OYbNK7s) (2020) by Carey Hickling
+- [Unreal UI Best Practices](https://unreal-garden.com/tutorials/ui-best-practices/) (2019) by benui
 
 ### Profiling and Optimization
 - [Optimizing and Debugging Projects for Real-Time Rendering](https://dev.epicgames.com/documentation/en-us/unreal-engine/optimizing-and-debugging-projects-for-real-time-rendering-in-unreal-engine) in Unreal Engine Docs
@@ -256,10 +274,15 @@ enough computational power to simulate reality.”
 - [How to use delays in C++ in Unreal Engine](https://georgy.dev/posts/how-to-use-delays/)
 - [Reducing build size of Android or iOS game in Unreal Engine](https://georgy.dev/posts/reducing-mobile-build-size/)
 - [How to integrate third-party library into Unreal Engine](https://georgy.dev/posts/third-party-integration/)
-- Events vs Functions [[1](https://forums.unrealengine.com/t/function-vs-custom-event/1988)][[2](https://forums.unrealengine.com/t/event-functions-whats-the-main-difference-between-them/351110)]. Function can return value(s). Event cannot have any output. Event can use Delay node or timelines, functions cannot. Functions are guaranteed to execute and return immediately by limiting what kinds of nodes can be placed in a function (latent actions, timelines, etc… are all prohibited). Function can use local variables(s).
-- [Interfaces vs Casting performance](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/ActorCommunication/InterfaceQuickStart/). "There are also performance benefits when Interfaces over casting, as loading an Actor that casts to another Actor will subsequently load that Actor to memory as well. If not treated carefully, this could result in a cascading loading effect where loading a single Actor results in several other Actors being loaded into memory as well."
-- Mr Robin’s [Guide to Unreal Engine C++](https://github.com/MrRobinOfficial/Guide-UnrealEngine)
 - [Unreal Engine Community Wiki](https://unrealcommunity.wiki/)
+
+### Blogs and Articles
+- [Unreal Engine Learning Library](https://dev.epicgames.com/community/unreal-engine/learning)
+- [Unreal Garden](https://unreal-garden.com/) UI Tutorials
+- [Tom Looman](https://www.tomlooman.com/)
+- [Laura's (Mostly) Unreal Blog](https://landelare.github.io/)
+- [Unreal Directive](https://unrealdirective.com/) by Dylan "Tezenari" Amos
+- [Unreal Engine Learning Resources](https://www.tomlooman.com/unreal-engine-resources/) by Tom Looman
 
 ## Godot
 - [How to Minify Godot's Build Size (93MB -> 6.4MB exe)](https://popcar.bearblog.dev/how-to-minify-godots-build-size/)

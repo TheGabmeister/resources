@@ -80,15 +80,11 @@ You have to see it for yourself."
 
 ### C++
 - [LearnCpp.com](https://www.learncpp.com/)
-- [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
-- [C++ Links](https://github.com/MattPD/cpplinks) by MattPD
 - [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/) by Henry Schreiner
 - [cmakeSetup](https://github.com/meemknight/cmakeSetup) by meemknight
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines.html) (2024) by Bjarne Stroustrup and Herb Sutter
 - [C++ Game Programming](https://www.youtube.com/playlist?list=PL_xRyXins84_Sq7yZkxGP_MgYAH-Zo8Uu) (2024) by Dave Churchill
-- [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp)
-- [Modernes CPP Resources](https://www.modernescpp.org/resources/)
-- YouTube: [CppCon](https://www.youtube.com/@CppCon), [javidx9](https://www.youtube.com/@javidx9)
+- [Thoughts on Modern C++ and Game Dev](https://www.elbeno.com/blog/?p=1598) (2019)
 
 ### Clean Code and Design Patterns
 - [A Short Summary On Clean Coding Best Practices](https://codeburst.io/a-short-summary-on-clean-coding-best-practices-d8afbfa7677) (2021) by Thilina Ashen Gamage

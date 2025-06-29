@@ -125,67 +125,68 @@ enough computational power to simulate reality.”
 
 ### Sample Projects
 - [Lyra Sample Game](https://dev.epicgames.com/documentation/en-us/unreal-engine/lyra-sample-game-in-unreal-engine) with [learning path](https://dev.epicgames.com/community/learning/paths/Z4/lyra-starter-game)
-- [Parrot Game Sample](https://dev.epicgames.com/documentation/en-us/unreal-engine/parrot-game-sample-for-unreal-engine) with [video](https://www.youtube.com/watch?v=G8GrRA-8BHA)
+- [Parrot Game Sample](https://dev.epicgames.com/documentation/en-us/unreal-engine/parrot-game-sample-for-unreal-engine) with [video](https://www.youtube.com/watch?v=G8GrRA-8BHA) and [documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/parrot-game-sample-for-unreal-engine)
 - [Action Roguelike C++](https://github.com/tomlooman/ActionRoguelike) by Tom Looman
 
 ### Project Management
 - [Setting up an Unreal Engine Studio the Epic Way](https://dev.epicgames.com/community/learning/tutorials/8JYW/epic-for-indies-setting-up-an-unreal-engine-studio-the-epic-way) (2024) by Ari Arnbjörnsson
 
+### Conventions
+- [Coding Standard](https://dev.epicgames.com/documentation/en-us/unreal-engine/epic-cplusplus-coding-standard-for-unreal-engine) in docs
+- [Unreal Engine 5 Style Guide](https://github.com/Allar/ue5-style-guide) by Michael Allar
+- [Open Unreal Conventions](https://jonasreich.github.io/OpenUnrealConventions/) by Jonas Reich
+
+### C++ / Blueprints
+- [Gameplay Ability System](https://dev.epicgames.com/documentation/en-us/unreal-engine/gameplay-ability-system-for-unreal-engine) in docs
+- [Actor Lifecycle](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-actor-lifecycle) in docs
+- [Lessons Learned From A Year of Unreal Engine AAA Development](https://www.youtube.com/watch?v=U0RCO0id1kI) (2022) by Ari Arnbjörnsson
+- [Blueprints vs. C++: How They Fit Together and Why You Should Use Both](https://www.youtube.com/watch?v=VMZftEVDuCE) (2021) by Alex Forsythe
+- [Unreal Engine C++ Project Setup, From Scratch](https://www.youtube.com/watch?v=94FvzO1HVzY) (2020) by Alex Forsythe
+- [Unreal Engine C++ Complete Guide](https://www.tomlooman.com/unreal-engine-cpp-guide/) (2023) by Tom Looman
+- [Unreal C++ speedrun](https://landelare.github.io/2023/01/07/cpp-speedrun.html) (2023) by Laura Andelare
+- Mr Robin’s [Guide to Unreal Engine C++](https://github.com/MrRobinOfficial/Guide-UnrealEngine)
+- [Balancing Blueprint and C++](https://dev.epicgames.com/documentation/en-us/unreal-engine/balancing-blueprint-and-cplusplus?application_version=4.27) and [learning course](https://dev.epicgames.com/community/learning/courses/bY/unreal-engine-balancing-blueprint-and-c-in-game-development/LdK/introduction-to-the-course)
+
 ### Project Architecture and Design Patterns
 - [The Unreal Engine Game Framework: From int main() to BeginPlay](https://www.youtube.com/watch?v=IaU2Hue-ApI) (2020) by Alex Forsythe
+- [State Design Pattern in Unreal Engine Blueprint](https://www.youtube.com/watch?v=Eh-ONuMYADA) (2020) by Paul Gestwicki
 
 ### Data Management
 - [Working with Data in Unreal Engine](https://dev.epicgames.com/community/learning/tutorials/Gp9j/working-with-data-in-unreal-engine-data-tables-data-assets-uproperty-specifiers-and-more) (2024) with [video](https://www.youtube.com/watch?v=HOpyZ8552oA) by JackDCondon
 - [Unreal Engine Data Roundtable Discussion](https://www.youtube.com/watch?v=6-N-j6W-DhE) (2022) by benui
 - [Data-driven Design in Unreal](https://unreal-garden.com/tutorials/data-driven-design/) (2020) by benui
 
-
-
-### Conventions
-- [Coding Standard](https://dev.epicgames.com/documentation/en-us/unreal-engine/epic-cplusplus-coding-standard-for-unreal-engine)
-- [Unreal Engine 5 Style Guide](https://github.com/Allar/ue5-style-guide) by Michael Allar
-- [Open Unreal Conventions](https://jonasreich.github.io/OpenUnrealConventions/) by Jonas Reich
-
-### C++ / Blueprints
-- [Lessons Learned From A Year of Unreal Engine AAA Development](https://www.youtube.com/watch?v=U0RCO0id1kI) (2022) by Ari Arnbjörnsson
-- [Blueprints vs. C++: How They Fit Together and Why You Should Use Both](https://www.youtube.com/watch?v=VMZftEVDuCE) (2021) by Alex Forsythe
-- [Unreal Engine C++ Project Setup, From Scratch](https://www.youtube.com/watch?v=94FvzO1HVzY) (2020) by Alex Forsythe
-- [State Design Pattern in Unreal Engine Blueprint](https://www.youtube.com/watch?v=Eh-ONuMYADA) (2020) by Paul Gestwicki
-- [Unreal Property System – Reflection](https://www.unrealengine.com/en-US/blog/unreal-property-system-reflection) (2014) by Michael Noland
-- [Managing complexity in Blueprints](https://www.unrealengine.com/en-US/blog/managing-complexity-in-blueprints) (2014) by Michael Noland
-- [Events vs Functions](https://forums.unrealengine.com/t/event-functions-whats-the-main-difference-between-them/351110)
-- [Unreal Engine C++ Complete Guide](https://www.tomlooman.com/unreal-engine-cpp-guide/) (2023) by Tom Looman
-- [Unreal C++ speedrun](https://landelare.github.io/2023/01/07/cpp-speedrun.html) (2023) by Laura Andelare
-- Mr Robin’s [Guide to Unreal Engine C++](https://github.com/MrRobinOfficial/Guide-UnrealEngine)
-- [Balancing Blueprint and C++](https://dev.epicgames.com/documentation/en-us/unreal-engine/balancing-blueprint-and-cplusplus?application_version=4.27) and [learning course](https://dev.epicgames.com/community/learning/courses/bY/unreal-engine-balancing-blueprint-and-c-in-game-development/LdK/introduction-to-the-course)
-
-### UI
-- [Unreal Garden](https://unreal-garden.com/) UI Tutorials
+### UI and Localization
+- [Localization](https://dev.epicgames.com/documentation/en-us/unreal-engine/localizing-content-in-unreal-engine) in documentation
+- [Unreal UIs and Localization](https://unreal-garden.com/tutorials/ui-localization/) (2017) by benui 
 - [Tech Art Chronicles: UMG Tips and Tricks](https://joyrok.com/UMG-Layouts-Tips-and-Tricks)
 - [Best Practices for Creating and Managing Widgets](https://www.youtube.com/watch?v=7b7a20j0azc) (2023) by Kekdot
 - [How to create Modular and Scalable UI systems](https://www.youtube.com/watch?v=v9k-J2GeEKI) (2023) by AmrMakesGames
 - [Optimizing and Building UI for AAA Games](https://www.youtube.com/watch?v=OyY3OYbNK7s) (2020) by Carey Hickling
+- [Unreal UI Best Practices](https://unreal-garden.com/tutorials/ui-best-practices/) (2019) by benui
+- [Unreal Garden](https://unreal-garden.com/) UI Tutorials
 
 ### Profiling, Debugging, and Optimization
 - [Optimizing and Debugging Projects for Real-Time Rendering](https://dev.epicgames.com/documentation/en-us/unreal-engine/optimizing-and-debugging-projects-for-real-time-rendering-in-unreal-engine) in Unreal Engine Docs
 - [The Great Hitch Hunt: Tracking Down Every Frame Drop](https://dev.epicgames.com/community/learning/tutorials/6XW8/unreal-engine-the-great-hitch-hunt-tracking-down-every-frame-drop) (2025) by Ari Arnbjörnsson
 - [Game Engines & Shader Stuttering: UE's Solution](https://dev.epicgames.com/community/learning/tutorials/xjzE/unreal-engine-epic-for-indies-game-engines-shader-stuttering-ue-s-solution) (2025) by Ari Arnbjörnsson
 - [Myth-busting "Best Practices" in Unreal Engine](https://dev.epicgames.com/community/learning/tutorials/l3E0/myth-busting-best-practices-in-unreal-engine) (2024) by Ari Arnbjörnsson
-- [Optimizing UE5: Advanced Rendering, Graphics Performance, and Memory Management](https://dev.epicgames.com/community/learning/knowledge-base/9Jx9/unreal-engine-optimizing-ue5-advanced-rendering-graphics-performance-and-memory-management-resources) (2024)
 - [Advanced Debugging in Unreal Engine](https://dev.epicgames.com/community/learning/tutorials/dXl5/advanced-debugging-in-unreal-engine) (2023) by Ari Arnbjörnsson
 - [Unreal Engine Game Optimization on a Budget](https://www.tomlooman.com/unrealengine-optimization-talk/) (2022) by Tom Looman
 - [Deep Dive: Memory Management in Blueprints](https://www.jesseleehumphry.com/post/deep-dive-memory-management-in-blueprints) (2020) by Jesse Humphy
 - [Deep Dive: Memory Management in Blueprints II](https://www.jesseleehumphry.com/post/deep-dive-memory-management-in-blueprints-ii) (2020) by Jesse Humphy
 - [Profiling and Optimization in UE4](https://www.youtube.com/watch?v=EbXakIuZPFo) (2019) by Paulo Souza
 
+### Graphics Optimization
+- [Optimizing and Debugging Projects for Real-Time Rendering](https://dev.epicgames.com/documentation/en-us/unreal-engine/optimizing-and-debugging-projects-for-real-time-rendering-in-unreal-engine) in documentation
+- [Optimizing UE5: Advanced Rendering, Graphics Performance, and Memory Management](https://dev.epicgames.com/community/learning/knowledge-base/9Jx9/unreal-engine-optimizing-ue5-advanced-rendering-graphics-performance-and-memory-management-resources) (2024)
+- [Shader Optimization – True Instruction Cost, Performance Tips](https://www.youtube.com/watch?v=y0QASid1v8w) (2022) by Tech Art Aid
+- [Unreal Art Optimization](https://unrealartoptimization.github.io/) by Oskar Świerad
+- [Performance Optimization for Environments](https://www.youtube.com/watch?v=ZRaeiVAM4LI) (2020) by Matt Oztalay and Jakob Keudel
 
 ### Lighting, Rendering, and Shaders
 - [Understanding Lightmapping in Unreal Engine](https://docs.unrealengine.com/5.0/en-US/understanding-lightmapping-in-unreal-engine/) in documentation
-- [Shader Optimization – True Instruction Cost, Performance Tips](https://www.youtube.com/watch?v=y0QASid1v8w) (2022) by Tech Art Aid
-- [Performance Optimization for Environments](https://www.youtube.com/watch?v=ZRaeiVAM4LI) (2020) by Matt Oztalay and Jakob Keudel
 - [An In-Depth Look at Real-Time Rendering](https://www.unrealengine.com/en-US/onlinelearning-courses/an-in-depth-look-at-real-time-rendering) (2019) by Sjoerd de Jong
-- [Unreal Art Optimization](https://unrealartoptimization.github.io/) by Oskar Świerad
-
 
 ### Networking / Multiplayer
 - [Unreal Engine Multiplayer Tips and Tricks](https://wizardcell.com/unreal/multiplayer-tips-and-tricks/) by WizardCell

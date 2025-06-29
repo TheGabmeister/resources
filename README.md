@@ -128,7 +128,7 @@ enough computational power to simulate reality.”
 - [Parrot Game Sample](https://dev.epicgames.com/documentation/en-us/unreal-engine/parrot-game-sample-for-unreal-engine) with [video](https://www.youtube.com/watch?v=G8GrRA-8BHA) and [documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/parrot-game-sample-for-unreal-engine)
 - [Action Roguelike C++](https://github.com/tomlooman/ActionRoguelike) by Tom Looman
 
-### Project Management
+### Project Management, CI/CD, Version Control
 - [Setting up an Unreal Engine Studio the Epic Way](https://dev.epicgames.com/community/learning/tutorials/8JYW/epic-for-indies-setting-up-an-unreal-engine-studio-the-epic-way) (2024) by Ari Arnbjörnsson
 
 ### Conventions
@@ -156,8 +156,11 @@ enough computational power to simulate reality.”
 - [Unreal Engine Data Roundtable Discussion](https://www.youtube.com/watch?v=6-N-j6W-DhE) (2022) by benui
 - [Data-driven Design in Unreal](https://unreal-garden.com/tutorials/data-driven-design/) (2020) by benui
 
+## Physics and Collision
+- [Tips and Tricks for Chaos Destruction](https://www.youtube.com/watch?v=zFiHDRREv7E) (2025) by Xiao Yue
+- [Practical Tips for Managing Collision Settings & Queries](https://www.youtube.com/watch?v=xIQI6nXFygA) (2023) by George Prosser
+
 ### UI and Localization
-- [Localization](https://dev.epicgames.com/documentation/en-us/unreal-engine/localizing-content-in-unreal-engine) in documentation
 - [Unreal UIs and Localization](https://unreal-garden.com/tutorials/ui-localization/) (2017) by benui 
 - [Tech Art Chronicles: UMG Tips and Tricks](https://joyrok.com/UMG-Layouts-Tips-and-Tricks)
 - [Best Practices for Creating and Managing Widgets](https://www.youtube.com/watch?v=7b7a20j0azc) (2023) by Kekdot
@@ -168,8 +171,10 @@ enough computational power to simulate reality.”
 
 ### Profiling, Debugging, and Optimization
 - [Optimizing and Debugging Projects for Real-Time Rendering](https://dev.epicgames.com/documentation/en-us/unreal-engine/optimizing-and-debugging-projects-for-real-time-rendering-in-unreal-engine) in Unreal Engine Docs
+- [Beyond Print String](https://dev.epicgames.com/community/learning/talks-and-demos/WDmB/beyond-print-string-debugging-unreal-engine-lightning-round-unreal-fest-bali-2025) (2025) by Matt Oztalay
 - [The Great Hitch Hunt: Tracking Down Every Frame Drop](https://dev.epicgames.com/community/learning/tutorials/6XW8/unreal-engine-the-great-hitch-hunt-tracking-down-every-frame-drop) (2025) by Ari Arnbjörnsson
 - [Game Engines & Shader Stuttering: UE's Solution](https://dev.epicgames.com/community/learning/tutorials/xjzE/unreal-engine-epic-for-indies-game-engines-shader-stuttering-ue-s-solution) (2025) by Ari Arnbjörnsson
+- [Performance Tips & Tricks - Animation](https://dev.epicgames.com/community/learning/knowledge-base/xBZp/unreal-engine-performance-tips-tricks-animation) (2025) by Euan Carmichael
 - [Myth-busting "Best Practices" in Unreal Engine](https://dev.epicgames.com/community/learning/tutorials/l3E0/myth-busting-best-practices-in-unreal-engine) (2024) by Ari Arnbjörnsson
 - [Advanced Debugging in Unreal Engine](https://dev.epicgames.com/community/learning/tutorials/dXl5/advanced-debugging-in-unreal-engine) (2023) by Ari Arnbjörnsson
 - [Unreal Engine Game Optimization on a Budget](https://www.tomlooman.com/unrealengine-optimization-talk/) (2022) by Tom Looman
@@ -187,6 +192,10 @@ enough computational power to simulate reality.”
 ### Lighting, Rendering, and Shaders
 - [Understanding Lightmapping in Unreal Engine](https://docs.unrealengine.com/5.0/en-US/understanding-lightmapping-in-unreal-engine/) in documentation
 - [An In-Depth Look at Real-Time Rendering](https://www.unrealengine.com/en-US/onlinelearning-courses/an-in-depth-look-at-real-time-rendering) (2019) by Sjoerd de Jong
+
+## Mobile
+- [Unreal for Mobile: Building AAA Cross-Platform Open Worlds](https://www.youtube.com/watch?v=nZlVkI3j7Xs) (2024) by Arvind Neelakantan
+- [Mobile UI Performance Tips](https://www.youtube.com/watch?v=R-SRTLs4wjI) (2024) by Cody Albert
 
 ### Networking / Multiplayer
 - [Unreal Engine Multiplayer Tips and Tricks](https://wizardcell.com/unreal/multiplayer-tips-and-tricks/) by WizardCell
@@ -218,7 +227,6 @@ enough computational power to simulate reality.”
 - [Optimal Post Process Settings / 2D Pixel Art](https://ue5study.com/2d/ue5-2d-postprocess-settings/)
 
 ### Others
-- [How to use delays in C++ in Unreal Engine](https://georgy.dev/posts/how-to-use-delays/)
 - [Reducing build size of Android or iOS game in Unreal Engine](https://georgy.dev/posts/reducing-mobile-build-size/)
 - [How to integrate third-party library into Unreal Engine](https://georgy.dev/posts/third-party-integration/)\
 - [The Unfeatured Features of Unreal Engine](https://www.youtube.com/watch?v=_BIZ3FOcLNs) (2024) by Chris Murphy
@@ -275,6 +283,7 @@ You have to see it for yourself."
 ### XR in Unreal Engine
 - [XR Best Practices](https://dev.epicgames.com/documentation/en-us/unreal-engine/xr-best-practices-in-unreal-engine) in UE Documentation
 - [XR Performance and Profiling](https://dev.epicgames.com/documentation/en-us/unreal-engine/xr-performance-and-profiling-in-unreal-engine) in UE Documentation
+- [Using UE5 to Build Modern VR Action Games]() (2024) by Alex Silkin
 - [Profiling with Stereo Rendering](https://dev.epicgames.com/community/learning/tutorials/bOLv/unreal-engine-profiling-with-stereo-rendering-xr) (2024) by Epic Online Learning
 - [What You Didn’t Know About VR Development in Unreal Engine](https://www.youtube.com/watch?v=vT1T2unF8EI) (2023)
 - [What are the Performance-killer for VR?](https://forums.unrealengine.com/t/what-are-the-performance-killer-for-vr-eg-oculusquest2-all-postprocess-all-screen-space/248143) (2021) in UE Forums

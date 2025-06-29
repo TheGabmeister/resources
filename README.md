@@ -3,7 +3,7 @@ This page is a collection of links I have found useful throughout my career (mos
 
 One major shift that happened recently was the advent of AI. Large language models (LLMs) made a lot of beginner-level resources obsolete. We used to scavange the depths of online forums and stack overflow looking for "how-to" tutorials. Nowadays, we ask AI first, and do a search only if the answer is inadequate. This is why I will focus on resources that I think add value on top of what AI can already provide. 
 
-The biggest mistake I did back then was getting into game engines without understanding computer programming fundamentals. I have never taken any formal computer science or game development education, so I just jumped straight into Unity and watched YouTube tutorials. Mainstream game engines do a lot of heavy lifting to abstract away the complexity happening under the hood. If you stay too long working on this abstraction layer, your knowledge and skills will plateau early, and it will be harder to tackle complex projects that require deeper understanding. That is why I recommend studying Assembly, C, and C++ alongside game engines. In fact, I recommend making your own simple game engine just for learning. Get comfortable programming like how it was in the early 90s, and gradually move up the abstraction layers.
+The biggest mistake I did back then was getting into game engines without understanding computer programming fundamentals. I have never taken any formal computer science or game development education, so I just jumped straight into Unity and watched YouTube tutorials. Mainstream game engines do a lot of heavy lifting to abstract away the complexity happening under the hood. If you stay too long working on this abstraction layer, your knowledge and skills will plateau early, and it will be harder to tackle complex projects that require deeper understanding. That is why I recommend studying Assembly, C, and C++ alongside game engines. If you have lots of time, I recommend making your own simple game engine just for learning. Get comfortable programming like how it was in the early 90s, and gradually move up the abstraction layers.
 
 Another best practice, if it's not already obvious, is to read the manual. The Unity and Unreal documentation, for example, are continously being updated. You would be surprised how much hidden gems are tucked away here. 
 
@@ -67,6 +67,7 @@ If you have that drive, Unity will give you back thousandfold."
 ```
 
 ### Sample Projects
+- [Parrot Game Sample](https://www.fab.com/listings/3b06d6ea-4185-472c-9783-22c329aae3fc) (2025)
 - [Unity Open Project #1: Chop Chop](https://github.com/UnityTechnologies/open-project-1)
 
 ### Project Architecture and Programming Patterns
@@ -122,16 +123,23 @@ enough computational power to simulate reality.”
 - Tim Sweeney, CEO of Epic Games -
 ```
 
-### Project Architecture and Design Patterns
-- [Working with Data in Unreal Engine](https://dev.epicgames.com/community/learning/tutorials/Gp9j/working-with-data-in-unreal-engine-data-tables-data-assets-uproperty-specifiers-and-more) (2024) with [video](https://www.youtube.com/watch?v=HOpyZ8552oA) by JackDCondon
-- [Unreal Engine Data Roundtable Discussion](https://www.youtube.com/watch?v=6-N-j6W-DhE) (2022) by benui
-- [Data-driven Design in Unreal](https://unreal-garden.com/tutorials/data-driven-design/) (2020) by benui
-- [The Unreal Engine Game Framework: From int main() to BeginPlay](https://www.youtube.com/watch?v=IaU2Hue-ApI) (2020) by Alex Forsythe
-
 ### Sample Projects
 - [Lyra Sample Game](https://dev.epicgames.com/documentation/en-us/unreal-engine/lyra-sample-game-in-unreal-engine) with [learning path](https://dev.epicgames.com/community/learning/paths/Z4/lyra-starter-game)
 - [Parrot Game Sample](https://dev.epicgames.com/documentation/en-us/unreal-engine/parrot-game-sample-for-unreal-engine) with [video](https://www.youtube.com/watch?v=G8GrRA-8BHA)
 - [Action Roguelike C++](https://github.com/tomlooman/ActionRoguelike) by Tom Looman
+
+### Project Management
+- [Setting up an Unreal Engine Studio the Epic Way](https://dev.epicgames.com/community/learning/tutorials/8JYW/epic-for-indies-setting-up-an-unreal-engine-studio-the-epic-way) (2024) by Ari Arnbjörnsson
+
+### Project Architecture and Design Patterns
+- [The Unreal Engine Game Framework: From int main() to BeginPlay](https://www.youtube.com/watch?v=IaU2Hue-ApI) (2020) by Alex Forsythe
+
+### Data Management
+- [Working with Data in Unreal Engine](https://dev.epicgames.com/community/learning/tutorials/Gp9j/working-with-data-in-unreal-engine-data-tables-data-assets-uproperty-specifiers-and-more) (2024) with [video](https://www.youtube.com/watch?v=HOpyZ8552oA) by JackDCondon
+- [Unreal Engine Data Roundtable Discussion](https://www.youtube.com/watch?v=6-N-j6W-DhE) (2022) by benui
+- [Data-driven Design in Unreal](https://unreal-garden.com/tutorials/data-driven-design/) (2020) by benui
+
+
 
 ### Conventions
 - [Coding Standard](https://dev.epicgames.com/documentation/en-us/unreal-engine/epic-cplusplus-coding-standard-for-unreal-engine)
@@ -158,29 +166,26 @@ enough computational power to simulate reality.”
 - [How to create Modular and Scalable UI systems](https://www.youtube.com/watch?v=v9k-J2GeEKI) (2023) by AmrMakesGames
 - [Optimizing and Building UI for AAA Games](https://www.youtube.com/watch?v=OyY3OYbNK7s) (2020) by Carey Hickling
 
-### Profiling and Optimization
+### Profiling, Debugging, and Optimization
 - [Optimizing and Debugging Projects for Real-Time Rendering](https://dev.epicgames.com/documentation/en-us/unreal-engine/optimizing-and-debugging-projects-for-real-time-rendering-in-unreal-engine) in Unreal Engine Docs
 - [The Great Hitch Hunt: Tracking Down Every Frame Drop](https://dev.epicgames.com/community/learning/tutorials/6XW8/unreal-engine-the-great-hitch-hunt-tracking-down-every-frame-drop) (2025) by Ari Arnbjörnsson
 - [Game Engines & Shader Stuttering: UE's Solution](https://dev.epicgames.com/community/learning/tutorials/xjzE/unreal-engine-epic-for-indies-game-engines-shader-stuttering-ue-s-solution) (2025) by Ari Arnbjörnsson
 - [Myth-busting "Best Practices" in Unreal Engine](https://dev.epicgames.com/community/learning/tutorials/l3E0/myth-busting-best-practices-in-unreal-engine) (2024) by Ari Arnbjörnsson
 - [Optimizing UE5: Advanced Rendering, Graphics Performance, and Memory Management](https://dev.epicgames.com/community/learning/knowledge-base/9Jx9/unreal-engine-optimizing-ue5-advanced-rendering-graphics-performance-and-memory-management-resources) (2024)
-- [Dissecting a Frame with RenderDoc](https://www.youtube.com/watch?v=7eznPe3TyAY) (2023) by Tech Art Aid
-- [UE5: Optimizing Memory Usage of Textures &amp; Meshes](https://www.youtube.com/watch?v=PQtrB-c6zhc) (2023) by Tech Art Aid
-- [Shader Optimization – True Instruction Cost, Performance Tips](https://www.youtube.com/watch?v=y0QASid1v8w) (2022) by Tech Art Aid
+- [Advanced Debugging in Unreal Engine](https://dev.epicgames.com/community/learning/tutorials/dXl5/advanced-debugging-in-unreal-engine) (2023) by Ari Arnbjörnsson
 - [Unreal Engine Game Optimization on a Budget](https://www.tomlooman.com/unrealengine-optimization-talk/) (2022) by Tom Looman
 - [Deep Dive: Memory Management in Blueprints](https://www.jesseleehumphry.com/post/deep-dive-memory-management-in-blueprints) (2020) by Jesse Humphy
 - [Deep Dive: Memory Management in Blueprints II](https://www.jesseleehumphry.com/post/deep-dive-memory-management-in-blueprints-ii) (2020) by Jesse Humphy
-- [An In-Depth Look at Real-Time Rendering](https://www.unrealengine.com/en-US/onlinelearning-courses/an-in-depth-look-at-real-time-rendering) (2019) by Sjoerd de Jong
 - [Profiling and Optimization in UE4](https://www.youtube.com/watch?v=EbXakIuZPFo) (2019) by Paulo Souza
+
+
+### Lighting, Rendering, and Shaders
+- [Understanding Lightmapping in Unreal Engine](https://docs.unrealengine.com/5.0/en-US/understanding-lightmapping-in-unreal-engine/) in documentation
+- [Shader Optimization – True Instruction Cost, Performance Tips](https://www.youtube.com/watch?v=y0QASid1v8w) (2022) by Tech Art Aid
 - [Performance Optimization for Environments](https://www.youtube.com/watch?v=ZRaeiVAM4LI) (2020) by Matt Oztalay and Jakob Keudel
+- [An In-Depth Look at Real-Time Rendering](https://www.unrealengine.com/en-US/onlinelearning-courses/an-in-depth-look-at-real-time-rendering) (2019) by Sjoerd de Jong
 - [Unreal Art Optimization](https://unrealartoptimization.github.io/) by Oskar Świerad
 
-### Lighting
-- [Understanding Lightmapping in Unreal Engine](https://docs.unrealengine.com/5.0/en-US/understanding-lightmapping-in-unreal-engine/) in documentation
-- [Generating Lightmap UVs](https://docs.unrealengine.com/5.0/en-US/generating-lightmap-uvs-in-unreal-engine/) in documentation
-- [Modular Asset Lighting Problem](https://forums.unrealengine.com/t/modular-asset-lighting-problem/12223)
-- [Unreal Engine 4 Lighting Masterclass Summary](https://www.tomlooman.com/lighting-with-unreal-engine-jerome/) (2017) by Tom Looman (talk by Jerome Platteaux)
-- [Unreal Engine 4 Lighting Academy](https://www.youtube.com/user/51Daedalus/playlists) by 51Daedalus
 
 ### Networking / Multiplayer
 - [Unreal Engine Multiplayer Tips and Tricks](https://wizardcell.com/unreal/multiplayer-tips-and-tricks/) by WizardCell
@@ -217,7 +222,7 @@ enough computational power to simulate reality.”
 - [How to integrate third-party library into Unreal Engine](https://georgy.dev/posts/third-party-integration/)\
 - [The Unfeatured Features of Unreal Engine](https://www.youtube.com/watch?v=_BIZ3FOcLNs) (2024) by Chris Murphy
 
-### Other Blogs and Articles
+### Other Blogs, Articles, and YouTube channels
 - [Unreal Engine Tech Blogs](https://www.unrealengine.com/en-US/feed?tags=tech-blog)
 - [Unreal Engine Learning Library](https://dev.epicgames.com/community/unreal-engine/learning)
 - [Ari's Unreal Engine Notes](https://flassari.notion.site/Ari-s-Unreal-Engine-Notes-1a75e43f4014464984d4fae0617e5cef)
@@ -227,6 +232,7 @@ enough computational power to simulate reality.”
 - [Unreal Engine Learning Resources](https://www.tomlooman.com/unreal-engine-resources/) by Tom Looman
 - [Laura's (Mostly) Unreal Blog](https://landelare.github.io/)
 - [Unreal Directive](https://unrealdirective.com/) by Dylan "Tezenari" Amos
+- [Tech Art Aid](https://www.youtube.com/@TechArtAid/videos) by Oskar Świerad
 
 ## Godot
 - [How to Minify Godot's Build Size (93MB -> 6.4MB exe)](https://popcar.bearblog.dev/how-to-minify-godots-build-size/)

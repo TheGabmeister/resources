@@ -130,6 +130,7 @@ enough computational power to simulate reality.”
 
 ### Project Management, CI/CD, Version Control
 - [Setting up an Unreal Engine Studio the Epic Way](https://dev.epicgames.com/community/learning/tutorials/8JYW/epic-for-indies-setting-up-an-unreal-engine-studio-the-epic-way) (2024) by Ari Arnbjörnsson
+- [Workflow Best Practices & Avoiding Common Pitfalls with Perforce & UE](https://www.youtube.com/watch?v=A8JzPKlHz8o) (2024) by Ryan Maffesoli
 
 ### Conventions
 - [Coding Standard](https://dev.epicgames.com/documentation/en-us/unreal-engine/epic-cplusplus-coding-standard-for-unreal-engine) in docs
@@ -137,9 +138,13 @@ enough computational power to simulate reality.”
 - [Open Unreal Conventions](https://jonasreich.github.io/OpenUnrealConventions/) by Jonas Reich
 
 ### C++ / Blueprints
-- [Gameplay Ability System](https://dev.epicgames.com/documentation/en-us/unreal-engine/gameplay-ability-system-for-unreal-engine) in docs
 - [Actor Lifecycle](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-actor-lifecycle) in docs
+- [Advanced Blueprinting Techniques](https://www.youtube.com/watch?v=IIr4-cpbKog) (2024) by Matt Oztalay
+- [De-spaghetti Your Blueprints, the Scientific Way](https://www.youtube.com/watch?v=1SH9DBlfE4I) (2024) by Valentin Galea
+- [Navigating Enhanced Input in UE & Conquering Common Challenges](https://www.youtube.com/watch?v=iV5HygiBwGE) (2024) by Thomas Sheppard and Hayden Simpson
 - [Lessons Learned From A Year of Unreal Engine AAA Development](https://www.youtube.com/watch?v=U0RCO0id1kI) (2022) by Ari Arnbjörnsson
+- [Building Tools Quickly: Blueprints, Menus, Utilities, and Widgets](https://www.youtube.com/watch?v=wJqOn88cU7o) (2022) by Paul Greveson
+- [Exploring the Gameplay Ability System (GAS) with an Action RPG](https://www.youtube.com/watch?v=tc542u36JR0) (2022) by Sam Pike
 - [Blueprints vs. C++: How They Fit Together and Why You Should Use Both](https://www.youtube.com/watch?v=VMZftEVDuCE) (2021) by Alex Forsythe
 - [Unreal Engine C++ Project Setup, From Scratch](https://www.youtube.com/watch?v=94FvzO1HVzY) (2020) by Alex Forsythe
 - [Unreal Engine C++ Complete Guide](https://www.tomlooman.com/unreal-engine-cpp-guide/) (2023) by Tom Looman
@@ -156,27 +161,33 @@ enough computational power to simulate reality.”
 - [Unreal Engine Data Roundtable Discussion](https://www.youtube.com/watch?v=6-N-j6W-DhE) (2022) by benui
 - [Data-driven Design in Unreal](https://unreal-garden.com/tutorials/data-driven-design/) (2020) by benui
 
-## Physics and Collision
+### Physics and Collision
 - [Tips and Tricks for Chaos Destruction](https://www.youtube.com/watch?v=zFiHDRREv7E) (2025) by Xiao Yue
 - [Practical Tips for Managing Collision Settings & Queries](https://www.youtube.com/watch?v=xIQI6nXFygA) (2023) by George Prosser
+- [The Gritty Reality of Real-Time Cloth and Rigid-Body Character Physics](https://www.youtube.com/watch?v=4NkNBImONJU) (2022) by Tim Brakensiek
+
+### AI
+- [Designing and Implementing Your Game’s AI Architecture in UE](https://www.youtube.com/watch?v=a3bHkVDZuYU) (2024) by Maciej Sulinski
 
 ### UI and Localization
-- [Unreal UIs and Localization](https://unreal-garden.com/tutorials/ui-localization/) (2017) by benui 
 - [Tech Art Chronicles: UMG Tips and Tricks](https://joyrok.com/UMG-Layouts-Tips-and-Tricks)
 - [Best Practices for Creating and Managing Widgets](https://www.youtube.com/watch?v=7b7a20j0azc) (2023) by Kekdot
 - [How to create Modular and Scalable UI systems](https://www.youtube.com/watch?v=v9k-J2GeEKI) (2023) by AmrMakesGames
+- [Advanced UI Templating Techniques using Widget Blueprints and Materials](https://www.youtube.com/watch?v=dSTdAToJ7Gg) (2022) by Adrienne Pugh
 - [Optimizing and Building UI for AAA Games](https://www.youtube.com/watch?v=OyY3OYbNK7s) (2020) by Carey Hickling
 - [Unreal UI Best Practices](https://unreal-garden.com/tutorials/ui-best-practices/) (2019) by benui
+- [Unreal UIs and Localization](https://unreal-garden.com/tutorials/ui-localization/) (2017) by benui 
 - [Unreal Garden](https://unreal-garden.com/) UI Tutorials
 
 ### Profiling, Debugging, and Optimization
-- [Optimizing and Debugging Projects for Real-Time Rendering](https://dev.epicgames.com/documentation/en-us/unreal-engine/optimizing-and-debugging-projects-for-real-time-rendering-in-unreal-engine) in Unreal Engine Docs
 - [Beyond Print String](https://dev.epicgames.com/community/learning/talks-and-demos/WDmB/beyond-print-string-debugging-unreal-engine-lightning-round-unreal-fest-bali-2025) (2025) by Matt Oztalay
 - [The Great Hitch Hunt: Tracking Down Every Frame Drop](https://dev.epicgames.com/community/learning/tutorials/6XW8/unreal-engine-the-great-hitch-hunt-tracking-down-every-frame-drop) (2025) by Ari Arnbjörnsson
 - [Game Engines & Shader Stuttering: UE's Solution](https://dev.epicgames.com/community/learning/tutorials/xjzE/unreal-engine-epic-for-indies-game-engines-shader-stuttering-ue-s-solution) (2025) by Ari Arnbjörnsson
 - [Performance Tips & Tricks - Animation](https://dev.epicgames.com/community/learning/knowledge-base/xBZp/unreal-engine-performance-tips-tricks-animation) (2025) by Euan Carmichael
 - [Myth-busting "Best Practices" in Unreal Engine](https://dev.epicgames.com/community/learning/tutorials/l3E0/myth-busting-best-practices-in-unreal-engine) (2024) by Ari Arnbjörnsson
+- [Optimizing the Game Thread](https://www.youtube.com/watch?v=KxREK-DYu70) (2024) by Jake Simpson
 - [Advanced Debugging in Unreal Engine](https://dev.epicgames.com/community/learning/tutorials/dXl5/advanced-debugging-in-unreal-engine) (2023) by Ari Arnbjörnsson
+- [Asset Dependency Chains: The Hidden Danger](https://www.youtube.com/watch?v=4-oRyDLfo7M) (2022) by Mark Craig
 - [Unreal Engine Game Optimization on a Budget](https://www.tomlooman.com/unrealengine-optimization-talk/) (2022) by Tom Looman
 - [Deep Dive: Memory Management in Blueprints](https://www.jesseleehumphry.com/post/deep-dive-memory-management-in-blueprints) (2020) by Jesse Humphy
 - [Deep Dive: Memory Management in Blueprints II](https://www.jesseleehumphry.com/post/deep-dive-memory-management-in-blueprints-ii) (2020) by Jesse Humphy
@@ -184,18 +195,30 @@ enough computational power to simulate reality.”
 
 ### Graphics Optimization
 - [Optimizing and Debugging Projects for Real-Time Rendering](https://dev.epicgames.com/documentation/en-us/unreal-engine/optimizing-and-debugging-projects-for-real-time-rendering-in-unreal-engine) in documentation
-- [Optimizing UE5: Advanced Rendering, Graphics Performance, and Memory Management](https://dev.epicgames.com/community/learning/knowledge-base/9Jx9/unreal-engine-optimizing-ue5-advanced-rendering-graphics-performance-and-memory-management-resources) (2024)
+- [1-hour of Unreal GPU Optimization Tips & Tricks](https://www.youtube.com/watch?v=c2MH20OPSw0) (2025) by Tom Looman
+- [Optimizing UE5: Advanced Rendering, Graphics Performance, and Memory Management](https://www.youtube.com/watch?v=dj4kNnj4FAQ) (2024) by Matt Oztalay
+- [Optimizing UE5: Rethinking Performance Paradigms for High-Quality Visuals - Part 1](https://dev.epicgames.com/community/learning/talks-and-demos/Vpv2/unreal-engine-optimizing-ue5-rethinking-performance-paradigms-for-high-quality-visuals-part-1-nanite-and-lumen-unreal-fest-2023) (2023) by Matt Oztalay
+- [Optimizing UE5: Rethinking Performance Paradigms for High-Quality Visuals - Part 2](https://dev.epicgames.com/community/learning/talks-and-demos/VlO2/unreal-engine-optimizing-ue5-rethinking-performance-paradigms-for-high-quality-visuals-pt-2-supporting-systems-unreal-fest-2023) (2023) by Matt Oztalay
+- [Vegetation Best Practices for UE5](https://dev.epicgames.com/community/learning/talks-and-demos/2lyj/unreal-engine-vegetation-best-practices-for-ue5) (2023) by Nils Arenz
 - [Shader Optimization – True Instruction Cost, Performance Tips](https://www.youtube.com/watch?v=y0QASid1v8w) (2022) by Tech Art Aid
 - [Unreal Art Optimization](https://unrealartoptimization.github.io/) by Oskar Świerad
 - [Performance Optimization for Environments](https://www.youtube.com/watch?v=ZRaeiVAM4LI) (2020) by Matt Oztalay and Jakob Keudel
 
 ### Lighting, Rendering, and Shaders
-- [Understanding Lightmapping in Unreal Engine](https://docs.unrealengine.com/5.0/en-US/understanding-lightmapping-in-unreal-engine/) in documentation
+- [Advanced Rendering and Debugging Tips](https://www.youtube.com/watch?v=ICA0ZGMfufI) (2024) by Nori Shinoyama and Yutaro Sawada
+- [Battle-Testing UE5 Next-Gen Systems with Fortnite](https://www.youtube.com/watch?v=05FCjQR--Sc) (2023) by Paul Mader
+- [The Journey to Nanite](https://www.youtube.com/watch?v=NRnj_lnpORU) (2022) by Brian Karis
+- [A Deep Dive into Nanite Virtualized Geometry](https://www.youtube.com/watch?v=eviSykqSUUw) (2021) by Brian Karis, Rune Stubbe, Graham Wihlidal
 - [An In-Depth Look at Real-Time Rendering](https://www.unrealengine.com/en-US/onlinelearning-courses/an-in-depth-look-at-real-time-rendering) (2019) by Sjoerd de Jong
 
-## Mobile
+### Animation
+- [Unreal Engine 5 Character and Animation Optimizations](https://www.youtube.com/watch?v=N_suMyUuork) (2024) by Matthew Lake
+
+### Mobile
 - [Unreal for Mobile: Building AAA Cross-Platform Open Worlds](https://www.youtube.com/watch?v=nZlVkI3j7Xs) (2024) by Arvind Neelakantan
+- [Building AAA Mobile Games with Unreal Engine](https://www.youtube.com/watch?v=QbskVTJrWRI) (2024) by Arvind Neelakantan
 - [Mobile UI Performance Tips](https://www.youtube.com/watch?v=R-SRTLs4wjI) (2024) by Cody Albert
+- [Advanced Development and Debugging for Android/iOS](https://www.youtube.com/watch?v=jQX2SFuKN9s) (2022) by Dmytro Vovk and Axel Riffard
 
 ### Networking / Multiplayer
 - [Unreal Engine Multiplayer Tips and Tricks](https://wizardcell.com/unreal/multiplayer-tips-and-tricks/) by WizardCell
@@ -207,6 +230,10 @@ enough computational power to simulate reality.”
 - <https://unreal-mmo-dev.com>
 - [Kieran Newland Blog](https://www.kierannewland.co.uk/blog/)
 - [Devtricks blog](https://vorixo.github.io/devtricks/) by Alvaro Jover-Alvarez
+
+### Epic Online Servies
+- [Creating Scalable Multiplayer Experiences](https://www.youtube.com/watch?v=h2Tr8Lk8hXI) (2024) by Ryan Maloney
+- [Epic Online Services: Developer Tips and Tricks](https://www.youtube.com/watch?v=-RrA41fYQlc) (2024) by James White
 
 ### Pixel Streaming
 - [Pixel Streaming documentation](https://docs.unrealengine.com/5.2/en-US/pixel-streaming-in-unreal-engine/)
@@ -227,11 +254,11 @@ enough computational power to simulate reality.”
 - [Optimal Post Process Settings / 2D Pixel Art](https://ue5study.com/2d/ue5-2d-postprocess-settings/)
 
 ### Others
-- [Reducing build size of Android or iOS game in Unreal Engine](https://georgy.dev/posts/reducing-mobile-build-size/)
-- [How to integrate third-party library into Unreal Engine](https://georgy.dev/posts/third-party-integration/)\
+- [I Wish I Learned This Sooner!](https://www.youtube.com/watch?v=m0T8euG9Rh8) (2024) by Alex Coulombe
 - [The Unfeatured Features of Unreal Engine](https://www.youtube.com/watch?v=_BIZ3FOcLNs) (2024) by Chris Murphy
+- [How to integrate third-party library into Unreal Engine](https://georgy.dev/posts/third-party-integration/)\
 
-### Other Blogs, Articles, and YouTube channels
+### Blogs, Articles, and YouTube channels
 - [Unreal Engine Tech Blogs](https://www.unrealengine.com/en-US/feed?tags=tech-blog)
 - [Unreal Engine Learning Library](https://dev.epicgames.com/community/unreal-engine/learning)
 - [Ari's Unreal Engine Notes](https://flassari.notion.site/Ari-s-Unreal-Engine-Notes-1a75e43f4014464984d4fae0617e5cef)

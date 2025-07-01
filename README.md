@@ -3,7 +3,7 @@ This page is a collection of links I have found useful throughout my career (mos
 
 One major shift that happened recently was the advent of AI. Large language models (LLMs) made a lot of beginner-level resources obsolete. We used to scavange the depths of online forums and stack overflow looking for "how-to" tutorials. Nowadays, we ask AI first, and do a search only if the answer is inadequate. This is why I will focus on resources that I think add value on top of what AI can already provide. 
 
-The biggest mistake I did back then was getting into game engines without understanding computer programming fundamentals. I have never taken any formal computer science or game development education, so I just jumped straight into Unity and watched YouTube tutorials. Mainstream game engines do a lot of heavy lifting to abstract away the complexity happening under the hood. If you stay too long working on this abstraction layer, your knowledge and skills will plateau early, and it will be harder to tackle complex projects that require deeper understanding. That is why I recommend studying Assembly, C, and C++ alongside game engines. If you have lots of time, I recommend making your own simple game engine just for learning. Get comfortable programming like how it was in the early 90s, and gradually move up the abstraction layers.
+The two biggest mistakes I did back when I was starting was getting into game engines and going straight into object-oriented programming (OOP) without understanding the fundamentals. I have never taken any formal computer science or game development education, so I just jumped straight into Unity and watched YouTube tutorials. Mainstream game engines do a lot of heavy lifting to abstract away the complexity happening under the hood. If you stay too long working on this abstraction layer, your knowledge and skills will plateau early, and it will be harder to tackle complex projects that require deeper understanding. That is why I recommend studying Assembly, C, C++, and non-OOP paradigms alongside learning game engines. If you have lots of time, I recommend making your own simple game engine just for learning. Get comfortable programming like how it was in the 90s, and gradually move up the abstraction layers.
 
 Another best practice, if it's not already obvious, is to read the manual. The Unity and Unreal documentation, for example, are continously being updated. You would be surprised how much hidden gems are tucked away here. 
 
@@ -35,22 +35,30 @@ Another best practice, if it's not already obvious, is to read the manual. The U
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines.html) (2024) by Bjarne Stroustrup and Herb Sutter
 - [C++ Game Programming](https://www.youtube.com/playlist?list=PL_xRyXins84_Sq7yZkxGP_MgYAH-Zo8Uu) (2024) by Dave Churchill
 - [Thoughts on Modern C++ and Game Dev](https://www.elbeno.com/blog/?p=1598) (2019)
+- [Data-Oriented Design and C++](https://www.youtube.com/watch?v=rX0ItVEVjHc) (2014) by Mike Acton
 
-### Clean Code and Programming Patterns
+### Programming Principles and Patterns
+- [Simplicity](https://flaviocopes.com/simplicity/) (2024) by Flavio Copes
 - [A Short Summary On Clean Coding Best Practices](https://codeburst.io/a-short-summary-on-clean-coding-best-practices-d8afbfa7677) (2021) by Thilina Ashen Gamage
 - [Refactoring Guru](https://refactoring.guru/)
+- [The Law of Demeter by Example](https://medium.com/vattenfall-tech/the-law-of-demeter-by-example-fd7adbf0c324) (2020) by Paweł Pluta
+- [Getting rid of the OOP mindset](https://www.youtube.com/watch?v=GKYCA3UsmrU) (2015) by Casey Muratori
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/) (2014) by Robert Nystrom
+- [Tell Dont Ask](https://martinfowler.com/bliki/TellDontAsk.html) (2013) by Martin Fowler
 - [Summary of “Clean Code” by Robert C. Martin](https://gist.github.com/cedrickchee/55ecfbaac643bf0c24da6874bf4feb08)
 - [C³: Common Coding Conventions](https://github.com/tum-esi/common-coding-conventions)
 - [Purely Functional Retrogames, Part 1](https://prog21.dadgum.com/23.html) (2008) by James Hague
 - [The solution to ‘OOP is Bad’ : ECS](https://docs.spacestation14.com/en/robust-toolbox/ecs.html)
 - [What is an Entity Component System architecture for game development?](https://www.richardlord.net/blog/ecs/what-is-an-entity-framework) () by Richard Lord
+- [KISS and YAGNI](https://blog.codinghorror.com/kiss-and-yagni/) (2004) by Jeff Atwood
+- [Orthogonality and the DRY Principle](https://www.artima.com/articles/orthogonality-and-the-dry-principle) (2003) A Conversation with Andy Hunt and Dave Thomas
 
 ## Game Engine Programming
 - [Learn Game Engine Programming](https://engine-programming.github.io/)
 - [Game Engine Architecture](https://www.gameenginebook.com/) by Jason Gregory
 - [Handmade Hero](https://www.youtube.com/playlist?list=PLnuhp3Xd9PYTt6svyQPyRO_AAuMWGxPzU)
 - [Handmade Hero Notes](https://yakvi.github.io/handmade-hero-notes/)
+- [Wookash Podcast](https://www.youtube.com/@WookashPodcast)
 - [Rendering Engine Architecture Conference](https://enginearchitecture.org/)
 - [Tools to make a Game Engine in C++](https://www.youtube.com/watch?v=qK-GTuhZwUg) (2022) by pikuma
 - [Game Engine Black Book Doom](https://fabiensanglard.net/gebbdoom/)
@@ -108,6 +116,7 @@ If you have that drive, Unity will give you back thousandfold."
 - [Unity Optimization Tips: Mobile & Desktop](https://makaka.org/unity-tutorials/optimization) (2022) by Makaka Games
 
 ### Networking / Multiplayer
+- [Going multiplayer: How to help your studio and game thrive](https://www.youtube.com/watch?v=UiAhrW8i7oA) (2024) by Paolo Abela
 - [Unity Realtime Multiplayer](https://hackernoon.com/unity-realtime-multiplayer-part-1-networking-basics) (2023) by Dimitrii Ivashchenko
 - [Multiplayer Game Architecture in Unity](https://www.youtube.com/watch?v=77vYKsXC4IE) (2020) by Shrine Wars
 - [High Performance Game Networking in Unity3D + Q&A](https://www.youtube.com/watch?v=5b6k_ywdjw4) (2019) by Kyle Olsen and Jason Weimann

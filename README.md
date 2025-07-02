@@ -38,12 +38,16 @@ Another best practice, if it's not already obvious, is to read the manual. The U
 - [Data-Oriented Design and C++](https://www.youtube.com/watch?v=rX0ItVEVjHc) (2014) by Mike Acton
 
 ### Programming Principles and Patterns
+- [Programming Principles](https://github.com/webpro/programming-principles) by Lars Kappert
 - [Simplicity](https://flaviocopes.com/simplicity/) (2024) by Flavio Copes
 - [A Short Summary On Clean Coding Best Practices](https://codeburst.io/a-short-summary-on-clean-coding-best-practices-d8afbfa7677) (2021) by Thilina Ashen Gamage
 - [Refactoring Guru](https://refactoring.guru/)
+- [How Cohesion and Coupling Correlate](https://blog.ttulka.com/how-cohesion-and-coupling-correlate/) (2020) by Tomas Tulka
 - [The Law of Demeter by Example](https://medium.com/vattenfall-tech/the-law-of-demeter-by-example-fd7adbf0c324) (2020) by Paweł Pluta
+- [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM) (2016) by Brian Will
 - [Getting rid of the OOP mindset](https://www.youtube.com/watch?v=GKYCA3UsmrU) (2015) by Casey Muratori
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/) (2014) by Robert Nystrom
+- [Semantic Compression](https://caseymuratori.com/blog_0015) (2014) by Casey Muratori
 - [Tell Dont Ask](https://martinfowler.com/bliki/TellDontAsk.html) (2013) by Martin Fowler
 - [Summary of “Clean Code” by Robert C. Martin](https://gist.github.com/cedrickchee/55ecfbaac643bf0c24da6874bf4feb08)
 - [C³: Common Coding Conventions](https://github.com/tum-esi/common-coding-conventions)
@@ -74,9 +78,14 @@ If you have that drive, Unity will give you back thousandfold."
 - David Helgason, Co-founder of Unity -
 ```
 
+### Blogs nad Articles
+- [Technical deep dive: Unity best practices](https://unity.com/how-to)
+
 ### Sample Projects
 - [Parrot Game Sample](https://www.fab.com/listings/3b06d6ea-4185-472c-9783-22c329aae3fc) (2025)
 - [Unity Open Project #1: Chop Chop](https://github.com/UnityTechnologies/open-project-1)
+- [Multiplayer resource roundup](https://unity.com/blog/engine-platform/multiplayer-resource-roundup) (2024) by Daniel Crough
+- [Start learning data-oriented design in Unity with these resources](https://unity.com/blog/engine-platform/dots-bootcamp-resources) (2024) by Fergus Baird
 
 ### Project Architecture and Programming Patterns
 - [Unity Production Architecture](https://unity-architecture.com/) by Mody
@@ -100,29 +109,46 @@ If you have that drive, Unity will give you back thousandfold."
 - [DeltaTime](https://www.youtube.com/watch?v=yGhfUcPjXuE) (2023) by Jonas Tyroller
 - [How to get a variable from another script in Unity](https://gamedevbeginner.com/how-to-get-a-variable-from-another-script-in-unity-the-right-way/) (2020) by John French
 - [How to Get Variables from Other Scripts in Unity](https://www.youtube.com/watch?v=7gRrujBjsFo) (2020) by Jason Storey
+- [Best practices: Async vs. coroutines](https://www.youtube.com/watch?v=7eKi6NKri6I) (2019) by Johannes Ahvenniemi
+- [GUID Based reference workflow for System Shock 3](https://www.youtube.com/watch?v=6lRzXqfMXRo) (2019) by William Armstrong
 
-### Optimization
-- [When Optimisations Work, But for the Wrong Reasons](https://www.youtube.com/watch?v=hf27qsQPRLQ) (2024) by SimonDev
+### Profiling, Debugging, Optimization
+- [Ultimate guide to profiling Unity games](https://unity.com/resources/ultimate-guide-to-profiling-unity-games) (2023)
+- [Optimize your game performance for mobile](https://unity.com/resources/unity-e-book-optimize-your-mobile-game-performance) (2023)
+- [Optimize your console and PC game performance](https://unity.com/resources/optimize-your-console-and-pc-game-performance) (2023)
+- [BatchRendererGroup sample: Achieve high frame rate even on budget devices](https://unity.com/blog/engine-platform/batchrenderergroup-sample-high-frame-rate-on-budget-devices) (2023) by Arnaud Carre
+- [Advanced Editor scripting hacks to save you time, part 2](https://unity.com/blog/engine-platform/advanced-editor-scripting-hacks-to-save-you-time-part-2) (2022) by Jordi Caballol
+- [Advanced Editor scripting hacks to save you time, part 1](https://unity.com/blog/engine-platform/advanced-editor-scripting-hacks-to-save-you-time-part-1) (2022) by Jordi Caballol
 - [Watch This Before Working on a Big Game in Unity](https://www.youtube.com/watch?v=kML67qB9Chk) (2022) by John Leorid
 - [Performance optimization tips: Physics in Unity](https://www.youtube.com/watch?v=pTz3LMQpvfA) (2021) by Unity 
 - [Optimization tips for maximum performance – Part 1](https://www.youtube.com/watch?v=ZRDHEqy2uPI) (2020) by Unity 
 - [Optimization tips for maximum performance – Part 2](https://www.youtube.com/watch?v=EK8sX8oCQbw) (2020) by Unity 
 - [Fixing Performance Problems](https://learn.unity.com/tutorial/fixing-performance-problems-2019-3-1) (2020) by Unity 
-- [Optimizing Graphics in Unity](https://learn.unity.com/tutorial/optimizing-graphics-in-unity) (2018) by Unity 
 - [Unity's Evolving Best Practices](https://www.youtube.com/watch?v=W45-fsnPhJY) (2018) by Unity
 - [Squeezing Unity: Tips for raising performance](https://www.youtube.com/watch?v=_wxitgdx-UI) (2017) by Unity 
 - [Unity Draw Call Batching: The Ultimate Guide](https://thegamedev.guru/unity-performance/draw-call-optimization/) (2020) by Ruben Torres Bonet
 - [Event Performance: C# vs. UnityEvent](https://www.jacksondunstan.com/articles/3335) (2016) by Jackson Dunstan
 - [Unity Optimization Tips: Mobile & Desktop](https://makaka.org/unity-tutorials/optimization) (2022) by Makaka Games
 
+### Graphics
+- [When Optimisations Work, But for the Wrong Reasons](https://www.youtube.com/watch?v=hf27qsQPRLQ) (2024) by SimonDev
+- [Accessing texture data efficiently](https://unity.com/blog/engine-platform/accessing-texture-data-efficiently) (2023) by Nico Leyman
+- [Unity for technical artists: Key toolsets and workflows](https://unity.com/resources/unity-for-technical-artists-key-toolsets-and-workflows) (2022)
+- [Lightmapping Troubleshooting Guide](https://discussions.unity.com/t/lightmapping-troubleshooting-guide/895352) (2022) by Kristijonas Jalnionis
+- [Deep dive with post processing color grading](https://www.youtube.com/watch?v=1w9p-CrZYCU) (2020) by Nicolas Borromeo and Daniel Sanchez
+- [Optimizing Graphics in Unity](https://learn.unity.com/tutorial/optimizing-graphics-in-unity) (2018) by Unity 
+
+### Addressables
+- [Addressables: Planning and best practices](https://unity.com/blog/engine-platform/addressables-planning-and-best-practices) (2023) by Jeff Riesenmy
+- [Extended Q&A: Optimizing memory and build size with Addressables](https://unity.com/blog/engine-platform/extended-q-a-optimizing-memory-and-build-size-with-addressables) (2023) by Patrick Devarney
+
+
 ### Networking / Multiplayer
+- [The ultimate guide to multiplayer networking for advanced Unity developers](https://unity.com/resources/ultimate-guide-advanced-multiplayer-networking) (2024)
 - [Going multiplayer: How to help your studio and game thrive](https://www.youtube.com/watch?v=UiAhrW8i7oA) (2024) by Paolo Abela
 - [Unity Realtime Multiplayer](https://hackernoon.com/unity-realtime-multiplayer-part-1-networking-basics) (2023) by Dimitrii Ivashchenko
 - [Multiplayer Game Architecture in Unity](https://www.youtube.com/watch?v=77vYKsXC4IE) (2020) by Shrine Wars
 - [High Performance Game Networking in Unity3D + Q&A](https://www.youtube.com/watch?v=5b6k_ywdjw4) (2019) by Kyle Olsen and Jason Weimann
-
-### Blogs nad Articles
-- [Technical deep dive: Unity best practices](https://unity.com/how-to)
 
 ## Unreal Engine
 ```
@@ -215,7 +241,6 @@ enough computational power to simulate reality.”
 
 ### Lighting, Rendering, and Shaders
 - [Advanced Rendering and Debugging Tips](https://www.youtube.com/watch?v=ICA0ZGMfufI) (2024) by Nori Shinoyama and Yutaro Sawada
-- [Battle-Testing UE5 Next-Gen Systems with Fortnite](https://www.youtube.com/watch?v=05FCjQR--Sc) (2023) by Paul Mader
 - [The Journey to Nanite](https://www.youtube.com/watch?v=NRnj_lnpORU) (2022) by Brian Karis
 - [A Deep Dive into Nanite Virtualized Geometry](https://www.youtube.com/watch?v=eviSykqSUUw) (2021) by Brian Karis, Rune Stubbe, Graham Wihlidal
 - [An In-Depth Look at Real-Time Rendering](https://www.unrealengine.com/en-US/onlinelearning-courses/an-in-depth-look-at-real-time-rendering) (2019) by Sjoerd de Jong

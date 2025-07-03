@@ -173,6 +173,7 @@ enough computational power to simulate reality.”
 - [Open Unreal Conventions](https://jonasreich.github.io/OpenUnrealConventions/) by Jonas Reich
 
 ### C++ / Blueprints
+- [UPROPERTY](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-uproperties) in docs
 - [Actor Lifecycle](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-actor-lifecycle) in docs
 - [Advanced Blueprinting Techniques](https://www.youtube.com/watch?v=IIr4-cpbKog) (2024) by Matt Oztalay
 - [De-spaghetti Your Blueprints, the Scientific Way](https://www.youtube.com/watch?v=1SH9DBlfE4I) (2024) by Valentin Galea
@@ -186,6 +187,7 @@ enough computational power to simulate reality.”
 - [Unreal C++ speedrun](https://landelare.github.io/2023/01/07/cpp-speedrun.html) (2023) by Laura Andelare
 - Mr Robin’s [Guide to Unreal Engine C++](https://github.com/MrRobinOfficial/Guide-UnrealEngine)
 - [Balancing Blueprint and C++](https://dev.epicgames.com/documentation/en-us/unreal-engine/balancing-blueprint-and-cplusplus?application_version=4.27) and [learning course](https://dev.epicgames.com/community/learning/courses/bY/unreal-engine-balancing-blueprint-and-c-in-game-development/LdK/introduction-to-the-course)
+- [What is Class Default Object?](https://forums.unrealengine.com/t/what-is-cdo/310820)
 
 ### Project Architecture and Design Patterns
 - [The Unreal Engine Game Framework: From int main() to BeginPlay](https://www.youtube.com/watch?v=IaU2Hue-ApI) (2020) by Alex Forsythe

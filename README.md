@@ -186,7 +186,7 @@ enough computational power to simulate reality.”
 - [Unreal Engine C++ Complete Guide](https://www.tomlooman.com/unreal-engine-cpp-guide/) (2023) by Tom Looman
 - [Unreal C++ speedrun](https://landelare.github.io/2023/01/07/cpp-speedrun.html) (2023) by Laura Andelare
 - Mr Robin’s [Guide to Unreal Engine C++](https://github.com/MrRobinOfficial/Guide-UnrealEngine)
-- [Balancing Blueprint and C++](https://dev.epicgames.com/documentation/en-us/unreal-engine/balancing-blueprint-and-cplusplus?application_version=4.27) and [learning course](https://dev.epicgames.com/community/learning/courses/bY/unreal-engine-balancing-blueprint-and-c-in-game-development/LdK/introduction-to-the-course)
+- [Balancing Blueprint and C++](https://dev.epicgames.com/documentation/en-us/unreal-engine/balancing-blueprint-and-cplusplus?application_version=4.27) and [learning course](https://dev.epicgames.com/community/learning/courses/bY/unreal-engine-balancing-blueprint-and-c-in-game-development/LdK/introduction-to-the-course) and [another learning course](https://dev.epicgames.com/community/learning/courses/NGA/unreal-engine-balancing-blueprints-and-c/e9xq/unreal-engine-balancing-blueprints-and-c-overview)
 - [What is Class Default Object?](https://forums.unrealengine.com/t/what-is-cdo/310820)
 
 ### Project Architecture and Design Patterns

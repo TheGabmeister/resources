@@ -353,7 +353,10 @@ You have to see it for yourself."
 - [Oculus Quest Performance Tools in Unreal Engine](https://medium.com/realities-io/oculus-quest-performance-tools-in-unreal-engine-2210f2581c8f) (2020) by Shahriar Shahrabi
 
 ### XR in Unity
-- [XR](https://docs.unity3d.com/6000.0/Documentation/Manual/XR.html) in Unity Documentation
+- [XR](https://docs.unity3d.com/6000.0/Documentation/Manual/XR.html) in Docs
+- [VR Template](https://docs.unity3d.com/Packages/com.unity.template.vr@9.1/manual/index.html) in Docs
+- [Mixed Reality Template](https://docs.unity3d.com/Packages/com.unity.template.mixed-reality@2.1/manual/index.html) in Docs
+- [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.2/manual/index.html) in Docs
 - [Performance recommendations for Unity](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/performance-recommendations-for-unity) (2022) in Microsoft Documentation
 - [VR Optimization and Performance Tips for Unity](https://www.youtube.com/watch?v=xqgt9W4Zrjg) (2021) by VRwithAndrew
 

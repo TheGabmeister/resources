@@ -60,6 +60,7 @@ Another best practice, if it's not already obvious, is to read the manual. The U
 ## Game Engine Programming
 - [Learn Game Engine Programming](https://engine-programming.github.io/)
 - [Game Engine Architecture](https://www.gameenginebook.com/) by Jason Gregory
+- [Rendering Engine Architecture Conference](https://enginearchitecture.org/)
 - [Handmade Hero](https://www.youtube.com/playlist?list=PLnuhp3Xd9PYTt6svyQPyRO_AAuMWGxPzU)
 - [Handmade Hero Notes](https://yakvi.github.io/handmade-hero-notes/)
 - [Wookash Podcast](https://www.youtube.com/@WookashPodcast)

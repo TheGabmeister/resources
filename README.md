@@ -38,6 +38,7 @@ Another best practice, if it's not already obvious, is to read the manual. The U
 - [Data-Oriented Design and C++](https://www.youtube.com/watch?v=rX0ItVEVjHc) (2014) by Mike Acton
 
 ### Programming Principles and Patterns
+- [The Big OOPs: Anatomy of a Thirty-five-year Mistake](https://www.youtube.com/watch?v=wo84LFzx5nI) (2025) by Casey Muratori
 - [Programming Principles](https://github.com/webpro/programming-principles) by Lars Kappert
 - [Simplicity](https://flaviocopes.com/simplicity/) (2024) by Flavio Copes
 - [A Short Summary On Clean Coding Best Practices](https://codeburst.io/a-short-summary-on-clean-coding-best-practices-d8afbfa7677) (2021) by Thilina Ashen Gamage
@@ -81,6 +82,7 @@ If you have that drive, Unity will give you back thousandfold."
 
 ### Blogs nad Articles
 - [Technical deep dive: Unity best practices](https://unity.com/how-to)
+- [Game Dev Digest](https://gamedevdigest.com/digests.html)
 
 ### Sample Projects
 - [Parrot Game Sample](https://www.fab.com/listings/3b06d6ea-4185-472c-9783-22c329aae3fc) (2025)
@@ -162,6 +164,7 @@ enough computational power to simulate reality.”
 ### Sample Projects
 - [Lyra Sample Game](https://dev.epicgames.com/documentation/en-us/unreal-engine/lyra-sample-game-in-unreal-engine) with [learning path](https://dev.epicgames.com/community/learning/paths/Z4/lyra-starter-game)
 - [Parrot Game Sample](https://dev.epicgames.com/documentation/en-us/unreal-engine/parrot-game-sample-for-unreal-engine) with [video](https://www.youtube.com/watch?v=G8GrRA-8BHA) and [documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/parrot-game-sample-for-unreal-engine)
+- [ActionRPG](https://github.com/vahabahmadvand/ActionRPG_UE5) updated to UE5
 - [Action Roguelike C++](https://github.com/tomlooman/ActionRoguelike) by Tom Looman
 
 ### Project Management, CI/CD, Version Control
@@ -354,7 +357,7 @@ You have to see it for yourself."
 - [Oculus Quest Performance Tools in Unreal Engine](https://medium.com/realities-io/oculus-quest-performance-tools-in-unreal-engine-2210f2581c8f) (2020) by Shahriar Shahrabi
 
 ### XR in Unity
-- [XR](https://docs.unity3d.com/6000.0/Documentation/Manual/XR.html) in Docs
+- [XR](https://docs.unity3d.com/6000.1/Documentation/Manual/XR.html) in Docs
 - [VR Template](https://docs.unity3d.com/Packages/com.unity.template.vr@9.1/manual/index.html) in Docs
 - [Mixed Reality Template](https://docs.unity3d.com/Packages/com.unity.template.mixed-reality@2.1/manual/index.html) in Docs
 - [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.2/manual/index.html) in Docs

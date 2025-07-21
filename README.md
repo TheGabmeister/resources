@@ -194,8 +194,10 @@ enough computational power to simulate reality.”
 - [What is Class Default Object?](https://forums.unrealengine.com/t/what-is-cdo/310820)
 
 ### Project Architecture and Design Patterns
+- [Components vs Interfaces vs Abstract Classes (When to Use What?)](https://www.youtube.com/watch?v=tYwN7XPayhE) (2024) by AmrMakesGames
 - [The Unreal Engine Game Framework: From int main() to BeginPlay](https://www.youtube.com/watch?v=IaU2Hue-ApI) (2020) by Alex Forsythe
 - [State Design Pattern in Unreal Engine Blueprint](https://www.youtube.com/watch?v=Eh-ONuMYADA) (2020) by Paul Gestwicki
+
 
 ### Data Management
 - [Working with Data in Unreal Engine](https://dev.epicgames.com/community/learning/tutorials/Gp9j/working-with-data-in-unreal-engine-data-tables-data-assets-uproperty-specifiers-and-more) (2024) with [video](https://www.youtube.com/watch?v=HOpyZ8552oA) by JackDCondon

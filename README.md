@@ -45,11 +45,14 @@ Another best practice, if it's not already obvious, is to read the manual. The U
 - [Refactoring Guru](https://refactoring.guru/)
 - [How Cohesion and Coupling Correlate](https://blog.ttulka.com/how-cohesion-and-coupling-correlate/) (2020) by Tomas Tulka
 - [The Law of Demeter by Example](https://medium.com/vattenfall-tech/the-law-of-demeter-by-example-fd7adbf0c324) (2020) by Paweł Pluta
+- [The Toolbox Fallacy](https://www.youtube.com/watch?v=sz4YqwH_6D0) (2019) by Passion of the Nerd
 - [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM) (2016) by Brian Will
 - [Getting rid of the OOP mindset](https://www.youtube.com/watch?v=GKYCA3UsmrU) (2015) by Casey Muratori
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/) (2014) by Robert Nystrom
 - [Semantic Compression](https://caseymuratori.com/blog_0015) (2014) by Casey Muratori
+- [“The Door Problem”](https://lizengland.com/blog/the-door-problem/) (2014) by Liz England
 - [Tell Dont Ask](https://martinfowler.com/bliki/TellDontAsk.html) (2013) by Martin Fowler
+- [Startup Suicide – Rewriting the Code](https://steveblank.com/2011/01/25/startup-suicide-%E2%80%93-rewriting-the-code/) (2011) by Steve Blank
 - [Summary of “Clean Code” by Robert C. Martin](https://gist.github.com/cedrickchee/55ecfbaac643bf0c24da6874bf4feb08)
 - [C³: Common Coding Conventions](https://github.com/tum-esi/common-coding-conventions)
 - [Purely Functional Retrogames, Part 1](https://prog21.dadgum.com/23.html) (2008) by James Hague
@@ -378,6 +381,7 @@ You have to see it for yourself."
 
 ### Others
 - [The Ultimate XR Developers Resource Guide](https://github.com/authorTom/ultimate-XR-dev-guide) by authorTom
+- [New World Notes](https://nwn.blogs.com/) by Wagner James "Hamlet" Au
 
 ## Networking / Multiplayer
 ```

@@ -331,6 +331,7 @@ You have to see it for yourself."
 - [Meta Horizon OS Developers](https://developers.meta.com/horizon/develop/)
 - [Code Samples](https://developer.oculus.com/code-samples/)
 - [Capture MR and VR Apps for Publishing](https://developers.meta.com/horizon/resources/video-capture-mr-vr/)
+- [Building Content to Optimize User Time](https://developers.meta.com/horizon/blog/optimize-user-time-goldilocks-session-length-meta-quest/) (2025)
 - [Making a Mesh: Global Mesh Destruction in First Encounters](https://developers.meta.com/horizon/blog/scene-mesh-destruction-first-encounters-meta-quest-developers-mixed-reality/) (2023)
 - [How to Improve Unreal Engine Material Shader with Adreno Offline Compiler](https://developers.meta.com/horizon/blog/unreal-engine-adreno-offline-compiler-meta-quest/) (2023)
 - [Improve App Image Quality with Meta Quest Super Resolution](https://developers.meta.com/horizon/blog/vr-image-quality-meta-quest-super-resolution/) (2023)

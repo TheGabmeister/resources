@@ -394,6 +394,7 @@ but they stay because of all the things they can be."
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/) (2025) by Brian Hall
 - [Choosing the right network model for your multiplayer game](https://mas-bandwidth.com/choosing-the-right-network-model-for-your-multiplayer-game/) (2024) by Glenn Fiedler
 - [The Ultimate Guide to Forwarding Ports in Your Router](https://portforward.com/how-to-port-forward/) (2021) by Jason Bauer
+- [The Loner: Why Some People Play MMOs Alone](https://www.youtube.com/watch?v=b2l2ZxNhCSg) (2018) by Damion Schubert
 - [Netcode 101 - What You Need To Know](https://www.youtube.com/watch?v=hiHP0N-jMx8) (2017) by Battle(non)sense
 - [Gaffer On Games Articles](https://gafferongames.com/) by Glenn Fiedler
 - [BaaS + Game Server Comparison Sheet](https://docs.google.com/spreadsheets/d/1x0eok6EZzigar_K3QNdzTYNhp5NLywLGqBuopKiVzao/) by Imperium42

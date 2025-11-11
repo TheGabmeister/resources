@@ -156,6 +156,11 @@ If you have that drive, Unity will give you back thousandfold."
 - [Multiplayer Game Architecture in Unity](https://www.youtube.com/watch?v=77vYKsXC4IE) (2020) by Shrine Wars
 - [High Performance Game Networking in Unity3D + Q&A](https://www.youtube.com/watch?v=5b6k_ywdjw4) (2019) by Kyle Olsen and Jason Weimann
 
+### Assets and Plugins
+- [Unity guid-based-reference](https://github.com/Unity-Technologies/guid-based-reference)
+- [Unity HFSM](https://github.com/Inspiaaa/UnityHFSM)
+- [PrimeTween](https://github.com/KyryloKuzyk/PrimeTween) and [LitMotion](https://github.com/annulusgames/LitMotion)
+
 ## Unreal Engine
 ```
 “Within our lifetimes, we will be able to push out 

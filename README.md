@@ -503,6 +503,9 @@ The [Polycount Wiki](http://wiki.polycount.com/wiki/Polycount) is "a catalog of 
 - [WHY Your portfolio needs to be on ArtStation](https://www.polygon-academy.com/why-your-portfolio-needs-to-be-on-artstation/) (2018) by Tim Simpson
 - [The Death of Curiosity](https://polycount.com/discussion/171153/the-death-of-curiosity) (2016) by Joe "EarthQuake" Wilson
 
+## Blender Addons
+- [Blender To Unity FBX Exporter](https://github.com/EdyJ/blender-to-unity-fbx-exporter)
+
 ## CC0 Assets
 - [OpenGameArt](https://opengameart.org/) filter by license
 - [Kenney](https://kenney.nl/)

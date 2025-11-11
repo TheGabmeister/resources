@@ -160,6 +160,7 @@ If you have that drive, Unity will give you back thousandfold."
 - [Unity guid-based-reference](https://github.com/Unity-Technologies/guid-based-reference)
 - [Unity HFSM](https://github.com/Inspiaaa/UnityHFSM)
 - [PrimeTween](https://github.com/KyryloKuzyk/PrimeTween) and [LitMotion](https://github.com/annulusgames/LitMotion)
+- [Unity toolbar extender](https://github.com/marijnz/unity-toolbar-extender)
 
 ## Unreal Engine
 ```

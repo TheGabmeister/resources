@@ -161,6 +161,7 @@ If you have that drive, Unity will give you back thousandfold."
 - [Unity HFSM](https://github.com/Inspiaaa/UnityHFSM)
 - [PrimeTween](https://github.com/KyryloKuzyk/PrimeTween) and [LitMotion](https://github.com/annulusgames/LitMotion)
 - [Unity toolbar extender](https://github.com/marijnz/unity-toolbar-extender)
+- [Fast Script Reload](https://github.com/handzlikchris/FastScriptReload)
 
 ## Unreal Engine
 ```

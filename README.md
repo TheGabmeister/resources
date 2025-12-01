@@ -148,6 +148,8 @@ If you have that drive, Unity will give you back thousandfold."
 - [Addressables: Planning and best practices](https://unity.com/blog/engine-platform/addressables-planning-and-best-practices) (2023) by Jeff Riesenmy
 - [Extended Q&A: Optimizing memory and build size with Addressables](https://unity.com/blog/engine-platform/extended-q-a-optimizing-memory-and-build-size-with-addressables) (2023) by Patrick Devarney
 
+### UI
+- [Unity UI Toolkit vs UGUI](https://www.angry-shark-studio.com/blog/unity-ui-toolkit-vs-ugui-2025-guide/)
 
 ### Networking / Multiplayer
 - [The ultimate guide to multiplayer networking for advanced Unity developers](https://unity.com/resources/ultimate-guide-advanced-multiplayer-networking) (2024)

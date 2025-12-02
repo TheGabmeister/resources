@@ -157,6 +157,7 @@ If you have that drive, Unity will give you back thousandfold."
 - [Unity Realtime Multiplayer](https://hackernoon.com/unity-realtime-multiplayer-part-1-networking-basics) (2023) by Dimitrii Ivashchenko
 - [Multiplayer Game Architecture in Unity](https://www.youtube.com/watch?v=77vYKsXC4IE) (2020) by Shrine Wars
 - [High Performance Game Networking in Unity3D + Q&A](https://www.youtube.com/watch?v=5b6k_ywdjw4) (2019) by Kyle Olsen and Jason Weimann
+- [Netcode for GameObjects Bitesize Samples](https://github.com/Unity-Technologies/com.unity.multiplayer.samples.bitesize)
 
 ### Assets and Plugins
 - [Unity guid-based-reference](https://github.com/Unity-Technologies/guid-based-reference)

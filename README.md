@@ -84,7 +84,7 @@ If you have that drive, Unity will give you back thousandfold."
 - David Helgason, Co-founder of Unity -
 ```
 
-### Blogs nad Articles
+### Blogs and Articles
 - [Technical deep dive: Unity best practices](https://unity.com/how-to)
 - [Game Dev Digest](https://gamedevdigest.com/digests.html)
 

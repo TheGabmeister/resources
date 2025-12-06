@@ -90,7 +90,7 @@ If you have that drive, Unity will give you back thousandfold."
 
 ### Sample Projects
 - [Parrot Game Sample](https://www.fab.com/listings/3b06d6ea-4185-472c-9783-22c329aae3fc) with [documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/parrot-game-sample-for-unreal-engine) (2025)
-- [Unity Open Project #1: Chop Chop](https://github.com/UnityTechnologies/open-project-1)
+- [Unity Open Project #1: Chop Chop](https://github.com/UnityTechnologies/open-project-1) with [Wiki](https://github.com/UnityTechnologies/open-project-1/wiki) (2021)
 - [Multiplayer resource roundup](https://unity.com/blog/engine-platform/multiplayer-resource-roundup) (2024) by Daniel Crough
 - [Start learning data-oriented design in Unity with these resources](https://unity.com/blog/engine-platform/dots-bootcamp-resources) (2024) by Fergus Baird
 

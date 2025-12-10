@@ -41,6 +41,7 @@ Another best practice, if it's not already obvious, is to read the manual. The U
 - [Why Engineers Can't Be Rational About Programming Languages](https://spf13.com/p/the-hidden-conversation/) (2025) by Steve Francia
 - [The Big OOPs: Anatomy of a Thirty-five-year Mistake](https://www.youtube.com/watch?v=wo84LFzx5nI) (2025) by Casey Muratori
 - [Programming Principles](https://github.com/webpro/programming-principles) by Lars Kappert
+- [Code The Rules, Script The Exceptions](https://www.youtube.com/watch?v=ljnaL7N5qtw) (2024) by Timothy Cain 
 - [Simplicity](https://flaviocopes.com/simplicity/) (2024) by Flavio Copes
 - [A Short Summary On Clean Coding Best Practices](https://codeburst.io/a-short-summary-on-clean-coding-best-practices-d8afbfa7677) (2021) by Thilina Ashen Gamage
 - [Refactoring Guru](https://refactoring.guru/)

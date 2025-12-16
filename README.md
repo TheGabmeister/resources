@@ -441,7 +441,7 @@ but they stay because of all the things they can be."
 
 - Leonardo da Vinci -
 ```
-###Polycount Wiki
+### Polycount Wiki
 The [Polycount Wiki](http://wiki.polycount.com/wiki/Polycount) is "a catalog of information aimed at game development artists; whether professional, student, or hobbyist." To be honest, this is the only resource you need if you're starting out as a 3D Game Artist. It covers all the topics. Don't be fooled by the old-school UI. This is the place where the AAA game artists hang-out. I'll try and hand-pick a couple of links which are pertinent to 3D environment art:
 
 ### Environment Art Theory

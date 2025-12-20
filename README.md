@@ -193,7 +193,6 @@ enough computational power to simulate reality.”
 - [Open Unreal Conventions](https://jonasreich.github.io/OpenUnrealConventions/) by Jonas Reich
 
 ### C++ / Blueprints
-- [UPROPERTY](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-uproperties) in docs
 - [Actor Lifecycle](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-actor-lifecycle) in docs
 - [Advanced Blueprinting Techniques](https://www.youtube.com/watch?v=IIr4-cpbKog) (2024) by Matt Oztalay
 - [De-spaghetti Your Blueprints, the Scientific Way](https://www.youtube.com/watch?v=1SH9DBlfE4I) (2024) by Valentin Galea

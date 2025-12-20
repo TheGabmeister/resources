@@ -161,12 +161,13 @@ If you have that drive, Unity will give you back thousandfold."
 - [High Performance Game Networking in Unity3D + Q&A](https://www.youtube.com/watch?v=5b6k_ywdjw4) (2019) by Kyle Olsen and Jason Weimann
 - [Netcode for GameObjects Bitesize Samples](https://github.com/Unity-Technologies/com.unity.multiplayer.samples.bitesize)
 
-### Assets and Plugins
+### Free Assets and Plugins
 - [Unity guid-based-reference](https://github.com/Unity-Technologies/guid-based-reference)
 - [Unity HFSM](https://github.com/Inspiaaa/UnityHFSM)
 - [PrimeTween](https://github.com/KyryloKuzyk/PrimeTween) and [LitMotion](https://github.com/annulusgames/LitMotion)
 - [Unity toolbar extender](https://github.com/marijnz/unity-toolbar-extender)
 - [Fast Script Reload](https://github.com/handzlikchris/FastScriptReload)
+- [Asset Usage Detector](https://github.com/yasirkula/UnityAssetUsageDetector)
 
 ## Unreal Engine
 ```
@@ -441,7 +442,7 @@ but they stay because of all the things they can be."
 
 - Leonardo da Vinci -
 ```
-###Polycount Wiki
+### Polycount Wiki
 The [Polycount Wiki](http://wiki.polycount.com/wiki/Polycount) is "a catalog of information aimed at game development artists; whether professional, student, or hobbyist." To be honest, this is the only resource you need if you're starting out as a 3D Game Artist. It covers all the topics. Don't be fooled by the old-school UI. This is the place where the AAA game artists hang-out. I'll try and hand-pick a couple of links which are pertinent to 3D environment art:
 
 ### Environment Art Theory

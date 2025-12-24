@@ -77,6 +77,9 @@ Another best practice, if it's not already obvious, is to read the manual. The U
 - [How to write a game engine in pure C](https://prdeving.wordpress.com/2019/05/30/how-to-write-a-game-engine-in-pure-c-part-1-state-manager/) (2019) by PRDeving
 - YouTube Series: [The Cherno Game Engine](https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT) (2018), [Kohi Game Engine](https://www.youtube.com/playlist?list=PLv8Ddw9K0JPg1BEO-RS-0MYs423cvLVtj) (2021)
 
+### Productivity
+- Visual Studio vs Jetbrains Rider comparisons [1](https://www.youtube.com/watch?v=mpOighpYCvU) [2](https://medium.com/@whardwicksmith/visual-studio-vs-rider-904d63d88f53) [3](https://visualstudiomagazine.com/articles/2024/10/28/compare-new-non-commercial-jetbrains-rider-with-visual-studio-community-edition.aspx)
+
 ## Unity
 ```
 "I think the unmissable "skill" is the drive to create. 

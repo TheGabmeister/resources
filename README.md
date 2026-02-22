@@ -171,6 +171,7 @@ If you have that drive, Unity will give you back thousandfold."
 - [Unity toolbar extender](https://github.com/marijnz/unity-toolbar-extender)
 - [Fast Script Reload](https://github.com/handzlikchris/FastScriptReload)
 - [Asset Usage Detector](https://github.com/yasirkula/UnityAssetUsageDetector)
+- [Editor File Extensions](https://gist.github.com/PROGrand/917e4663f161d6f48104f8cd9808cb30)
 
 ## Unreal Engine
 ```

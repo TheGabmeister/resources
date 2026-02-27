@@ -386,6 +386,9 @@ You have to see it for yourself."
 - [Performance recommendations for Unity](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/performance-recommendations-for-unity) (2022) in Microsoft Documentation
 - [VR Optimization and Performance Tips for Unity](https://www.youtube.com/watch?v=xqgt9W4Zrjg) (2021) by VRwithAndrew
 
+### Tools
+- [localsend](https://localsend.org/) for Desktop-Quest APK file transfers
+
 ### VR Rendering Issues
 - [UNITY Aliasing FIX, Jaggy Noisy Blinking edges in VR URP](https://www.youtube.com/watch?v=_fKaESkzPT0) (2024) by NikoVR
 - [Flickering in Unity VR: Fix Flickering and Pixel Noise on Edge](https://www.youtube.com/watch?v=Lls93SG94Os) (2023) by Roadway VR

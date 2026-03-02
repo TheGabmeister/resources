@@ -439,6 +439,9 @@ but they stay because of all the things they can be."
 - <https://generativeai.pub>
 - [Every Way To Get Structured Output From LLMs](https://www.boundaryml.com/blog/structured-output-from-llms) (May, 2024) by Sam Lijin
 
+### OpenClaw
+- [Awesome OpenClaw Use Cases](https://github.com/hesamsheikh/awesome-openclaw-usecases)
+
 ### Publications
 - [Good AI Podcasts and Newsletters](https://github.com/swyxio/ai-notes/blob/main/Resources/Good%20AI%20Podcasts%20and%20Newsletters.md) by swyx
 

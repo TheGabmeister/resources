@@ -433,6 +433,9 @@ but they stay because of all the things they can be."
 - [Comprehensive Guide to Chain-of-Thought Prompting](https://www.mercity.ai/blog-post/guide-to-chain-of-thought-prompting) by Maithili Badhan
 - [Advanced Prompt Engineering Techniques](https://www.mercity.ai/blog-post/advanced-prompt-engineering-techniques) by Maithili Badhan
 
+### AI Agents
+- [Spec Driven Development](https://alexop.dev/posts/spec-driven-development-claude-code-in-action/) (Feb, 2026) by Alexander Opalic
+
 ### Generative AI
 - [Microsoft Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)
 - [Generative AI Handbook](https://genai-handbook.github.io/#) (June, 2024) by William Brown

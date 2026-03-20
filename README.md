@@ -17,6 +17,8 @@ Another best practice, if it's not already obvious, is to read the manual. The U
 - [The Hacker Mindset](https://dev.to/fluffynuts/the-hacker-mindset-p2f) (2019) by Davyd McColl
 - [Just-In-Case vs. Just-In-Time Learning](https://hackernoon.com/just-in-case-vs-just-in-time-learning-c87f61d24360) (2018) by Osman (Ozzie) Ahmed Osman
 - [How Developers Stop Learning: Rise of the Expert Beginner](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/) (2013) by Erik Dietrich
+- [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
+- [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
 
 ### Assembly
 - Assembly Language for x86 Processors, 8th edition (2019) book by Kip R. Irvine

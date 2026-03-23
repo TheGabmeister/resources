@@ -437,6 +437,7 @@ but they stay because of all the things they can be."
 
 ### AI Agents
 - [Spec Driven Development](https://alexop.dev/posts/spec-driven-development-claude-code-in-action/) (Feb, 2026) by Alexander Opalic
+- [claude-devtools](https://github.com/matt1398/claude-devtools)
 
 ### Generative AI
 - [Microsoft Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)
@@ -449,6 +450,11 @@ but they stay because of all the things they can be."
 
 ### Publications
 - [Good AI Podcasts and Newsletters](https://github.com/swyxio/ai-notes/blob/main/Resources/Good%20AI%20Podcasts%20and%20Newsletters.md) by swyx
+
+## Web Development
+
+### Blogs and Newsletters
+- [stack by Convex](https://stack.convex.dev/)
 
 ## 3D Environment Art
 ```

@@ -1,5 +1,5 @@
 # The Gabmeister Resources
-This page is a collection of links I have found useful throughout my career (mostly Unity, Unreal, VR, and AR). I’m constantly updating this list, removing old items and adding new ones. I try to remove those that are older than 5 years old. However, there are exceptions which I truly believe contain information that are relevant today. 
+This is a collection of links I have found useful throughout my career (mostly Unity, Unreal, VR, and AR). I’m constantly updating this list, removing old items and adding new ones. I try to remove those that are older than 5 years old. However, there are exceptions that I truly believe contain information still relevant today. 
 
 One major shift that happened recently was the advent of AI. Large language models (LLMs) made a lot of beginner-level resources obsolete. We used to scavange the depths of online forums and stack overflow looking for "how-to" tutorials. Nowadays, we ask AI first, and do a search only if the answer is inadequate. This is why I will focus on resources that I think add value on top of what AI can already provide. 
 

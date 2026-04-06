@@ -37,6 +37,7 @@ Another best practice, if it's not already obvious, is to read the manual. The U
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines.html) (2024) by Bjarne Stroustrup and Herb Sutter
 - [C++ Game Programming](https://www.youtube.com/playlist?list=PL_xRyXins84_Sq7yZkxGP_MgYAH-Zo8Uu) (2024) by Dave Churchill
 - [Thoughts on Modern C++ and Game Dev](https://www.elbeno.com/blog/?p=1598) (2019)
+- ["Modern C++ Lamentations"](https://aras-p.info/blog/2018/12/28/Modern-C-Lamentations/) (2018) by Aras Pranckevičius
 - [Data-Oriented Design and C++](https://www.youtube.com/watch?v=rX0ItVEVjHc) (2014) by Mike Acton
 
 ### Programming Principles and Patterns

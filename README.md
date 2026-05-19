@@ -168,6 +168,7 @@ If you have that drive, Unity will give you back thousandfold."
 - [Netcode for GameObjects Bitesize Samples](https://github.com/Unity-Technologies/com.unity.multiplayer.samples.bitesize)
 
 ### Free Assets and Plugins
+- [Unity Control Protocol](https://github.com/mflRevan/unity-control-protocol)
 - [Unity guid-based-reference](https://github.com/Unity-Technologies/guid-based-reference)
 - [Unity HFSM](https://github.com/Inspiaaa/UnityHFSM)
 - [PrimeTween](https://github.com/KyryloKuzyk/PrimeTween) and [LitMotion](https://github.com/annulusgames/LitMotion)

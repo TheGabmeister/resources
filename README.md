@@ -41,6 +41,7 @@ Another best practice, if it's not already obvious, is to read the manual. The U
 - [Data-Oriented Design and C++](https://www.youtube.com/watch?v=rX0ItVEVjHc) (2014) by Mike Acton
 
 ### Programming Principles and Patterns
+- [Entity Component System FAQ](https://github.com/SanderMertens/ecs-faq) by Sander Mertens
 - [Why Engineers Can't Be Rational About Programming Languages](https://spf13.com/p/the-hidden-conversation/) (2025) by Steve Francia
 - [The Big OOPs: Anatomy of a Thirty-five-year Mistake](https://www.youtube.com/watch?v=wo84LFzx5nI) (2025) by Casey Muratori
 - [Programming Principles](https://github.com/webpro/programming-principles) by Lars Kappert

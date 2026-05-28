@@ -47,6 +47,7 @@ Another best practice, if it's not already obvious, is to read the manual. The U
 - [Programming Principles](https://github.com/webpro/programming-principles) by Lars Kappert
 - [Code The Rules, Script The Exceptions](https://www.youtube.com/watch?v=ljnaL7N5qtw) (2024) by Timothy Cain 
 - [Simplicity](https://flaviocopes.com/simplicity/) (2024) by Flavio Copes
+- [The Flaws of Inheritance](https://www.youtube.com/watch?v=hxGOiiR9ZKg) (2022) by CodeAesthetic
 - [A Short Summary On Clean Coding Best Practices](https://codeburst.io/a-short-summary-on-clean-coding-best-practices-d8afbfa7677) (2021) by Thilina Ashen Gamage
 - [Refactoring Guru](https://refactoring.guru/)
 - [How Cohesion and Coupling Correlate](https://blog.ttulka.com/how-cohesion-and-coupling-correlate/) (2020) by Tomas Tulka

@@ -339,6 +339,7 @@ enough computational power to simulate reality.”
 
 ## Godot
 - [How to Minify Godot's Build Size (93MB -> 6.4MB exe)](https://popcar.bearblog.dev/how-to-minify-godots-build-size/)
+- [Environment and Light in Godot: Setting Up For Photorealistic 3D Graphics](https://hexaquo.at/pages/environment-and-light-in-godot-setting-up-for-photorealistic-3d-graphics/) (2025) by Karl Bittner
 - [This is THE way to implement interfaces in Godot](https://xynanlee.substack.com/p/this-is-the-way-to-implement-interfaces) (2025) by Xynan Lee
 - [Enjoyable Game Architecture](https://chickensoft.games/blog/game-architecture) (2023) by Joanna May 
 

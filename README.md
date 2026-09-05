@@ -454,6 +454,7 @@ but they stay because of all the things they can be."
 - [Awesome OpenClaw Use Cases](https://github.com/hesamsheikh/awesome-openclaw-usecases)
 
 ### Publications
+- [AI Weekly](https://aiweekly.co/) - Discover what AI experts are reading and sharing right now.
 - [Good AI Podcasts and Newsletters](https://github.com/swyxio/ai-notes/blob/main/Resources/Good%20AI%20Podcasts%20and%20Newsletters.md) by swyx
 
 ## Web Development

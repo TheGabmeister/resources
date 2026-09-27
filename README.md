@@ -121,6 +121,7 @@ If you have that drive, Unity will give you back thousandfold."
 - [Inversion of Control with Unity](https://www.sebaslab.com/ioc-container-unity-part-1/) (2012)
 
 ### C# Programming
+- [On Async/Await with Awaitables as a Coroutine replacement](https://discussions.unity.com/t/on-async-await-with-awaitables-as-a-coroutine-replacement/1554090) (2024)
 - [Create a C# style guide: Write cleaner code that scales](https://unity.com/resources/create-code-c-sharp-style-guide-e-book) (2023) by Unity
 - [DeltaTime](https://www.youtube.com/watch?v=yGhfUcPjXuE) (2023) by Jonas Tyroller
 - [How to get a variable from another script in Unity](https://gamedevbeginner.com/how-to-get-a-variable-from-another-script-in-unity-the-right-way/) (2020) by John French

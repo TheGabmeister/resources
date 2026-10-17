@@ -388,6 +388,7 @@ You have to see it for yourself."
 
 ### XR in Unity
 - [MR Motifs](https://github.com/oculus-samples/Unity-MRMotifs) samples
+- [QuestCameraKit](https://github.com/xrdevrob/QuestCameraKit) by Roberto Coviello
 - [Performance recommendations for Unity](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/performance-recommendations-for-unity) (2022) in Microsoft Documentation
 - [VR Optimization and Performance Tips for Unity](https://www.youtube.com/watch?v=xqgt9W4Zrjg) (2021) by VRwithAndrew
 
